@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Btn from "../components/btn";
+import Btn from "../components/utils/Btn";
 
 function FormView() {
   // Estado para guardar los datos de los inputs

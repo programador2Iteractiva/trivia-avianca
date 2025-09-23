@@ -1,6 +1,6 @@
 import React from "react";
-import Btn from "../components/btn";
-import Alert from "../components/Alert";
+import Btn from "../components/utils/Btn";
+import Alert from "../components/utils/Alert";
 
 function HomeView() {
   return (

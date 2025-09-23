@@ -1,10 +1,11 @@
 import { createBrowserRouter } from "react-router-dom";
 import HomeView from "./views/HomeView";
 import FormView from "./views/FormView";
-import AwardsViews from "./views/AwardsViews";
-import InstructionsView from "./views/InstructionsView";
+import RulesView from "./views/RulesView";
 import QuestionView from "./views/QuestionView";
 import EndGameView from "./views/EndGameView";
+import Awards from "./components/Awards";
+import Instructions from "./components/Instructions";
 
 const Router = createBrowserRouter([
   {
@@ -18,15 +19,15 @@ const Router = createBrowserRouter([
 
   {
     path: "/reglas",
-    element: <FormView />,
+    element: <RulesView />,
     children: [
       {
         path: "premios",
-        element: <AwardsViews />,
+        element: <Awards />,
       },
       {
         path: "instrucciones",
-        element: <InstructionsView />,
+        element: <Instructions />,
       },
     ],
   },
