@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+@theme {
+  --color-primary: #ff0000;
+  --color-secondary: #b5007f;
+}
+
+.btn-principal {
+  @apply bg-gradient-to-r from-primary to-secondary rounded-2xl px-10 py-1 text-white font-bold  ;
+}
