@@ -1,4 +1,4 @@
-function Btn({ text, type = "button" }) {
+function BtnLayout({ text, type = "button" }) {
   return (
     <button type={type} className="btn-principal">
       {text}
@@ -6,4 +6,4 @@ function Btn({ text, type = "button" }) {
   );
 }
 
-export default Btn;
+export default BtnLayout;

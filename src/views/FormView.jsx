@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Btn from "../components/utils/Btn";
+import BtnLayout from "../components/utils/BtnLayout";
 
 function FormView() {
   // Estado para guardar los datos de los inputs
@@ -118,7 +118,7 @@ function FormView() {
               <label htmlFor="terminos">Acepto términos y condiciones</label>
             </div>
 
-            <Btn type="submit" text="Regístrate" />
+            <BtnLayout type="submit" text="Regístrate" />
           </form>
         </div>
         <div>

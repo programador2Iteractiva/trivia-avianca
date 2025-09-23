@@ -2,7 +2,7 @@ import { Outlet } from "react-router-dom";
 
 function RulesView() {
   return (
-    <div className="bg-amber-200">
+    <div>
       <div>LOGOS</div>
       <div>
         <div>LOGO GRANDE</div>

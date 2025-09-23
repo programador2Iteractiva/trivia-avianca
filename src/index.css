@@ -20,3 +20,15 @@
 .alert .alert-body {
   @apply p-3 font-semibold text-lg text-[#414141];
 }
+
+.awards, .instructions {
+  @apply flex flex-col font-medium text-[#414141] gap-8;
+}
+
+.awards-list, .instructions-list {
+  @apply flex flex-col gap-5;
+}
+
+.awards-item,.instructions-item {
+  @apply flex  gap-2.5;
+}

@@ -1,6 +1,6 @@
 import React from "react";
-import Btn from "../components/utils/Btn";
 import Alert from "../components/utils/Alert";
+import BtnLayout from "../components/utils/BtnLayout";
 
 function HomeView() {
   return (
@@ -10,7 +10,7 @@ function HomeView() {
         <strong> Copa Libertadores</strong> o la <strong>Copa Sudamericana</strong>
       </div>
       <div>
-        <Btn text="Ingresar" />
+        <BtnLayout text="Ingresar" />
       </div>
 
       <Alert />
