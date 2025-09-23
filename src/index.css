@@ -8,3 +8,7 @@
 .btn-principal {
   @apply bg-gradient-to-r from-primary to-secondary rounded-2xl px-10 py-0.5 text-white font-bold text-lg;
 }
+
+.alert .alert-body {
+  @apply border-3 border-primary rounded-2xl text-center;
+}

@@ -1,5 +1,6 @@
 import React from "react";
 import Btn from "../components/btn";
+import Alert from "../components/Alert";
 
 function HomeView() {
   return (
@@ -11,6 +12,8 @@ function HomeView() {
       <div>
         <Btn text="Ingresar" />
       </div>
+
+      <Alert />
     </div>
   );
 }
