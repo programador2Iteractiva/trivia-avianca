@@ -6,38 +6,44 @@ import QuestionView from "./views/QuestionView";
 import EndGameView from "./views/EndGameView";
 import Awards from "./components/Awards";
 import Instructions from "./components/Instructions";
+import App from "./App";
 
 const Router = createBrowserRouter([
   {
     path: "/",
-    element: <HomeView />,
-  },
-  {
-    path: "/formulario",
-    element: <FormView />,
-  },
-
-  {
-    path: "/reglas",
-    element: <RulesView />,
+    element: <App />,
     children: [
       {
-        path: "premios",
-        element: <Awards />,
+        path: "/",
+        element: <HomeView />,
       },
       {
-        path: "instrucciones",
-        element: <Instructions />,
+        path: "/formulario",
+        element: <FormView />,
+      },
+      {
+        path: "/reglas",
+        element: <RulesView />,
+        children: [
+          {
+            path: "premios",
+            element: <Awards />,
+          },
+          {
+            path: "instrucciones",
+            element: <Instructions />,
+          },
+        ],
+      },
+      {
+        path: "/preguntas",
+        element: <QuestionView />,
+      },
+      {
+        path: "/final",
+        element: <EndGameView />,
       },
     ],
-  },
-  {
-    path: "/preguntas",
-    element: <QuestionView />,
-  },
-  {
-    path: "/final",
-    element: <EndGameView />,
   },
 ]);
 
