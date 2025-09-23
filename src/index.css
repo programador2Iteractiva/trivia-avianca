@@ -6,5 +6,5 @@
 }
 
 .btn-principal {
-  @apply bg-gradient-to-r from-primary to-secondary rounded-2xl px-10 py-1 text-white font-bold  ;
+  @apply bg-gradient-to-r from-primary to-secondary rounded-2xl px-10 py-0.5 text-white font-bold text-lg;
 }
