@@ -48,6 +48,22 @@
   background-repeat: no-repeat;
 }
 
+.form-container {
+  @apply border-2 border-secondary rounded-2xl w-full
+}
+
+.form-container input[type="text"],input[type="tel"], input[type="email"] {
+  @apply w-full text-center rounded-full border p-1
+}
+
+
+
+
+
+
+
+
+
 @media (min-width: 768px) {
   .home-view {
     background-image: url("./assets/desktop/Background_Home.png");

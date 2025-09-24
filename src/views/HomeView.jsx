@@ -1,14 +1,14 @@
 import BtnLayout from "../components/utils/BtnLayout";
-import LogoBienvenidos from "../assets/desktop/Logo_Bienvenidos.png"
-import LogosPatrocinadoresBlanco from "../assets/desktop/Logos_Patrocinadores_Blanco.png"
+import LogoBienvenidos from "../assets/LogoBienvenidos.png"
 import Footer from "../components/utils/Footer";
+import LogosAvianca from "../components/LogosAvianca";
 
 function HomeView() {
   return (
     <div className="home-view view p-5">
-      <div className="grid grid-flow-col grid-rows-3">
+      <div className="grid grid-flow-col grid-rows-3 p-2">
         <div className="flex flex-col justify-center items-center gap-5">
-          <img src={LogosPatrocinadoresBlanco} alt="Logos_Patrocinadores_Blanco.png" className="w-1/2" />
+          <LogosAvianca className="w-1/2" />
           <img src={LogoBienvenidos} alt="Logo_Bienvenidos.png" className="w-1/2" />
         </div>
 
