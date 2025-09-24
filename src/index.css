@@ -22,14 +22,35 @@
   @apply p-3 font-semibold text-lg text-[#414141];
 }
 
-.awards, .instructions {
+.awards,
+.instructions {
   @apply flex flex-col font-medium text-[#414141] gap-8;
 }
 
-.awards-list, .instructions-list {
+.awards-list,
+.instructions-list {
   @apply flex flex-col gap-5;
 }
 
-.awards-item,.instructions-item {
-  @apply flex  gap-2.5;
+.awards-item,
+.instructions-item {
+  @apply flex gap-2.5;
+}
+
+.view {
+  @apply flex min-h-screen flex-col items-center justify-center bg-gray-50 text-center
+}
+
+.home-view {
+  background-image: url("./assets/mobile/Background_Home.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  .home-view {
+    background-image: url("./assets/desktop/Background_Home.png");
+    background-size: cover;
+  }
 }
