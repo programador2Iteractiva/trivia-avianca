@@ -10,7 +10,7 @@ function RulesView() {
   const location = useLocation();
 
   return (
-    <div className="rules-view flex min-h-screen flex-col p-5">
+    <div className="rules-view view">
       <header className="w-full">
         <LogosAvianca white={false} className="w-1/3" />
       </header>

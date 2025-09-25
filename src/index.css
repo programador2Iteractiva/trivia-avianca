@@ -38,7 +38,7 @@
 }
 
 .view {
-  @apply flex min-h-screen flex-col items-center justify-center bg-gray-50 text-center
+  @apply flex min-h-screen flex-col p-5
 }
 
 .home-view {
@@ -50,7 +50,8 @@
 
 .form-view,
 .rules-view,
-.questions-view {
+.questions-view,
+.end-view {
   background-image: url("./assets/mobile/BackgroundForm.png");
   background-size: cover;
   background-position: center;

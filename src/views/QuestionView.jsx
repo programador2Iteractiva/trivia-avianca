@@ -17,7 +17,7 @@ const optionsData = [
 
 function QuestionView() {
   return (
-    <div className="questions-view flex min-h-screen flex-col p-5">
+    <div className="questions-view view">
       <header className="w-full">
         <LogosAvianca white={false} className="w-1/3" />
       </header>
