@@ -37,6 +37,17 @@
   @apply flex gap-2.5;
 }
 
+.awards-item div {
+  @apply flex justify-center items-center;
+
+}
+
+.awards-item img {
+  @apply max-w-5 max-h-5;
+
+}
+
+
 .view {
   @apply flex min-h-screen flex-col p-5
 }
@@ -87,12 +98,22 @@
     background-image: url("./assets/desktop/BackgroundForm.jpg");
   }
 
+  .rules-view {
+    background-image: url("./assets/desktop/BackgroundRules.png");
+  }
+
+
   .btn-principal {
-    @apply text-4xl pb-2;
+    @apply text-xl pb-2;
   }
 
   .form-container {
     @apply max-w-6/8
+  }
+
+  .awards,
+  .instructions {
+    @apply text-lg font-semibold;
   }
 
 }

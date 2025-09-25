@@ -19,34 +19,34 @@ function Awards() {
         <div className="awards-list">
           <div className="awards-item">
             <div>
-              <img src={IconoTicketMini} alt="IconoAvionMini" className="max-w-5"/>
+              <img src={IconoTicketMini} alt="IconoAvionMini" />
             </div>
             <p>
-              Entradas dobles a las finales de la Copa Libertadores o Copa
+              Entradas dobles a las finales de la Copa <br className="hidden md:block" /> Libertadores o Copa
               Sudamericana.
             </p>
           </div>
           <div className="awards-item">
             <div>
-              <img src={IconoAvionMini} alt="IconoAvionMini" className="max-w-5"/>
+              <img src={IconoAvionMini} alt="IconoAvionMini" />
             </div>
             <p>
-              Paquete de tiquetes ida y regreso a las ciudades donde se jugarán
+              Paquete de tiquetes ida y regreso a las ciudades <br className="hidden md:block" /> donde se jugarán
               las finales.
             </p>
           </div>
           <div className="awards-item">
             <div>
-              <img src={IconoCampanaMini} alt="IconoAvionMini" className="max-w-5"/>
+              <img src={IconoCampanaMini} alt="IconoAvionMini" />
             </div>
             <p>Hospedaje por para 2 noches y 3 días.</p>
           </div>
           <div className="awards-item">
             <div>
-              <img src={IconoTransporteMini} alt="IconoAvionMini" className="max-w-5"/>
+              <img src={IconoTransporteMini} alt="IconoAvionMini" />
             </div>
             <p>
-              Transporte hotel-aeropuerto (llegada y salida) y transportes el
+              Transporte hotel-aeropuerto (llegada y salida) y <br className="hidden md:block" /> transportes el
               día de los partidos hotel-estadio.
             </p>
           </div>
