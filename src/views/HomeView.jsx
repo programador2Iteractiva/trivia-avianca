@@ -20,7 +20,7 @@ function HomeView() {
             <strong> Copa Libertadores</strong> o la <strong>Copa Sudamericana</strong>
           </div>
           <div>
-            <BtnLayout text="Ingresar" />
+            <BtnLayout text="Ingresar" to="/formulario" />
           </div>
         </div>
 

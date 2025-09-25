@@ -5,6 +5,7 @@ import Footer from "../components/utils/Footer";
 import LogoConcurso from "../assets/LogoConcurso.png"
 import IconoAvion from "../assets/icons/IconoAvion.png"
 import IconoCirculo from "../assets/icons/IconoCirculo.png"
+import { useNavigate } from "react-router-dom";
 
 function FormView() {
   const [formData, setFormData] = useState({
@@ -16,6 +17,8 @@ function FormView() {
     competicion: "libertadores",
     terminos: false,
   });
+  const navigate = useNavigate();
+
 
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
@@ -28,6 +31,7 @@ function FormView() {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Datos del formulario:", formData);
+    navigate('/reglas');
   };
 
   return (

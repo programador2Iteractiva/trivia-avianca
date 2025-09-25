@@ -26,7 +26,7 @@ const Router = createBrowserRouter([
         element: <RulesView />,
         children: [
           {
-            path: "premios",
+            path: "",
             element: <Awards />,
           },
           {
