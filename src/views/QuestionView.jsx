@@ -2,10 +2,12 @@ import React from "react";
 import Question from "../components/QuestionComponents/Question";
 import Option from "../components/QuestionComponents/Option";
 import LogosAvianca from "../components/LogosAvianca";
+import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png"
 import Footer from "../components/utils/Footer";
 import IconoAvion from "../assets/icons/IconoAvion.png"
 import IconoCirculo from "../assets/icons/IconoCirculo.png"
-// 1. Define tus opciones en un array de datos
+import Timer from "../components/QuestionComponents/Timer";
+
 const optionsData = [
   { letter: "A", text: "Deportivo Cali" },
   { letter: "B", text: "América de Cali" },
@@ -21,14 +23,18 @@ function QuestionView() {
       </header>
 
       <main className="w-full flex-1 flex flex-col items-center justify-center p-4 overflow-y-auto">
+        <div className="flex w-full justify-center">
+          <img src={LogoConcurso} alt="" className="w-2/5" />
+        </div>
 
         <div className="w-full flex items-center justify-end">
           <img src={IconoCirculo} alt="Icono de círculo" className="w-1/6 scale-y-[-1] rotate-45" />
         </div>
 
         <div className="my-10 text-center">
-          <div>LOGO</div>
-          <div>Timer</div>
+          <div className="w-full flex justify-center items-center py-5">
+            <Timer />
+          </div>
           <div>Elige la respuesta correcta:</div>
           <div className="w-full flex justify-center items-center">
             <div className="flex flex-col justify-center items-center w-full">
