@@ -1,16 +1,16 @@
 import { Outlet, useLocation } from "react-router-dom";
 import LogosAvianca from "../components/LogosAvianca";
 import Footer from "../components/utils/Footer";
-import LogoConcurso from "../assets/LogoConcurso.png"
+import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png"
+// import LogoConcurso from "../assets/LogoConcurso.png"
 import IconoAvion from "../assets/icons/IconoAvion.png"
 import IconoCirculo from "../assets/icons/IconoCirculo.png"
 
 function RulesView() {
-  // 1. Obtenemos la información de la ubicación (ruta) actual
   const location = useLocation();
 
   return (
-    <div className="flex min-h-screen flex-col p-5">
+    <div className="rules-view flex min-h-screen flex-col p-5">
       <header className="w-full">
         <LogosAvianca white={false} className="w-1/3" />
       </header>
@@ -22,8 +22,7 @@ function RulesView() {
               <img src={LogoConcurso} alt="Logo del concurso" className="w-7/8" />
             </div>
             <div className="flex justify-center items-center">
-              
-              {/* 2. Usamos renderizado condicional con el pathname */}
+
               {location.pathname === '/reglas' && (
                 <div className="text-start text-xs text-gray-700 leading-4">
                   Tu sueño de vivir una <br />
@@ -33,7 +32,7 @@ function RulesView() {
               )}
 
             </div>
-            <img src={IconoAvion} alt="Icono de avión" className="w-1/6 absolute right-0 -top-5" />
+            <img src={IconoAvion} alt="Icono de avión" className="w-1/8 absolute right-0 -top-5" />
           </div>
           <div className="p-4 relative">
             <Outlet />
@@ -42,9 +41,7 @@ function RulesView() {
         </div>
       </main>
 
-      <footer className="w-full bg-white">
-        <Footer white={false} />
-      </footer>
+      <Footer white={false} />
     </div>
   );
 }

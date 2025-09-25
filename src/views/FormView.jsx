@@ -2,7 +2,8 @@ import { useState } from "react";
 import BtnLayout from "../components/utils/BtnLayout";
 import LogosAvianca from "../components/LogosAvianca";
 import Footer from "../components/utils/Footer";
-import LogoConcurso from "../assets/LogoConcurso.png"
+// import LogoConcurso from "../assets/LogoConcurso.png"
+import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png"
 import IconoAvion from "../assets/icons/IconoAvion.png"
 import IconoCirculo from "../assets/icons/IconoCirculo.png"
 import { useNavigate } from "react-router-dom";
@@ -35,7 +36,7 @@ function FormView() {
   };
 
   return (
-    <div className="flex min-h-screen flex-col p-5">
+    <div className="form-view flex min-h-screen flex-col p-5">
       <header className="w-full">
         <LogosAvianca white={false} className="w-1/3" />
       </header>
@@ -163,9 +164,7 @@ function FormView() {
         </div>
       </main>
 
-      <footer className="w-full bg-white">
-        <Footer white={false} />
-      </footer>
+      <Footer white={false} />
     </div>
   );
 }

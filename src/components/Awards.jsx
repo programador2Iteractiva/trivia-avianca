@@ -43,7 +43,7 @@ function Awards() {
       <div className="flex flex-col gap-3">
         <p className="text-primary">Lee las instrucciones y prepárate para jugar.</p>
         <div>
-          <BtnLayout text="Empezar" to="/instrucciones" />
+          <BtnLayout text="Empezar" to="/reglas/instrucciones" />
         </div>
       </div>
     </div>

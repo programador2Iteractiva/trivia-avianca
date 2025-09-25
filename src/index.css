@@ -42,7 +42,16 @@
 }
 
 .home-view {
-  background-image: url("./assets/mobile/Background_Home.png");
+  background-image: url("./assets/mobile/BackgroundHome.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.form-view,
+.rules-view,
+.questions-view {
+  background-image: url("./assets/mobile/BackgroundForm.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -52,21 +61,24 @@
   @apply border-2 border-secondary rounded-2xl w-full
 }
 
-.form-container input[type="text"],input[type="tel"], input[type="email"] {
+.form-container input[type="text"], input[type="tel"], input[type="email"] {
   @apply w-full text-center rounded-full border p-1
 }
 
+.question {
+  @apply w-full border-2 border-secondary rounded-full px-10 py-1 my-5
+}
 
-
-
-
+.option {
+  @apply flex items-center border-2 border-secondary w-full p-1 rounded-full
+}
 
 
 
 
 @media (min-width: 768px) {
   .home-view {
-    background-image: url("./assets/desktop/Background_Home.png");
+    background-image: url("./assets/desktop/BackgroundHome.png");
     background-size: cover;
   }
 }

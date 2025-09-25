@@ -53,7 +53,7 @@ function Instructions() {
       <div className="flex flex-col gap-3">
         <p className="text-primary">¿Listo? ¡Mucha suerte!</p>
         <div>
-          <BtnLayout text="Jugar" />
+          <BtnLayout text="Jugar" to="/preguntas" />
         </div>
       </div>
     </div>
