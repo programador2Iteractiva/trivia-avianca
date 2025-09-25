@@ -18,16 +18,16 @@ const optionsData = [
 function QuestionView() {
   return (
     <div className="questions-view view">
-      <header className="w-full">
+      <header className="w-full  md:hidden">
         <LogosAvianca white={false} className="w-1/3" />
       </header>
 
       <main className="w-full flex-1 flex flex-col items-center justify-center p-4 overflow-y-auto">
-        <div className="flex w-full justify-center">
+        <div className="flex w-full justify-center md:hidden">
           <img src={LogoConcurso} alt="" className="w-2/5" />
         </div>
 
-        <div className="w-full flex items-center justify-end">
+        <div className="w-full flex items-center justify-end md:hidden">
           <img src={IconoCirculo} alt="Icono de círculo" className="w-1/6 scale-y-[-1] rotate-45" />
         </div>
 
@@ -54,9 +54,12 @@ function QuestionView() {
               </div>
             </div>
           </div>
+          <header className="w-full hidden md:flex justify-center mt-10">
+            <LogosAvianca white={false} className="w-1/3" />
+          </header>
         </div>
 
-        <div className="w-full flex items-center ">
+        <div className="w-full flex items-center  md:hidden">
           <img src={IconoAvion} alt="Icono de avión" className="w-1/8 rotate-180 " />
         </div>
 
