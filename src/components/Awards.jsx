@@ -5,12 +5,12 @@ function Awards() {
     <div className="awards">
       {/* Titulo */}
       <div>
-        <h1 className="text-primary font-bold text-3xl">
-          Entrarás a participar por:
+        <h1 className="text-primary font-bold text-xl">
+          Entrarás <br className="sm:hidden" /> a participar por:
         </h1>
       </div>
       {/* Lista */}
-      <div className="flex">
+      <div>
         <div className="awards-list">
           <div className="awards-item">
             <div>logo</div>
@@ -38,15 +38,12 @@ function Awards() {
             </p>
           </div>
         </div>
-        <div className="flex justify-center items-center">
-          OTRO LOGO DE AVION
-        </div>
       </div>
       {/* Boton */}
       <div className="flex flex-col gap-3">
-        <p>Lee las instrucciones y prepárate para jugar.</p>
+        <p className="text-primary">Lee las instrucciones y prepárate para jugar.</p>
         <div>
-          <BtnLayout text="Empezar" />
+          <BtnLayout text="Empezar" to="/reglas/instrucciones" />
         </div>
       </div>
     </div>
