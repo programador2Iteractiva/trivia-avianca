@@ -37,27 +37,34 @@ function FormView() {
 
   return (
     <div className="form-view view">
-      <header className="w-full">
-        <LogosAvianca white={false} className="w-1/3" />
+      <header className="flex w-full md:justify-center md:items-center md:py-12">
+        <LogosAvianca white={false} className="w-1/3 md:w-1/5" />
       </header>
 
-      <main className="w-full flex-1 flex flex-col items-center justify-center p-4 overflow-y-auto">
-        <div className="w-full max-w-md space-y-4 flex flex-col justify-center">
-          <div className="relative w-full  grid grid-cols-2 ">
-            <div>
+      <main className="w-full flex-1 flex flex-col items-center justify-center p-4 ">
+
+        <div className="w-full max-w-md space-y-4 flex flex-col justify-center md:grid md:grid-cols-3 md:max-w-none">
+
+          {/* Cabecera */}
+          <div className="relative w-full grid grid-cols-2 justify-center md:grid-cols-1 md:p-2">
+
+            <div className="md:hidden">
               <img src={LogoConcurso} alt="" className="w-7/8" />
             </div>
+
             <div className="flex justify-center items-center">
-              <div className="text-start text-2xl font-bold text-gray-700 leading-7">
+              <div className="text-start text-2xl font-bold text-gray-700 leading-7 md:leading-14 md:text-6xl">
                 Ingresa <br /> tus datos  <br /> y participa
               </div>
             </div>
-            <img src={IconoAvion} alt="" className="w-1/6 absolute right-0" />
+
+            <img src={IconoAvion} alt="" className="w-1/6 absolute right-0  md:left-20 md:bottom-0 md:scale-y-[-1] md:rotate-90" />
           </div>
 
-          <div className="p-5">
+          {/* Fomrulario */}
+          <div className="p-5 md:flex md:justify-center">
             <div className="form-container p-5 ">
-              <form onSubmit={handleSubmit} className="space-y-4 relative text-sm">
+              <form onSubmit={handleSubmit} className="space-y-4 relative text-sm md:text-lg">
                 <input
                   type="text"
                   name="nombre"
@@ -155,10 +162,18 @@ function FormView() {
             </div>
           </div>
 
-          <div className="relative text-center text-sm text-gray-600">
-            ¡Con <strong>La Trivia avianca</strong> tu sueño de vivir una final de Copa puede ser
-            una realidad!
-            <img src={IconoCirculo} alt="" className="w-1/6 absolute left-0" />
+          {/* base */}
+          <div className="relative text-center text-sm text-gray-600 md:flex md:flex-col md:justify-center md:text-start md:text-2xl">
+            <p>
+              ¡Con <strong>La Trivia avianca</strong>
+              <br className="hidden md:block" />
+              tu sueño de vivir
+              <br className="md:hidden" />
+              una final de
+              <br className="hidden md:block" />
+              Copa puede ser una realidad!
+            </p>
+            <img src={IconoCirculo} alt="" className="w-1/6 absolute left-0 md:hidden" />
 
           </div>
         </div>

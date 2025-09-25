@@ -80,13 +80,19 @@
 @media (min-width: 768px) {
   .home-view {
     background-image: url("./assets/desktop/BackgroundHome.png");
-    background-size: cover;
+  }
+
+  .form-view,
+  .questions-view {
+    background-image: url("./assets/desktop/BackgroundForm.jpg");
   }
 
   .btn-principal {
-  @apply text-4xl pb-2 ;
-}
+    @apply text-4xl pb-2;
+  }
 
-
+  .form-container {
+    @apply max-w-6/8
+  }
 
 }
