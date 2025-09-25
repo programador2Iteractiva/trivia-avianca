@@ -5,27 +5,29 @@ import LogosAvianca from "../components/LogosAvianca";
 
 function HomeView() {
   return (
-    <div className="home-view view p-5">
-      <div className="grid grid-flow-col grid-rows-3 p-2">
+    <div className="home-view view">
+
+
+      <main className="w-full flex-1 flex flex-col items-center justify-between p-4 md:flex-row md:justify-around">
+
         <div className="flex flex-col justify-center items-center gap-5">
-          <LogosAvianca className="w-1/2" />
-          <img src={LogoBienvenidos} alt="Logo_Bienvenidos.png" className="w-1/2" />
+          <LogosAvianca className="w-1/2 md:w-2/3" />
+          <img src={LogoBienvenidos} alt="Logo_Bienvenidos.png" className="w-1/2 md:w-full" />
         </div>
 
-        <div></div>
-
-        <div className="flex flex-col justify-center text-center text-lg  text-white gap-5 ">
-          <div>
-            Estás por vivir la emoción de ganar entradas de la gran final de
-            <strong> Copa Libertadores</strong> o la <strong>Copa Sudamericana</strong>
+        <div className="flex flex-col justify-center text-center text-lg md:text-4xl text-white gap-5 md:max-w-1/4 md:text-start">
+          <div >
+            Estás por vivir la emoción de <br className="sm:hidden" />
+            ganar entradas de la gran final <br className="sm:hidden" />
+            de <strong> Copa Libertadores</strong> <br className="sm:hidden" /> 
+            o la <strong>Copa Sudamericana</strong>
           </div>
           <div>
             <BtnLayout text="Ingresar" to="/formulario" />
           </div>
         </div>
+      </main>
 
-      </div>
-      
       <Footer />
     </div>
   );

@@ -7,7 +7,7 @@
 }
 
 .btn-principal {
-  @apply bg-gradient-to-r from-primary to-secondary rounded-2xl px-10 py-0.5 text-white font-bold text-lg;
+  @apply bg-gradient-to-r from-primary to-secondary rounded-full px-10 py-0.5 text-white font-bold text-lg;
 }
 
 .alert {
@@ -82,4 +82,11 @@
     background-image: url("./assets/desktop/BackgroundHome.png");
     background-size: cover;
   }
+
+  .btn-principal {
+  @apply text-4xl pb-2 ;
+}
+
+
+
 }
