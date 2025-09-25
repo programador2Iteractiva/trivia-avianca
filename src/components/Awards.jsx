@@ -1,4 +1,9 @@
 import BtnLayout from "./utils/BtnLayout";
+import IconoAvionMini from "../assets/icons/IconoAvionMini.png"
+import IconoCampanaMini from "../assets/icons/IconoCampanaMini.png"
+import IconoTicketMini from "../assets/icons/IconoTicketMini.png"
+import IconoTransporteMini from "../assets/icons/IconoTransporteMini.png"
+
 
 function Awards() {
   return (
@@ -13,25 +18,33 @@ function Awards() {
       <div>
         <div className="awards-list">
           <div className="awards-item">
-            <div>logo</div>
+            <div>
+              <img src={IconoTicketMini} alt="IconoAvionMini" className="max-w-5"/>
+            </div>
             <p>
               Entradas dobles a las finales de la Copa Libertadores o Copa
               Sudamericana.
             </p>
           </div>
           <div className="awards-item">
-            <div>logo</div>
+            <div>
+              <img src={IconoAvionMini} alt="IconoAvionMini" className="max-w-5"/>
+            </div>
             <p>
               Paquete de tiquetes ida y regreso a las ciudades donde se jugarán
               las finales.
             </p>
           </div>
           <div className="awards-item">
-            <div>logo</div>
+            <div>
+              <img src={IconoCampanaMini} alt="IconoAvionMini" className="max-w-5"/>
+            </div>
             <p>Hospedaje por para 2 noches y 3 días.</p>
           </div>
           <div className="awards-item">
-            <div>logo</div>
+            <div>
+              <img src={IconoTransporteMini} alt="IconoAvionMini" className="max-w-5"/>
+            </div>
             <p>
               Transporte hotel-aeropuerto (llegada y salida) y transportes el
               día de los partidos hotel-estadio.
