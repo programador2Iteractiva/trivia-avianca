@@ -34,14 +34,11 @@ export const saveUserActionLog = async (actionData, token) => {
 };
 
 // 3. Servicio para obtener el ranking de usuarios
-export const getRanking = async (token) => {
+export const getRanking = async () => {
   try {
-    const response = await axios.get(`${API_BASE_URL}/ranking/`, {
-      headers: {
-        'Authorization': `Bearer ${token}`
-      }
-    });
-    return response.data;
+    const response = await axios.get(`${API_BASE_URL}/ranking/`);
+    console.log(response.data)
+    return response.data?.ranking;
   } catch (error) {
     console.error('Error al obtener el ranking:', error.response ? error.response.data : error.message);
     throw error;

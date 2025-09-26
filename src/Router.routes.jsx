@@ -7,6 +7,7 @@ import EndGameView from "./views/EndGameView";
 import Awards from "./components/Awards";
 import Instructions from "./components/Instructions";
 import App from "./App";
+import RankingView from "./views/RankingView"; // 1. Importar la nueva vista
 
 const Router = createBrowserRouter([
   {
@@ -42,6 +43,10 @@ const Router = createBrowserRouter([
       {
         path: "/final",
         element: <EndGameView />,
+      },
+      {
+        path: "/32ma0e8UNy9DHUt1wMyA",
+        element: <RankingView />,
       },
     ],
   },

@@ -71,17 +71,10 @@ export const ApiProvider = ({ children }) => {
   };
 
   const handleGetRanking = async () => {
-    const currentToken = token || localStorage.getItem('token');
-     if (!currentToken) {
-      const err = new Error("No hay un token de autenticación para ver el ranking.");
-      setError(err);
-      throw err;
-    }
-
     setLoading(true);
     setError(null);
     try {
-      const data = await getRanking(currentToken);
+      const data = await getRanking();
       setRanking(data);
       return data;
     } catch (err) {
