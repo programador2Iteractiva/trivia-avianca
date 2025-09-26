@@ -1,7 +1,11 @@
 import BtnLayout from "./utils/BtnLayout";
 import Number from "./utils/Number";
+import { useContext } from "react"; // 1. Importar useContext
+import { GameContext } from "../context/GameContext"; // 2. Importar GameContext
 
 function Instructions() {
+  const { startGame } = useContext(GameContext); // 3. Obtener startGame del contexto
+
   return (
     <div className="instructions">
       {/* Titulo */}
@@ -53,7 +57,8 @@ function Instructions() {
       <div className="flex flex-col gap-3">
         <p className="text-primary">¿Listo? ¡Mucha suerte!</p>
         <div>
-          <BtnLayout text="Jugar" to="/preguntas" />
+          {/* 4. Llamar a startGame en el onClick del botón */}
+          <BtnLayout text="Jugar" to="/preguntas" onClick={startGame} />
         </div>
       </div>
     </div>

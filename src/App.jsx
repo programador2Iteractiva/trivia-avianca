@@ -1,10 +1,14 @@
 import { Outlet } from "react-router-dom";
+import { GameProvider } from "./context/GameContext";
+import { ApiProvider } from "./context/ApiContext";
 
 function App() {
   return (
-    <>
-      <Outlet />
-    </>
+    <ApiProvider>
+      <GameProvider>
+        <Outlet />
+      </GameProvider>
+    </ApiProvider>
   );
 }
 

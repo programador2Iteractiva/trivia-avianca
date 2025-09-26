@@ -1,21 +1,41 @@
-import React from "react";
+import React, { useContext } from "react"; // Ya no se necesita useEffect aquí
 import Question from "../components/QuestionComponents/Question";
 import Option from "../components/QuestionComponents/Option";
 import LogosAvianca from "../components/LogosAvianca";
-import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png"
+import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png";
 import Footer from "../components/utils/Footer";
-import IconoAvion from "../assets/icons/IconoAvion.png"
-import IconoCirculo from "../assets/icons/IconoCirculo.png"
+import IconoAvion from "../assets/icons/IconoAvion.png";
+import IconoCirculo from "../assets/icons/IconoCirculo.png";
 import Timer from "../components/QuestionComponents/Timer";
-
-const optionsData = [
-  { letter: "A", text: "Deportivo Cali" },
-  { letter: "B", text: "América de Cali" },
-  { letter: "C", text: "Millonarios FC" },
-  { letter: "D", text: "Atlético Nacional" },
-];
+import { GameContext } from "../context/GameContext";
 
 function QuestionView() {
+  const {
+    questions,
+    currentQuestionIndex,
+    answerQuestion,
+    gameStarted,
+  } = useContext(GameContext);
+
+  // 1. Eliminamos el useEffect que llamaba a startGame
+
+  const currentQuestion = questions[currentQuestionIndex];
+
+  // 2. (Opcional pero recomendado) Proteger la ruta si el juego no ha comenzado
+  if (!gameStarted) {
+    return (
+      <div className="view">
+        <p className="m-auto text-center">
+          Por favor, inicia el juego desde las instrucciones.
+        </p>
+      </div>
+    );
+  }
+
+  if (!currentQuestion) {
+    return <div>Cargando...</div>;
+  }
+
   return (
     <div className="questions-view view">
       <header className="w-full  md:hidden">
@@ -28,7 +48,11 @@ function QuestionView() {
         </div>
 
         <div className="w-full flex items-center justify-end md:hidden">
-          <img src={IconoCirculo} alt="Icono de círculo" className="w-1/6 scale-y-[-1] rotate-45" />
+          <img
+            src={IconoCirculo}
+            alt="Icono de círculo"
+            className="w-1/6 scale-y-[-1] rotate-45"
+          />
         </div>
 
         <div className="my-10 text-center">
@@ -38,16 +62,20 @@ function QuestionView() {
           <div>Elige la respuesta correcta:</div>
           <div className="w-full flex justify-center items-center">
             <div className="flex flex-col justify-center items-center w-full">
-              <Question />
+              <Question question={currentQuestion.question} />
 
-              {/* Preguntas */}
               <div className="grid grid-cols-2 gap-5 w-full">
-                {optionsData.map((option) => (
-                  <div className="flex justify-center items-center">
+                {currentQuestion.options.map((option, index) => (
+                  <div
+                    className="flex justify-center items-center"
+                    key={index}
+                    onClick={() => {
+                      answerQuestion(option, currentQuestion.answer);
+                    }}
+                  >
                     <Option
-                      key={option.letter}
-                      text={option.text}
-                      letter={option.letter}
+                      text={option}
+                      letter={String.fromCharCode(65 + index)}
                     />
                   </div>
                 ))}
@@ -60,9 +88,12 @@ function QuestionView() {
         </div>
 
         <div className="w-full flex items-center  md:hidden">
-          <img src={IconoAvion} alt="Icono de avión" className="w-1/8 rotate-180 " />
+          <img
+            src={IconoAvion}
+            alt="Icono de avión"
+            className="w-1/8 rotate-180 "
+          />
         </div>
-
       </main>
 
       <Footer white={false} />

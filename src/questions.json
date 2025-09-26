@@ -1,0 +1,22 @@
+[
+  {
+    "question": "¿Cuál es el único equipo campeón colombiano de la Copa Sudamericana?",
+    "options": [
+      "Deportivo Cali",
+      "América de Cali",
+      "Millonarios FC",
+      "Independiente Santa Fe"
+    ],
+    "answer": "Independiente Santa Fe"
+  },
+  {
+    "question": "¿Quién es el máximo goleador de la selección Colombia?",
+    "options": [
+      "Falcao Garcia",
+      "James Rodriguez",
+      "Carlos Valderrama",
+      "Faustino Asprilla"
+    ],
+    "answer": "Falcao Garcia"
+  }
+]
