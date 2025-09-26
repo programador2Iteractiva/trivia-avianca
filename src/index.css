@@ -53,7 +53,7 @@
 }
 
 .home-view {
-  background-image: url("./assets/mobile/BackgroundHome.png");
+  background-image: url("./assets/mobile/BackgroundHome.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@
 
 @media (min-width: 768px) {
   .home-view {
-    background-image: url("./assets/desktop/BackgroundHome.png");
+    background-image: url("./assets/desktop/BackgroundHome.webp");
   }
 
   .form-view,

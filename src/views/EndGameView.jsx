@@ -5,6 +5,7 @@ import IconoAvion from "../assets/icons/IconoAvion.png";
 import IconoCirculo from "../assets/icons/IconoCirculo.png";
 import { useContext } from "react";
 import { GameContext } from "../context/GameContext";
+import BtnLayout from "../components/utils/BtnLayout";
 
 function EndGameView() {
   const { score } = useContext(GameContext);
@@ -47,6 +48,10 @@ function EndGameView() {
             <div>
               Conoce si eres uno de los 6 ganadores el 21 de Octubre de 2025.
             </div>
+          </div>
+
+          <div className="p-5">
+            <BtnLayout type="submit" text="Volver al inicio" to="/" />
           </div>
         </div>
 
