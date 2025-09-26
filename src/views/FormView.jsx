@@ -1,14 +1,16 @@
-import { useState } from "react";
+import { useState, useContext } from "react"; // 1. Importar useContext
+import { useNavigate } from "react-router-dom";
 import BtnLayout from "../components/utils/BtnLayout";
 import LogosAvianca from "../components/LogosAvianca";
 import Footer from "../components/utils/Footer";
-// import LogoConcurso from "../assets/LogoConcurso.png"
-import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png"
-import IconoAvion from "../assets/icons/IconoAvion.png"
-import IconoCirculo from "../assets/icons/IconoCirculo.png"
-import { useNavigate } from "react-router-dom";
+import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png";
+import IconoAvion from "../assets/icons/IconoAvion.png";
+import IconoCirculo from "../assets/icons/IconoCirculo.png";
+import { ApiContext } from "../context/ApiContext"; // 2. Importar el ApiContext
 
 function FormView() {
+  const { handleRegister, loading, error } = useContext(ApiContext); // 3. Usar el contexto
+  const navigate = useNavigate();
   const [formData, setFormData] = useState({
     nombre: "",
     cedula: "",
@@ -18,7 +20,9 @@ function FormView() {
     competicion: "libertadores",
     terminos: false,
   });
-  const navigate = useNavigate();
+  
+  // Estado local para errores de formulario
+  const [formError, setFormError] = useState('');
 
 
   const handleChange = (e) => {
@@ -29,10 +33,30 @@ function FormView() {
     }));
   };
 
-  const handleSubmit = (e) => {
+  // 4. Modificar handleSubmit para que sea asíncrono y use el contexto
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("Datos del formulario:", formData);
-    navigate('/reglas');
+    setFormError(''); // Limpiar errores previos
+
+    // Mapear los datos del formulario a lo que espera la API
+    const apiData = {
+      name: formData.nombre,
+      dni: formData.cedula,
+      phone: formData.celular,
+      email: formData.mail,
+      reservation: formData.reserva,
+      preference: formData.competicion,
+    };
+
+    try {
+      await handleRegister(apiData);
+      // Si el registro es exitoso, navegar a la siguiente página
+      navigate("/reglas");
+    } catch (apiError) {
+      // Si hay un error, mostrarlo al usuario
+      console.error("Error en el registro:", apiError);
+      setFormError('Hubo un error al registrar tus datos. Por favor, inténtalo de nuevo.');
+    }
   };
 
   return (
@@ -42,29 +66,33 @@ function FormView() {
       </header>
 
       <main className="w-full flex-1 flex flex-col items-center justify-center p-4 ">
-
         <div className="w-full max-w-md space-y-4 flex flex-col justify-center md:grid md:grid-cols-3 md:max-w-none">
-
           {/* Cabecera */}
           <div className="relative w-full grid grid-cols-2 justify-center md:grid-cols-1 md:p-2">
-
             <div className="md:hidden">
               <img src={LogoConcurso} alt="" className="w-7/8" />
             </div>
 
             <div className="flex justify-center items-center">
               <div className="text-start text-2xl font-bold text-gray-700 leading-7 md:leading-14 md:text-6xl">
-                Ingresa <br /> tus datos  <br /> y participa
+                Ingresa <br /> tus datos <br /> y participa
               </div>
             </div>
 
-            <img src={IconoAvion} alt="" className="w-1/6 absolute right-0  md:left-20 md:bottom-0 md:scale-y-[-1] md:rotate-90" />
+            <img
+              src={IconoAvion}
+              alt=""
+              className="w-1/6 absolute right-0  md:left-20 md:bottom-0 md:scale-y-[-1] md:rotate-90"
+            />
           </div>
 
-          {/* Fomrulario */}
+          {/* Formulario */}
           <div className="p-5 md:flex md:justify-center">
             <div className="form-container p-5 ">
-              <form onSubmit={handleSubmit} className="space-y-4 relative text-sm md:text-lg">
+              <form
+                onSubmit={handleSubmit}
+                className="space-y-4 relative text-sm md:text-lg"
+              >
                 <input
                   type="text"
                   name="nombre"
@@ -150,13 +178,24 @@ function FormView() {
                     required
                     className="accent-secondary h-5 w-5"
                   />
-                  <label htmlFor="terminos" className="text-gray-700 cursor-pointer">
+                  <label
+                    htmlFor="terminos"
+                    className="text-gray-700 cursor-pointer"
+                  >
                     Acepto términos y condiciones
                   </label>
                 </div>
 
+                {/* 5. Mostrar mensaje de error si existe */}
+                {formError && <p className="text-red-500 text-center text-sm">{formError}</p>}
+                
                 <div className="absolute flex justify-center items-center w-full">
-                  <BtnLayout type="submit" text="Regístrate" />
+                  {/* 6. Deshabilitar botón mientras carga */}
+                  <BtnLayout
+                    type="submit"
+                    text={loading ? "Registrando..." : "Regístrate"}
+                    disabled={loading}
+                  />
                 </div>
               </form>
             </div>
@@ -173,8 +212,11 @@ function FormView() {
               <br className="hidden md:block" />
               Copa puede ser una realidad!
             </p>
-            <img src={IconoCirculo} alt="" className="w-1/6 absolute left-0 md:hidden" />
-
+            <img
+              src={IconoCirculo}
+              alt=""
+              className="w-1/6 absolute left-0 md:hidden"
+            />
           </div>
         </div>
       </main>

@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://admin.moc.interactiva.net.co/api';
+const API_BASE_URL = 'https://trivia.interactiva.net.co/api';
 
 // 1. Servicio para registrar un nuevo usuario
 export const registerUser = async (userData) => {
