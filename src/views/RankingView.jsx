@@ -3,8 +3,9 @@ import { ApiContext } from '../context/ApiContext';
 import LogosAvianca from '../components/LogosAvianca';
 import Footer from '../components/utils/Footer';
 import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png";
+import * as XLSX from 'xlsx'; // 1. Importar la librería xlsx
 
-// Función para formatear la fecha como dd/mm/yy hh/mm/ss
+// (La función formatTimestamp sigue siendo la misma)
 const formatTimestamp = (isoString) => {
   if (!isoString) return 'N/A';
   try {
@@ -26,13 +27,11 @@ const formatTimestamp = (isoString) => {
 function RankingView() {
   const { ranking, loading, error, handleGetRanking } = useContext(ApiContext);
 
-  // Estados para los filtros
   const [preferenceFilter, setPreferenceFilter] = useState('');
   const [reservationFilter, setReservationFilter] = useState('');
   const [dateFilter, setDateFilter] = useState('');
-  const [dniFilter, setDniFilter] = useState(''); // 1. Nuevo estado para el filtro de DNI
+  const [dniFilter, setDniFilter] = useState('');
 
-  // Estados para la paginación
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
 
@@ -40,7 +39,6 @@ function RankingView() {
     handleGetRanking();
   }, []);
   
-  // 2. Lógica de filtrado actualizada para incluir el DNI
   const filteredRanking = useMemo(() => {
     return ranking.filter(player => {
       const matchPreference = preferenceFilter ? player.preference === preferenceFilter : true;
@@ -49,9 +47,8 @@ function RankingView() {
       const matchDate = dateFilter ? player.timestamp.startsWith(dateFilter) : true;
       return matchPreference && matchReservation && matchDni && matchDate;
     });
-  }, [ranking, preferenceFilter, reservationFilter, dateFilter, dniFilter]); // Añadir dniFilter a las dependencias
+  }, [ranking, preferenceFilter, reservationFilter, dateFilter, dniFilter]);
 
-  // Lógica de paginación sobre los datos ya filtrados
   const paginatedData = useMemo(() => {
     const startIndex = (currentPage - 1) * itemsPerPage;
     return filteredRanking.slice(startIndex, startIndex + itemsPerPage);
@@ -59,10 +56,33 @@ function RankingView() {
 
   const totalPages = Math.ceil(filteredRanking.length / itemsPerPage);
 
-  // Resetear a la página 1 cuando los filtros cambian
   useEffect(() => {
     setCurrentPage(1);
-  }, [preferenceFilter, reservationFilter, dateFilter, dniFilter]); // Añadir dniFilter a las dependencias
+  }, [preferenceFilter, reservationFilter, dateFilter, dniFilter]);
+  
+  // 2. Función para manejar la descarga del archivo XLSX
+  const handleDownloadXLSX = () => {
+    // Preparar los datos para la exportación (usamos los datos ya filtrados)
+    const dataToExport = filteredRanking.map(player => ({
+      'Posición': player.position,
+      'Reservación': player.reservation,
+      'Nombre': player.name,
+      'DNI': player.dni,
+      'Correo': player.email,
+      'Teléfono': player.phone,
+      'Preferencia': player.preference,
+      'Tiempo (seg)': player.time_answered.toFixed(2),
+      'Respuestas Correctas': player.correct_answers,
+      'Fecha': formatTimestamp(player.timestamp)
+    }));
+
+    const worksheet = XLSX.utils.json_to_sheet(dataToExport);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, "Ranking");
+    
+    // Disparar la descarga
+    XLSX.writeFile(workbook, "ranking_trivia.xlsx");
+  };
 
 
   if (loading) {
@@ -83,9 +103,8 @@ function RankingView() {
         <img src={LogoConcurso} alt="Logo del concurso" className="w-2/5 md:w-1/6 mb-4" />
         <h1 className="text-3xl font-bold text-primary my-6">Ranking de Jugadores</h1>
         
-        {/* Sección de Filtros */}
         <div className="w-full max-w-7xl mb-4 p-4 bg-gray-50 rounded-lg shadow-md flex flex-wrap gap-4 items-center">
-            <h2 className="text-lg font-semibold text-gray-700 w-full">Filtros</h2>
+            <h2 className="text-lg font-semibold text-gray-700 w-full md:w-auto">Filtros</h2>
             <div className='flex-1 min-w-[150px]'>
                 <label htmlFor="preference" className="block text-sm font-medium text-gray-700">Preferencia</label>
                 <select id="preference" value={preferenceFilter} onChange={e => setPreferenceFilter(e.target.value)} className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-md">
@@ -98,17 +117,24 @@ function RankingView() {
                 <label htmlFor="reservation" className="block text-sm font-medium text-gray-700">Reservación</label>
                 <input type="text" id="reservation" value={reservationFilter} onChange={e => setReservationFilter(e.target.value)} placeholder="Buscar por reserva..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
             </div>
-            {/* 3. Nuevo campo de filtro para el DNI */}
             <div className='flex-1 min-w-[150px]'>
                 <label htmlFor="dni" className="block text-sm font-medium text-gray-700">Cedula</label>
                 <input type="text" id="dni" value={dniFilter} onChange={e => setDniFilter(e.target.value)} placeholder="Buscar por Cedula..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
             </div>
              <div className='flex-1 min-w-[150px]'>
-                <label htmlFor="date" className="block text-sm font-medium text-gray-700">Fecha registro</label>
+                <label htmlFor="date" className="block text-sm font-medium text-gray-700">Fecha</label>
                 <input type="date" id="date" value={dateFilter} onChange={e => setDateFilter(e.target.value)} className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
             </div>
+            {/* 3. Botón para descargar el archivo */}
+            <div className="w-full md:w-auto flex items-end">
+                <button 
+                    onClick={handleDownloadXLSX}
+                    className="w-full md:w-auto mt-1 px-4 py-2 text-sm font-medium text-white bg-green-600 rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500"
+                >
+                    Descargar XLSX
+                </button>
+            </div>
         </div>
-
 
         <div className="w-full max-w-7xl overflow-x-auto">
           <table className="w-full text-sm text-left text-gray-500 rounded-lg shadow-lg">
@@ -145,7 +171,6 @@ function RankingView() {
           </table>
         </div>
 
-        {/* Sección de Paginación */}
         <div className="flex items-center justify-between w-full max-w-7xl mt-4">
             <span className="text-sm text-gray-700">
                 Página <span className="font-semibold">{currentPage}</span> de <span className="font-semibold">{totalPages}</span>
