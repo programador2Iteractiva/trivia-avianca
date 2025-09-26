@@ -1,0 +1,302 @@
+[
+  {
+    "question": "¿En qué año se fundó la CONMEBOL, la confederación continental más antigua del mundo?",
+    "options": ["1930", "1916", "1950"],
+    "answer": "1916"
+  },
+  {
+    "question": "¿Cuántas asociaciones nacionales fundaron originalmente la CONMEBOL?",
+    "options": ["10", "4", "7"],
+    "answer": "4"
+  },
+  {
+    "question": "¿En qué ciudad se encuentra la sede permanente de la CONMEBOL?",
+    "options": ["Buenos Aires, Argentina", "Luque, Paraguay", "Río de Janeiro, Brasil"],
+    "answer": "Luque, Paraguay"
+  },
+  {
+    "question": "¿Qué torneo inspiró la creación de la CONMEBOL en 1916?",
+    "options": ["La primera Copa del Mundo", "El Campeonato Sudamericano de Selecciones", "Los Juegos Olímpicos"],
+    "answer": "El Campeonato Sudamericano de Selecciones"
+  },
+  {
+    "question": "¿Cuál de estos países NO fue uno de los cuatro miembros fundadores de la CONMEBOL?",
+    "options": ["Argentina", "Perú", "Chile"],
+    "answer": "Perú"
+  },
+  {
+    "question": "La Bombonera es el mítico y vibrante estadio de...",
+    "options": ["Boca Juniors", "Independiente", "Flamengo"],
+    "answer": "Boca Juniors"
+  },
+  {
+    "question": "¿Qué dos selecciones disputan el 'Clásico del Río de la Plata'?",
+    "options": ["Brasil y Uruguay", "Argentina y Uruguay", "Chile y Argentina"],
+    "answer": "Argentina y Uruguay"
+  },
+  {
+    "question": "El Estadio Monumental de Buenos Aires es la casa de...",
+    "options": ["Boca Juniors", "River Plate", "San Lorenzo"],
+    "answer": "River Plate"
+  },
+  {
+    "question": "El 'Clásico del Pacífico' es el partido que enfrenta a Chile contra...",
+    "options": ["Ecuador", "Perú", "Colombia"],
+    "answer": "Perú"
+  },
+  {
+    "question": "El Estadio Centenario, sede de la primera final de un Mundial, se encuentra en...",
+    "options": ["Buenos Aires", "Montevideo", "Santiago"],
+    "answer": "Montevideo"
+  },
+  {
+    "question": "¿Cómo se apoda al trofeo de la CONMEBOL Libertadores?",
+    "options": ["La Gran Conquista", "La Gloria Eterna", "La Copa de los Sueños"],
+    "answer": "La Gloria Eterna"
+  },
+  {
+    "question": "¿Qué club es el máximo ganador en la historia de la CONMEBOL Libertadores?",
+    "options": ["Boca Juniors", "Independiente", "Peñarol"],
+    "answer": "Independiente"
+  },
+  {
+    "question": "¿Quién fue el primer campeón de la CONMEBOL Libertadores en 1960?",
+    "options": ["Santos", "Peñarol", "Olimpia"],
+    "answer": "Peñarol"
+  },
+  {
+    "question": "¿Qué país ha ganado la CONMEBOL Libertadores más veces?",
+    "options": ["Brasil", "Argentina", "Uruguay"],
+    "answer": "Argentina"
+  },
+  {
+    "question": "¿Quién es el máximo goleador histórico de la CONMEBOL Libertadores?",
+    "options": ["Pelé", "Alberto Spencer", "Gabriel Barbosa 'Gabigol'"],
+    "answer": "Alberto Spencer"
+  },
+  {
+    "question": "¿Cuántos equipos participan en la fase de grupos de la CONMEBOL Libertadores?",
+    "options": ["16", "32", "64"],
+    "answer": "32"
+  },
+  {
+    "question": "La final única de la CONMEBOL Libertadores se implementó en 2019. ¿Cuál fue la primera ciudad en recibirla?",
+    "options": ["Madrid", "Lima", "Río de Janeiro"],
+    "answer": "Lima"
+  },
+  {
+    "question": "¿Qué club chileno fue el único de su país en ganar la CONMEBOL Libertadores?",
+    "options": ["Universidad de Chile", "Colo-Colo", "Universidad Católica"],
+    "answer": "Colo-Colo"
+  },
+  {
+    "question": "¿Cuál es el lema o apodo principal de la CONMEBOL Sudamericana?",
+    "options": ["El Camino del Guerrero", "La Gran Conquista", "La Conquista del Sur"],
+    "answer": "La Gran Conquista"
+  },
+  {
+    "question": "¿Qué club argentino ganó la primera edición de la CONMEBOL Sudamericana en 2002?",
+    "options": ["Boca Juniors", "San Lorenzo", "River Plate"],
+    "answer": "San Lorenzo"
+  },
+  {
+    "question": "¿Qué equipo ecuatoriano sorprendió al continente ganando la CONMEBOL Sudamericana en 2009 y 2023?",
+    "options": ["Barcelona SC", "LDU de Quito", "Emelec"],
+    "answer": "LDU de Quito"
+  },
+  {
+    "question": "La CONMEBOL Sudamericana reemplazó a dos torneos anteriores. Uno era la Copa Mercosur, ¿cuál era el otro?",
+    "options": ["Copa CONMEBOL", "Copa Merconorte", "Copa de Oro"],
+    "answer": "Copa Merconorte"
+  },
+  {
+    "question": "¿Qué equipo brasileño fue declarado campeón honorífico de la CONMEBOL Sudamericana 2016 tras su trágico accidente aéreo?",
+    "options": ["Palmeiras", "Chapecoense", "Atlético Mineiro"],
+    "answer": "Chapecoense"
+  },
+  {
+    "question": "¿Quién es el actual presidente de la CONMEBOL?",
+    "options": ["Gianni Infantino", "Alejandro Domínguez", "Juan Ángel Napout"],
+    "answer": "Alejandro Domínguez"
+  },
+  {
+    "question": "El lema oficial de la CONMEBOL bajo la actual presidencia es...",
+    "options": ["'El Fútbol nos une'", "'Cree en Grande'", "'La Gloria es de todos'"],
+    "answer": "'Cree en Grande'"
+  },
+  {
+    "question": "¿Qué país es famoso por su 'garra charrúa'?",
+    "options": ["Paraguay", "Uruguay", "Argentina"],
+    "answer": "Uruguay"
+  },
+  {
+    "question": "¿Qué dos equipos disputan el 'Superclásico' del fútbol argentino?",
+    "options": ["Independiente y Racing", "Boca Juniors y River Plate", "San Lorenzo y Huracán"],
+    "answer": "Boca Juniors y River Plate"
+  },
+  {
+    "question": "¿Cuál es el torneo de clubes más importante del fútbol femenino en Sudamérica?",
+    "options": ["CONMEBOL Sudamericana Femenina", "CONMEBOL Libertadores Femenina", "Supercopa Femenina"],
+    "answer": "CONMEBOL Libertadores Femenina"
+  },
+  {
+    "question": "¿Cuántos países conforman actualmente la CONMEBOL?",
+    "options": ["8", "10", "12"],
+    "answer": "10"
+  },
+  {
+    "question": "La Conmebol Recopa enfrenta anualmente a los campeones de...",
+    "options": ["CONMEBOL Sudamericana y Copa de Campeones", "CONMEBOL Libertadores y CONMEBOL Sudamericana", "CONMEBOL Libertadores y liga del país anfitrión"],
+    "answer": "CONMEBOL Libertadores y CONMEBOL Sudamericana"
+  },
+  {
+    "question": "¿Cómo se llama el torneo de selecciones juveniles más importante que clasifica al Mundial de la categoría?",
+    "options": ["El Mundialito", "CONMEBOL Sub-20", "La Copa Promesas de América"],
+    "answer": "CONMEBOL Sub-20"
+  },
+  {
+    "question": "¿Qué país fue el primer campeón de la historia de la CONMEBOL Libertadores Femenina?",
+    "options": ["Colo-Colo (Chile)", "Santos (Brasil)", "Formas Íntimas (Colombia)"],
+    "answer": "Santos (Brasil)"
+  },
+  {
+    "question": "¿Qué trofeo global puede disputar el campeón de la CONMEBOL Libertadores?",
+    "options": ["La Copa de Campeones", "La Copa Mundial de Clubes de la FIFA", "La Copa Intercontinental"],
+    "answer": "La Copa Mundial de Clubes de la FIFA"
+  },
+  {
+    "question": "¿Qué regla de desempate se eliminó recientemente de la CONMEBOL Libertadores y CONMEBOL Sudamericana a partir de 2022?",
+    "options": ["Tiempo extra obligatorio", "El gol de visitante", "Penales al mejor de tres"],
+    "answer": "El gol de visitante"
+  },
+  {
+    "question": "¿Qué club paraguayo es conocido como 'El Decano' y ha ganado 3 CONMEBOL Libertadores?",
+    "options": ["Cerro Porteño", "Olimpia", "Libertad"],
+    "answer": "Olimpia"
+  },
+  {
+    "question": "¿Cuál fue el primer equipo del Pacífico en ganar la CONMEBOL Libertadores?",
+    "options": ["LDU de Quito", "Atlético Nacional", "Colo-Colo"],
+    "answer": "Atlético Nacional"
+  },
+  {
+    "question": "¿Qué equipo ganó 4 CONMEBOL Libertadores consecutivas entre 1968 y 1971?",
+    "options": ["Peñarol", "Estudiantes de La Plata", "Santos de Pelé"],
+    "answer": "Estudiantes de La Plata"
+  },
+  {
+    "question": "En la icónica final de la CONMEBOL Libertadores 2018 jugada en Madrid, ¿qué equipos se enfrentaron?",
+    "options": ["Flamengo vs. River Plate", "River Plate vs. Boca Juniors", "Palmeiras vs. Boca Juniors"],
+    "answer": "River Plate vs. Boca Juniors"
+  },
+  {
+    "question": "¿Qué significa la palabra 'CONMEBOL'?",
+    "options": ["Consejo Mundial de Balompié", "Confederación Sudamericana de Fútbol", "Comunidad de Naciones del Balompié"],
+    "answer": "Confederación Sudamericana de Fútbol"
+  },
+  {
+    "question": "¿Qué equipo es conocido como el 'Rey de Copas' por sus 7 títulos de CONMEBOL Libertadores?",
+    "options": ["Peñarol", "Independiente", "Boca Juniors"],
+    "answer": "Independiente"
+  },
+  {
+    "question": "¿Qué tecnología de videoarbitraje se utiliza en los torneos de CONMEBOL?",
+    "options": ["Ojo de Halcón", "VAR (Video Assistant Referee)", "Goal-line Technology"],
+    "answer": "VAR (Video Assistant Referee)"
+  },
+  {
+    "question": "¿En qué ciudad se fundó CONMEBOL?",
+    "options": ["Bogotá, Colombia", "Buenos Aires, Argentina", "Río de Janeiro, Brasil"],
+    "answer": "Buenos Aires, Argentina"
+  },
+  {
+    "question": "¿Quién es considerado uno de los mejores futbolistas en la historia de Bolivia, apodado 'El Diablo'?",
+    "options": ["Erwin 'Platini' Sánchez", "Marco Etcheverry", "Joaquín Botero"],
+    "answer": "Marco Etcheverry"
+  },
+  {
+    "question": "¿Qué equipo colombiano tuvo una época dorada a finales de los 80, ganando la CONMEBOL Libertadores en 1989?",
+    "options": ["América de Cali", "Atlético Nacional", "Millonarios"],
+    "answer": "Atlético Nacional"
+  },
+  {
+    "question": "¿Qué club argentino ganó la primera edición de la CONMEBOL Sudamericana en 2002?",
+    "options": ["Boca Juniors", "San Lorenzo", "River Plate"],
+    "answer": "San Lorenzo"
+  },
+  {
+    "question": "¿Qué equipo ecuatoriano sorprendió al continente ganando la CONMEBOL Sudamericana en 2009 y 2023?",
+    "options": ["Barcelona SC", "LDU de Quito", "Emelec"],
+    "answer": "LDU de Quito"
+  },
+  {
+    "question": "La CONMEBOL Sudamericana reemplazó a dos torneos anteriores. Uno era la Copa Mercosur, ¿cuál era el otro?",
+    "options": ["Copa CONMEBOL", "Copa Merconorte", "Copa de Oro"],
+    "answer": "Copa Merconorte"
+  },
+  {
+    "question": "¿Qué club paraguayo es conocido como 'El Decano' y ha ganado 3 CONMEBOL Libertadores?",
+    "options": ["Cerro Porteño", "Olimpia", "Libertad"],
+    "answer": "Olimpia"
+  },
+  {
+    "question": "¿Cuál fue el primer equipo del Pacífico en ganar la CONMEBOL Libertadores?",
+    "options": ["LDU de Quito", "Atlético Nacional", "Colo-Colo"],
+    "answer": "Atlético Nacional"
+  },
+  {
+    "question": "¿Qué equipo ganó 4 CONMEBOL Libertadores consecutivas entre 1968 y 1971?",
+    "options": ["Peñarol", "Estudiantes de La Plata", "Santos de Pelé"],
+    "answer": "Estudiantes de La Plata"
+  },
+  {
+    "question": "¿Qué entrenador argentino es el más ganador en la historia de la CONMEBOL Libertadores con cuatro títulos?",
+    "options": ["Marcelo Gallardo", "Carlos Bianchi", "Osvaldo Zubeldía"],
+    "answer": "Carlos Bianchi"
+  },
+  {
+    "question": "¿Cuál de estos jugadores NO forma parte del selecto grupo que ha ganado la CONMEBOL Libertadores y la UEFA Champions League?",
+    "options": ["Neymar Jr.", "Ronaldo Nazário", "Ronaldinho"],
+    "answer": "Ronaldo Nazário"
+  },
+  {
+    "question": "La ciudad de Avellaneda en Argentina es mundialmente famosa por albergar los estadios de dos clubes rivales a solo 300 metros de distancia. ¿Qué equipos son?",
+    "options": ["Boca Juniors y River Plate", "Racing Club e Independiente", "San Lorenzo y Huracán"],
+    "answer": "Racing Club e Independiente"
+  },
+  {
+    "question": "El estadio de La Paz, Bolivia, es conocido por la dificultad que representa para los equipos visitantes debido a su altitud. ¿Cómo se llama?",
+    "options": ["Estadio Olímpico Atahualpa", "Estadio Hernando Siles", "Estadio Monumental de la UNSA"],
+    "answer": "Estadio Hernando Siles"
+  },
+  {
+    "question": "¿Qué club es conocido en Brasil como el 'Tricolor Paulista'?",
+    "options": ["Palmeiras", "São Paulo FC", "Corinthians"],
+    "answer": "São Paulo FC"
+  },
+  {
+    "question": "En la final de la CONMEBOL Libertadores 2019, Flamengo consiguió una remontada épica en los últimos 5 minutos contra...",
+    "options": ["Boca Juniors", "River Plate", "Palmeiras"],
+    "answer": "River Plate"
+  },
+  {
+    "question": "En 2022, el delantero Julián Álvarez impuso un récord al marcar una increíble cantidad de goles en un solo partido de CONMEBOL Libertadores para River Plate. ¿Cuántos goles hizo?",
+    "options": ["5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "El estadio de Racing Club, 'El Cilindro de Avellaneda', tiene un nombre oficial que rinde homenaje a un famoso presidente argentino. ¿Quién es?",
+    "options": ["Hipólito Yrigoyen", "Juan Domingo Perón", "Arturo Frondizi"],
+    "answer": "Juan Domingo Perón"
+  },
+  {
+    "question": "En una tanda de penales de un torneo CONMEBOL, si el marcador sigue empatado tras los 5 tiros por equipo, se procede a...",
+    "options": ["Lanzar una moneda al aire.", "Una serie de 'muerte súbita', un tiro por equipo hasta que haya un ganador.", "Jugar un tiempo extra de 10 minutos."],
+    "answer": "Una serie de 'muerte súbita', un tiro por equipo hasta que haya un ganador."
+  },
+  {
+    "question": "¿Quién fue el primer presidente de la Conmebol?",
+    "options": ["Nicolás Leoz (Paraguay)", "Héctor Rivadavia (Uruguay)", "Eugenio Figueredo (Uruguay)"],
+    "answer": "Héctor Rivadavia (Uruguay)"
+  }
+]

@@ -1,6 +1,6 @@
 import { createContext, useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import questionsData from "../questions.json";
+import questionsData from "../data/questions.json";
 
 export const GameContext = createContext();
 
@@ -14,6 +14,7 @@ export const GameProvider = ({ children }) => {
 
   useEffect(() => {
     setQuestions(questionsData);
+    console.log(questionsData.length)
   }, []);
 
   useEffect(() => {
