@@ -1,4 +1,4 @@
-import { useState, useContext } from "react"; // 1. Importar useContext
+import { useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import BtnLayout from "../components/utils/BtnLayout";
 import LogosAvianca from "../components/LogosAvianca";
@@ -6,10 +6,10 @@ import Footer from "../components/utils/Footer";
 import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png";
 import IconoAvion from "../assets/icons/IconoAvion.png";
 import IconoCirculo from "../assets/icons/IconoCirculo.png";
-import { ApiContext } from "../context/ApiContext"; // 2. Importar el ApiContext
+import { ApiContext } from "../context/ApiContext";
 
 function FormView() {
-  const { handleRegister, loading, error } = useContext(ApiContext); // 3. Usar el contexto
+  const { handleRegister, loading } = useContext(ApiContext); 
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
     nombre: "",
@@ -21,10 +21,6 @@ function FormView() {
     terminos: false,
   });
   
-  // Estado local para errores de formulario
-  const [formError, setFormError] = useState('');
-
-
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
     setFormData((prevData) => ({
@@ -33,12 +29,9 @@ function FormView() {
     }));
   };
 
-  // 4. Modificar handleSubmit para que sea asíncrono y use el contexto
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setFormError(''); // Limpiar errores previos
 
-    // Mapear los datos del formulario a lo que espera la API
     const apiData = {
       name: formData.nombre,
       dni: formData.cedula,
@@ -50,12 +43,9 @@ function FormView() {
 
     try {
       await handleRegister(apiData);
-      // Si el registro es exitoso, navegar a la siguiente página
       navigate("/reglas");
     } catch (apiError) {
-      // Si hay un error, mostrarlo al usuario
       console.error("Error en el registro:", apiError);
-      setFormError('Hubo un error al registrar tus datos. Por favor, inténtalo de nuevo.');
     }
   };
 
@@ -185,12 +175,8 @@ function FormView() {
                     Acepto términos y condiciones
                   </label>
                 </div>
-
-                {/* 5. Mostrar mensaje de error si existe */}
-                {formError && <p className="text-red-500 text-center text-sm">{formError}</p>}
                 
                 <div className="absolute flex justify-center items-center w-full">
-                  {/* 6. Deshabilitar botón mientras carga */}
                   <BtnLayout
                     type="submit"
                     text={loading ? "Registrando..." : "Regístrate"}

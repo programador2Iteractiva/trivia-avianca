@@ -9,11 +9,14 @@ export const ApiProvider = ({ children }) => {
   const [ranking, setRanking] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+  const [alert, setAlert] = useState(null); // Nuevo estado para la alerta
 
   // 1. Al cargar la aplicación, se limpia todo el localStorage.
   useEffect(() => {
     localStorage.clear();
   }, []);
+
+  const clearAlert = () => setAlert(null);
 
   const handleRegister = async (userData) => {
     setLoading(true);
@@ -27,6 +30,8 @@ export const ApiProvider = ({ children }) => {
       return data;
     } catch (err) {
       setError(err);
+      console.log("Este es el error que voy a mostrar: " + err)
+      setAlert('Hubo un error al registrar tus datos. Por favor, inténtalo de nuevo.'); // Mostrar alerta
       throw err;
     } finally {
       setLoading(false);
@@ -44,7 +49,6 @@ export const ApiProvider = ({ children }) => {
   const handleSaveLog = async (logData) => {
     const currentToken = token || localStorage.getItem('token');
     if (!currentToken) {
-      const err = new Error("No hay un token de autenticación para guardar el log.");
       setError(err);
       throw err;
     }
@@ -64,6 +68,7 @@ export const ApiProvider = ({ children }) => {
       return data;
     } catch (err) {
       setError(err);
+      setAlert('Ocurrió un error al guardar tu puntuación.'); // Mostrar alerta
       throw err;
     } finally {
       setLoading(false);
@@ -79,6 +84,7 @@ export const ApiProvider = ({ children }) => {
       return data;
     } catch (err) {
       setError(err);
+      setAlert('No se pudo cargar el ranking.'); // Mostrar alerta
       throw err;
     } finally {
       setLoading(false);
@@ -93,10 +99,12 @@ export const ApiProvider = ({ children }) => {
         ranking,
         loading, 
         error, 
+        alert, // Pasar el estado de la alerta
         handleRegister,
         handleSaveLog,
         handleGetRanking,
         handleLogout,
+        clearAlert, // Pasar la función para limpiar la alerta
         isAuthenticated: !!token
       }}
     >
