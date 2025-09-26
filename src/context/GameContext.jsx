@@ -8,7 +8,7 @@ export const GameProvider = ({ children }) => {
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(190);
+  const [timeLeft, setTimeLeft] = useState(90);
   const [gameStarted, setGameStarted] = useState(false);
   const navigate = useNavigate();
 
@@ -32,7 +32,7 @@ export const GameProvider = ({ children }) => {
   const startGame = () => {
     setScore(0);
     setCurrentQuestionIndex(0);
-    setTimeLeft(190);
+    setTimeLeft(90);
     setGameStarted(true);
   };
 

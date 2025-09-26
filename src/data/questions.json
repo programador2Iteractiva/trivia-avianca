@@ -300,3 +300,346 @@
     "answer": "Héctor Rivadavia (Uruguay)"
   }
 ]
+
+// [
+//   {
+//     "question": "¿En qué año se fundó Avianca?",
+//     "options": ["1919", "1925", "1932"],
+//     "answer": "1919"
+//   },
+//   {
+//     "question": "¿Avianca es la aerolínea más antigua de América?",
+//     "options": ["Verdadero", "Falso", "No se sabe"],
+//     "answer": "Verdadero"
+//   },
+//   {
+//     "question": "¿En qué país nació Avianca?",
+//     "options": ["Ecuador", "Colombia", "Perú"],
+//     "answer": "Colombia"
+//   },
+//   {
+//     "question": "¿Cuál es el aeropuerto principal de Avianca en Colombia?",
+//     "options": ["El Dorado (Bogotá)", "José María Córdova (Medellín)", "Alfonso Bonilla Aragón (Cali)"],
+//     "answer": "El Dorado (Bogotá)"
+//   },
+//   {
+//     "question": "¿En qué ciudad está la sede principal de Avianca?",
+//     "options": ["Medellín", "Bogotá", "Cali"],
+//     "answer": "Bogotá"
+//   },
+//   {
+//     "question": "¿Cuántos países conecta Avianca actualmente?",
+//     "options": ["+25", "entre 8 y 10", "entre 10 y 20"],
+//     "answer": "+25"
+//   },
+//   {
+//     "question": "¿Qué color predomina en la imagen de Avianca?",
+//     "options": ["Azul", "Rojo", "Verde"],
+//     "answer": "Rojo"
+//   },
+//   {
+//     "question": "¿Qué animal aparece en el logo de Avianca?",
+//     "options": ["Cóndor", "Águila", "Colibrí"],
+//     "answer": "Cóndor"
+//   },
+//   {
+//     "question": "¿Avianca tiene operación doméstica en Ecuador?",
+//     "options": ["Sí", "No", "Solo estacional"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Cuántos años cumplió Avianca en 2024?",
+//     "options": ["80", "100", "105"],
+//     "answer": "105"
+//   },
+//   {
+//     "question": "¿Cuál fue el primer nombre de la aerolínea antes de llamarse Avianca?",
+//     "options": ["SCADTA", "LANSA", "Aerocóndor"],
+//     "answer": "SCADTA"
+//   },
+//   {
+//     "question": "¿Qué significa el programa 'Stopover Bogotá'?",
+//     "options": ["Dormir gratis en el aeropuerto", "Conocer Bogotá durante una conexión", "Acceso a salas VIP sin costo"],
+//     "answer": "Conocer Bogotá durante una conexión"
+//   },
+//   {
+//     "question": "¿Qué certificación obtuvo Avianca en 2023 sobre huella de carbono?",
+//     "options": ["ISO 9001", "ISO 14064-3", "ISO 26000"],
+//     "answer": "ISO 14064-3"
+//   },
+//   {
+//     "question": "¿Avianca vuela directo a Londres?",
+//     "options": ["Sí", "No", "Solo vía conexión"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Qué ciudad del norte de Brasil es nuevo destino de Avianca en 2025?",
+//     "options": ["Fortaleza", "Belém", "Manaos"],
+//     "answer": "Manaos"
+//   },
+//   {
+//     "question": "¿Qué es INSIGNIA by Avianca?",
+//     "options": ["La nueva Business Class de Avianca hacia y desde Europa", "Un programa de millas", "El nombre de un nuevo avión"],
+//     "answer": "La nueva Business Class de Avianca hacia y desde Europa"
+//   },
+//   {
+//     "question": "¿Avianca tiene vuelos directos de Bogotá a París?",
+//     "options": ["Sí", "No"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Qué ciudad argentina se conecta directamente con Bogotá desde junio 2025?",
+//     "options": ["Córdoba", "Rosario", "Mendoza"],
+//     "answer": "Rosario"
+//   },
+//   {
+//     "question": "¿Cuál es la ciudad estadounidense conocida por su música y arquitectura a la que Avianca vuela desde El Salvador en 2025?",
+//     "options": ["Miami", "Chicago", "Atlanta"],
+//     "answer": "Chicago"
+//   },
+//   {
+//     "question": "¿Qué ciudad caribeña se conecta con San José (Costa Rica) desde marzo 2025?",
+//     "options": ["San Juan, Puerto Rico", "La Habana", "Punta Cana"],
+//     "answer": "San Juan, Puerto Rico"
+//   },
+//   {
+//     "question": "¿Avianca tiene vuelos directos a Tampa desde Colombia?",
+//     "options": ["Sí", "No", "Solo vía conexión"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Cuál es el destino apodado 'eterna primavera' conectado con Lima en 2025?",
+//     "options": ["Medellín", "Cali", "Pereira", "Orlando"],
+//     "answer": "Medellín"
+//   },
+//   {
+//     "question": "¿Qué modelo de avión de un solo pasillo usa Avianca en rutas regionales?",
+//     "options": ["Airbus A320", "Embraer 190", "Boeing 757"],
+//     "answer": "Airbus A320"
+//   },
+//   {
+//     "question": "¿En qué avión se ofrece INSIGNIA Business Class hacia Europa?",
+//     "options": ["Boeing 787", "Airbus A319", "Airbus A321"],
+//     "answer": "Boeing 787"
+//   },
+//   {
+//     "question": "¿Qué tipo de asientos ofrece el Boeing 787?",
+//     "options": ["Solo Economy", "Business, Plus y Economy", "Premium Economy únicamente"],
+//     "answer": "Business, Plus y Economy"
+//   },
+//   {
+//     "question": "¿Cuántos grados de reclinación tiene el asiento Business en vuelos a Europa?",
+//     "options": ["150°", "180°", "120°"],
+//     "answer": "180°"
+//   },
+//   {
+//     "question": "¿Qué elementos de confort incluye Business Class Américas en vuelos de más de 3 horas?",
+//     "options": ["Snacks", "Almuerzo, cena o desayuno", "Solo bebidas"],
+//     "answer": "Almuerzo, cena o desayuno"
+//   },
+//   {
+//     "question": "¿Qué chef colombiano diseña menús para Business Class Américas?",
+//     "options": ["Jorge Rausch", "Álvaro Clavijo", "Harry Sasson"],
+//     "answer": "Álvaro Clavijo"
+//   },
+//   {
+//     "question": "¿Qué servicio a bordo permite ver películas desde el celular?",
+//     "options": ["Avianca On Air", "Sky Entertainment", "Cloud Cinema"],
+//     "answer": "Avianca On Air"
+//   },
+//   {
+//     "question": "¿Qué tamaño máximo debe tener el equipaje de mano?",
+//     "options": ["55x40x25 cm", "45x35x20 cm", "50x40x20 cm"],
+//     "answer": "55x40x25 cm"
+//   },
+//   {
+//     "question": "¿Cuál es el peso máximo permitido para el equipaje de mano?",
+//     "options": ["8 kg", "10 kg", "12 kg"],
+//     "answer": "10 kg"
+//   },
+//   {
+//     "question": "¿Los equipos deportivos como tablas de surf pueden llevarse en bodega?",
+//     "options": ["Sí", "No", "Solo con pago especial"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Cuántos equipajes de bodega de 32 kg incluye Business Class?",
+//     "options": ["1", "2", "3"],
+//     "answer": "2"
+//   },
+//   {
+//     "question": "¿Avianca cuenta con salas VIP en Miami?",
+//     "options": ["Sí", "No", "Solo para socios Diamond"],
+//     "answer": "Sí"
+//   },
+//   {
+//     "question": "¿Qué servicio especial permite embarcar antes que otros pasajeros?",
+//     "options": ["Check-in online", "Abordaje prioritario", "Fast Track"],
+//     "answer": "Abordaje prioritario"
+//   },
+//   {
+//     "question": "¿Qué tipo de asientos en A320 están en las filas 1-3?",
+//     "options": ["Asientos Economy", "Asientos Premium", "Asientos Plus"],
+//     "answer": "Asientos Premium"
+//   },
+//   {
+//     "question": "¿Cómo se llama el programa de fidelidad de Avianca?",
+//     "options": ["Avianca Miles", "LifeMiles", "Avianca Rewards"],
+//     "answer": "LifeMiles"
+//   },
+//   {
+//     "question": "¿Qué nivel de LifeMiles está por encima de Gold?",
+//     "options": ["Silver", "Diamond", "Concierge"],
+//     "answer": "Diamond"
+//   },
+//   {
+//     "question": "¿Qué beneficio reciben los socios Diamond en Avianca Lounges?",
+//     "options": ["Acceso ilimitado", "20 entradas al año", "10 entradas al año"],
+//     "answer": "Acceso ilimitado"
+//   },
+//   {
+//     "question": "¿Qué año recibió Avianca la verificación de huella de carbono?",
+//     "options": ["2022", "2023", "2024"],
+//     "answer": "2023"
+//   },
+//   {
+//     "question": "¿Hasta cuánto antes puedes finalizar el check-in?",
+//     "options": ["90 min", "60 min en internacionales / 45 min en nacionales", "30 min"],
+//     "answer": "60 min en internacionales / 45 min en nacionales"
+//   },
+//   {
+//     "question": "¿Cómo usas avianca on air a bordo?",
+//     "options": ["Descargando Netflix", "Conectándote al Wi-Fi 'avianca' y entrando a aviancaonair.com", "Solo con datos móviles."],
+//     "answer": "Conectándote al Wi-Fi 'avianca' y entrando a aviancaonair.com"
+//   },
+//   {
+//     "question": "¿Dónde revisas requisitos de viaje y documentos?",
+//     "options": ["Blog de viajes", "En 'Requisitos para viajar' de avianca.com", "En cualquier web Avianca"],
+//     "answer": "En 'Requisitos para viajar' de avianca.com"
+//   },
+//   {
+//     "question": "¿Qué app te permite hacer check-in y recibir notificaciones de tu vuelo?",
+//     "options": ["WhatsApp", "App de Avianca", "TikTok Avianca"],
+//     "answer": "App de Avianca"
+//   },
+//   {
+//     "question": "avianca on air ofrece contenidos de...",
+//     "options": ["Disney+", "HBO Max y F1 TV", "Prime Video"],
+//     "answer": "HBO Max y F1 TV"
+//   },
+//   {
+//     "question": "¿Cómo se llama el servicio para conectar con otras aerolíneas y llegar a más destinos?",
+//     "options": ["Star Fly", "avianca connect", "Avianca Max"],
+//     "answer": "avianca connect"
+//   },
+//   {
+//     "question": "Un beneficio Star Alliance Gold es...",
+//     "options": ["Boletos 2x1", "Comida gratis", "Maleta adicional y acceso a lounges"],
+//     "answer": "Maleta adicional y acceso a lounges"
+//   },
+//   {
+//     "question": "¿Qué edad define a un bebé para Avianca?",
+//     "options": ["Menor de 3 años", "Menor de 1 año", "Mayor de 10 días y menor de 2 años"],
+//     "answer": "Mayor de 10 días y menor de 2 años"
+//   },
+//   {
+//     "question": "Los pasajeros de 2 a 11 años se consideran...",
+//     "options": ["Adultos", "Niños", "Bebés"],
+//     "answer": "Niños"
+//   },
+//   {
+//     "question": "Para solicitar silla de ruedas debes...",
+//     "options": ["Pedirla al abordar", "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad", "Pagar siempre"],
+//     "answer": "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad"
+//   },
+//   {
+//     "question": "¿Cuándo abre el check-in online de Avianca?",
+//     "options": ["72 h antes de tu vuelo", "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)", "Solo 12 h antes"],
+//     "answer": "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)"
+//   },
+//   {
+//     "question": "¿Con cuánta anticipación recomienda Avianca llegar al aeropuerto?",
+//     "options": ["1 h nacional / 2 h internacional", "2 h nacional / 3 h internacional", "4 h en todos los casos"],
+//     "answer": "2 h nacional / 3 h internacional"
+//   },
+//   {
+//     "question": "¿Cuántas bolsas Duty Free puedes llevar sin cargo?",
+//     "options": ["1", "2", "3"],
+//     "answer": "1"
+//   },
+//   {
+//     "question": "¿Qué tarifa incluye asiento Plus (sujeto a disponibilidad)?",
+//     "options": ["Flex", "Classic", "Basic"],
+//     "answer": "Flex"
+//   },
+//   {
+//     "question": "¿Qué tarifa acumula 10 LifeMiles por USD?",
+//     "options": ["Business", "Classic", "Flex"],
+//     "answer": "Business"
+//   },
+//   {
+//     "question": "¿Hasta cuándo puedes ofertar un upgrade a Business Class?",
+//     "options": ["Hasta 24 h antes", "Hasta 4 h antes del vuelo", "Solo en el aeropuerto"],
+//     "answer": "Hasta 24 h antes"
+//   },
+//   {
+//     "question": "¿Qué dato necesitas para iniciar el check-in online?",
+//     "options": ["Número de pasaporte", "Código de reserva", "Número de asiento"],
+//     "answer": "Código de reserva"
+//   },
+//   {
+//     "question": "¿Dónde te notifica Avianca cambios de itinerario en tiempo real?",
+//     "options": ["Solo SMS", "Email y WhatsApp", "Solo por llamada"],
+//     "answer": "Email y WhatsApp"
+//   },
+//   {
+//     "question": "¿Qué red global permite acumular/canjear con 26 aerolíneas?",
+//     "options": ["oneworld", "SkyTeam", "Star Alliance"],
+//     "answer": "Star Alliance"
+//   },
+//   {
+//     "question": "¿Qué incluye INSIGNIA by avianca en asiento?",
+//     "options": ["Reclinación 30°", "Asiento-cama (flatbed)", "Solo reposacabezas"],
+//     "answer": "Asiento-cama (flatbed)"
+//   },
+//   {
+//     "question": "Si compraste en grupo, ¿desde cuántos pasajeros se considera reserva grupal?",
+//     "options": ["6", "8", "10 o más"],
+//     "answer": "10 o más"
+//   },
+//   {
+//     "question": "¿Plazo máximo para reclamar equipaje demorado?",
+//     "options": ["7 días", "14 días", "21 días desde que finalizó tu vuelo"],
+//     "answer": "21 días desde que finalizó tu vuelo"
+//   },
+//   {
+//     "question": "¿Por cuánto tiempo guarda Avianca ciertos objetos perdidos?",
+//     "options": ["1 mes", "2 meses", "6 meses"],
+//     "answer": "2 meses"
+//   },
+//   {
+//     "question": "Para reclamar un objeto olvidado en el avión, necesitas:",
+//     "options": ["Únicamente tu número de vuelo", "Documento de identidad y pase de abordar", "Tarjeta de crédito"],
+//     "answer": "Documento de identidad y pase de abordar"
+//   },
+//   {
+//     "question": "El Contrato de Transporte indica que el pasajero es responsable de llevar...",
+//     "options": ["Solo pasaporte", "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc.", "Solo visa electronica"],
+//     "answer": "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc."
+//   },
+//   {
+//     "question": "Los dispositivos de movilidad (sillas de ruedas, etc.)...",
+//     "options": ["Se cobran como extra", "Hacen parte de tu equipaje gratuito", "Solo se aceptan plegables"],
+//     "answer": "Hacen parte de tu equipaje gratuito"
+//   },
+//   {
+//     "question": "Vianca es...",
+//     "options": ["Un programa de crédito", "La asistente virtual por WhatsApp que te ayuda con tu viaje", "Un tipo de tarifa"],
+//     "answer": "La asistente virtual por WhatsApp que te ayuda con tu viaje"
+//   },
+//   {
+//     "question": "Si compraste Basic o Light y haces el check-in en counter, ¿qué pasa?",
+//     "options": ["Está incluido sin costo", "Debes ir a kiosco primero", "Puede tener costo"],
+//     "answer": "Puede tener costo"
+//   }
+// ]
