@@ -1,0 +1,2280 @@
+[
+  {
+    "question": "¿En qué año se fundó Avianca?",
+    "options": [
+      "1919",
+      "1925",
+      "1932"
+    ],
+    "answer": "1919"
+  },
+  {
+    "question": "¿Avianca es la aerolínea más antigua de América?",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "No se sabe"
+    ],
+    "answer": "Verdadero"
+  },
+  {
+    "question": "¿En qué país nació Avianca?",
+    "options": [
+      "Ecuador",
+      "Colombia",
+      "Perú"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "question": "¿Cuál es el aeropuerto principal de Avianca en Colombia?",
+    "options": [
+      "El Dorado (Bogotá)",
+      "José María Córdova (Medellín)",
+      "Alfonso Bonilla Aragón (Cali)"
+    ],
+    "answer": "El Dorado (Bogotá)"
+  },
+  {
+    "question": "¿En qué ciudad está la sede principal de Avianca?",
+    "options": [
+      "Medellín",
+      "Bogotá",
+      "Cali"
+    ],
+    "answer": "Bogotá"
+  },
+  {
+    "question": "¿Cuántos países conecta Avianca actualmente?",
+    "options": [
+      "+25",
+      "entre 8 y 10",
+      "entre 10 y 20"
+    ],
+    "answer": "+25"
+  },
+  {
+    "question": "¿Qué color predomina en la imagen de Avianca?",
+    "options": [
+      "Azul",
+      "Rojo",
+      "Verde"
+    ],
+    "answer": "Rojo"
+  },
+  {
+    "question": "¿Qué animal aparece en el logo de Avianca?",
+    "options": [
+      "Cóndor",
+      "Águila",
+      "Colibrí"
+    ],
+    "answer": "Cóndor"
+  },
+  {
+    "question": "¿Avianca tiene operación doméstica en Ecuador?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo estacional"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuántos años cumplió Avianca en 2024?",
+    "options": [
+      "80",
+      "100",
+      "105"
+    ],
+    "answer": "105"
+  },
+  {
+    "question": "¿Cuál fue el primer nombre de la aerolínea antes de llamarse Avianca?",
+    "options": [
+      "SCADTA",
+      "LANSA",
+      "Aerocóndor"
+    ],
+    "answer": "SCADTA"
+  },
+  {
+    "question": "¿Qué significa el programa \"Stopover Bogotá\"?",
+    "options": [
+      "Dormir gratis en el aeropuerto",
+      "Conocer Bogotá durante una conexión",
+      "Acceso a salas VIP sin costo"
+    ],
+    "answer": "Conocer Bogotá durante una conexión"
+  },
+  {
+    "question": "¿Qué certificación obtuvo Avianca en 2023 sobre huella de carbono?",
+    "options": [
+      "ISO 9001",
+      "ISO 14064-3",
+      "ISO 26000"
+    ],
+    "answer": "ISO 14064-3"
+  },
+  {
+    "question": "¿Avianca vuela directo a Londres?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo vía conexión"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Qué ciudad del norte de Brasil es nuevo destino de Avianca en 2025?",
+    "options": [
+      "Fortaleza",
+      "Belém",
+      "Manaos"
+    ],
+    "answer": "Manaos"
+  },
+  {
+    "question": "¿Qué es INSIGNIA by Avianca?",
+    "options": [
+      "La nueva Business Class de Avianca hacia y desde Europa",
+      "Un programa de millas",
+      "El nombre de un nuevo avión"
+    ],
+    "answer": "La nueva Business Class de Avianca hacia y desde Europa"
+  },
+  {
+    "question": "¿Avianca tiene vuelos directos de Bogotá a París?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo con escala"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Qué ciudad argentina se conecta directamente con Bogotá desde junio 2025?",
+    "options": [
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "answer": "Rosario"
+  },
+  {
+    "question": "¿Cuál es la ciudad estadounidense conocida por su música y arquitectura a la que Avianca vuela desde El Salvador en 2025?",
+    "options": [
+      "Miami",
+      "Chicago",
+      "Atlanta"
+    ],
+    "answer": "Atlanta"
+  },
+  {
+    "question": "¿Qué ciudad caribeña se conecta con San José (Costa Rica) desde marzo 2025?",
+    "options": [
+      "San Juan, Puerto Rico",
+      "La Habana",
+      "Punta Cana"
+    ],
+    "answer": "San Juan, Puerto Rico"
+  },
+  {
+    "question": "¿Avianca tiene vuelos directos a Tampa desde Colombia?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo vía conexión"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "¿Cuál es el destino apodado \"eterna primavera\" conectado con Lima en 2025?",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Pereira",
+      "Orlando"
+    ],
+    "answer": "Medellín"
+  },
+  {
+    "question": "¿Qué modelo de avión de un solo pasillo usa Avianca en rutas regionales?",
+    "options": [
+      "Airbus A320",
+      "Embraer 190",
+      "Boeing 757"
+    ],
+    "answer": "Airbus A320"
+  },
+  {
+    "question": "¿En qué avión se ofrece INSIGNIA Business Class hacia Europa?",
+    "options": [
+      "Boeing 787",
+      "Airbus A319",
+      "Airbus A321"
+    ],
+    "answer": "Boeing 787"
+  },
+  {
+    "question": "¿Qué tipo de asientos ofrece el Boeing 787?",
+    "options": [
+      "Solo Economy",
+      "Business, Plus y Economy",
+      "Premium Economy únicamente"
+    ],
+    "answer": "Business, Plus y Economy"
+  },
+  {
+    "question": "¿Cuántos grados de reclinación tiene el asiento Business en vuelos a Europa?",
+    "options": [
+      "150°",
+      "180°",
+      "120°"
+    ],
+    "answer": "180°"
+  },
+  {
+    "question": "¿Qué elementos de confort incluye Business Class Américas en vuelos de más de 3 horas?",
+    "options": [
+      "Snacks",
+      "Almuerzo, cena o desayuno",
+      "Solo bebidas"
+    ],
+    "answer": "Almuerzo, cena o desayuno"
+  },
+  {
+    "question": "¿Qué chef colombiano diseña menús para Business Class Américas?",
+    "options": [
+      "Jorge Rausch",
+      "Álvaro Clavijo",
+      "Harry Sasson"
+    ],
+    "answer": "Álvaro Clavijo"
+  },
+  {
+    "question": "¿Qué servicio a bordo permite ver películas desde el celular?",
+    "options": [
+      "Avianca On Air",
+      "Sky Entertainment",
+      "Cloud Cinema"
+    ],
+    "answer": "Avianca On Air"
+  },
+  {
+    "question": "¿Qué tamaño máximo debe tener el equipaje de mano?",
+    "options": [
+      "55x40x25 cm",
+      "45x35x20 cm",
+      "50x40x20 cm"
+    ],
+    "answer": "55x40x25 cm"
+  },
+  {
+    "question": "¿Cuál es el peso máximo permitido para el equipaje de mano?",
+    "options": [
+      "8 kg",
+      "10 kg",
+      "12 kg"
+    ],
+    "answer": "10 kg"
+  },
+  {
+    "question": "¿Los equipos deportivos como tablas de surf pueden llevarse en bodega?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo con pago especial"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuántos equipajes de bodega de 32 kg incluye Business Class?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "¿Avianca cuenta con salas VIP en Miami?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo para socios Diamond"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "¿Qué servicio especial permite embarcar antes que otros pasajeros?",
+    "options": [
+      "Check-in online",
+      "Abordaje prioritario",
+      "Fast Track"
+    ],
+    "answer": "Abordaje prioritario"
+  },
+  {
+    "question": "¿Qué tipo de asientos en A320 están en las filas 1-3?",
+    "options": [
+      "Asientos Economy",
+      "Asientos Premium",
+      "Asientos Plus"
+    ],
+    "answer": "Asientos Premium"
+  },
+  {
+    "question": "¿Cómo se llama el programa de fidelidad de Avianca?",
+    "options": [
+      "Avianca Miles",
+      "LifeMiles",
+      "Avianca Rewards"
+    ],
+    "answer": "LifeMiles"
+  },
+  {
+    "question": "¿Qué nivel de LifeMiles está por encima de Gold?",
+    "options": [
+      "Silver",
+      "Diamond",
+      "Concierge"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "¿Qué beneficio reciben los socios Diamond en Avianca Lounges?",
+    "options": [
+      "Acceso ilimitado",
+      "20 entradas al año",
+      "10 entradas al año"
+    ],
+    "answer": "Acceso ilimitado"
+  },
+  {
+    "question": "¿Qué año recibió Avianca la verificación de huella de carbono?",
+    "options": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer": "2023"
+  },
+  {
+    "question": "¿Hasta cuánto antes puedes finalizar el check-in?",
+    "options": [
+      "90 min",
+      "60 min en internacionales / 45 min en nacionales",
+      "30 min"
+    ],
+    "answer": "60 min en internacionales / 45 min en nacionales"
+  },
+  {
+    "question": "¿Cómo usas avianca on air a bordo?",
+    "options": [
+      "Descargando Netflix",
+      "Conectándote al Wi-Fi \"avianca\" y entrando a aviancaonair.com",
+      "Solo con datos móviles."
+    ],
+    "answer": "Conectándote al Wi-Fi \"avianca\" y entrando a aviancaonair.com"
+  },
+  {
+    "question": "¿Dónde revisas requisitos de viaje y documentos?",
+    "options": [
+      "Blog de viajes",
+      "En \"Requisitos para viajar\" de avianca.com",
+      "En cualquier web Avianca"
+    ],
+    "answer": "En \"Requisitos para viajar\" de avianca.com"
+  },
+  {
+    "question": "¿Qué app te permite hacer check-in y recibir notificaciones de tu vuelo?",
+    "options": [
+      "WhatsApp",
+      "App de Avianca",
+      "TikTok Avianca"
+    ],
+    "answer": "App de Avianca"
+  },
+  {
+    "question": "avianca on air ofrece contenidos de...",
+    "options": [
+      "Disney+",
+      "HBO Max y F1 TV",
+      "Prime Video"
+    ],
+    "answer": "HBO Max y F1 TV"
+  },
+  {
+    "question": "¿Cómo se llama el servicio para conectar con otras aerolíneas y llegar a más destinos?",
+    "options": [
+      "Star Fly",
+      "avianca connect",
+      "Avianca Max"
+    ],
+    "answer": "avianca connect"
+  },
+  {
+    "question": "Un beneficio Star Alliance Gold es...",
+    "options": [
+      "Boletos 2x1",
+      "Comida gratis",
+      "Maleta adicional y acceso a lounges"
+    ],
+    "answer": "Maleta adicional y acceso a lounges"
+  },
+  {
+    "question": "¿Qué edad define a un bebé para Avianca?",
+    "options": [
+      "Menor de 3 años",
+      "Menor de 1 año",
+      "Mayor de 10 días y menor de 2 años"
+    ],
+    "answer": "Mayor de 10 días y menor de 2 años"
+  },
+  {
+    "question": "Los pasajeros de 2 a 11 años se consideran...",
+    "options": [
+      "Adultos",
+      "Niños",
+      "Bebés"
+    ],
+    "answer": "Niños"
+  },
+  {
+    "question": "Para solicitar silla de ruedas debes...",
+    "options": [
+      "Pedirla al abordar",
+      "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad",
+      "Pagar siempre"
+    ],
+    "answer": "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad"
+  },
+  {
+    "question": "¿Cuándo abre el check-in online de Avianca?",
+    "options": [
+      "72 h antes de tu vuelo",
+      "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)",
+      "Solo 12 h antes"
+    ],
+    "answer": "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)"
+  },
+  {
+    "question": "¿Con cuánta anticipación recomienda Avianca llegar al aeropuerto?",
+    "options": [
+      "1 h nacional / 2 h internacional",
+      "2 h nacional / 3 h internacional",
+      "4 h en todos los casos"
+    ],
+    "answer": "2 h nacional / 3 h internacional"
+  },
+  {
+    "question": "¿Cuántas bolsas Duty Free puedes llevar sin cargo?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "¿Qué tarifa incluye asiento Plus (sujeto a disponibilidad)?",
+    "options": [
+      "Flex",
+      "Classic",
+      "Basic"
+    ],
+    "answer": "Flex"
+  },
+  {
+    "question": "¿Qué tarifa acumula 10 LifeMiles por USD?",
+    "options": [
+      "Business",
+      "Classic",
+      "Flex"
+    ],
+    "answer": "Business"
+  },
+  {
+    "question": "¿Hasta cuándo puedes ofertar un upgrade a Business Class?",
+    "options": [
+      "Hasta 24 h antes",
+      "Hasta 4 h antes del vuelo",
+      "Solo en el aeropuerto"
+    ],
+    "answer": "Hasta 24 h antes"
+  },
+  {
+    "question": "¿Qué dato necesitas para iniciar el check-in online?",
+    "options": [
+      "Número de pasaporte",
+      "Código de reserva",
+      "Número de asiento"
+    ],
+    "answer": "Código de reserva"
+  },
+  {
+    "question": "¿Dónde te notifica Avianca cambios de itinerario en tiempo real?",
+    "options": [
+      "Solo SMS",
+      "Email y WhatsApp",
+      "Solo por llamada"
+    ],
+    "answer": "Email y WhatsApp"
+  },
+  {
+    "question": "¿Qué red global permite acumular/canjear con 26 aerolíneas?",
+    "options": [
+      "oneworld",
+      "SkyTeam",
+      "Star Alliance"
+    ],
+    "answer": "Star Alliance"
+  },
+  {
+    "question": "¿Qué incluye INSIGNIA by avianca en asiento?",
+    "options": [
+      "Reclinación 30°",
+      "Asiento-cama (flatbed)",
+      "Solo reposacabezas"
+    ],
+    "answer": "Asiento-cama (flatbed)"
+  },
+  {
+    "question": "Si compraste en grupo, ¿desde cuántos pasajeros se considera reserva grupal?",
+    "options": [
+      "6",
+      "8",
+      "10 o más"
+    ],
+    "answer": "10 o más"
+  },
+  {
+    "question": "¿Plazo máximo para reclamar equipaje demorado?",
+    "options": [
+      "7 días",
+      "14 días",
+      "21 días desde que finalizó tu vuelo"
+    ],
+    "answer": "21 días desde que finalizó tu vuelo"
+  },
+  {
+    "question": "¿Por cuánto tiempo guarda Avianca ciertos objetos perdidos?",
+    "options": [
+      "1 mes",
+      "2 meses",
+      "6 meses"
+    ],
+    "answer": "2 meses"
+  },
+  {
+    "question": "Para reclamar un objeto olvidado en el avión, necesitas:",
+    "options": [
+      "Únicamente tu número de vuelo",
+      "Documento de identidad y pase de abordar",
+      "Tarjeta de crédito"
+    ],
+    "answer": "Documento de identidad y pase de abordar"
+  },
+  {
+    "question": "El Contrato de Transporte indica que el pasajero es responsable de llevar...",
+    "options": [
+      "Solo pasaporte",
+      "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc.",
+      "Solo visa electronica"
+    ],
+    "answer": "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc."
+  },
+  {
+    "question": "Los dispositivos de movilidad (sillas de ruedas, etc.)...",
+    "options": [
+      "Se cobran como extra",
+      "Hacen parte de tu equipaje gratuito",
+      "Solo se aceptan plegables"
+    ],
+    "answer": "Hacen parte de tu equipaje gratuito"
+  },
+  {
+    "question": "Vianca es...",
+    "options": [
+      "Un programa de crédito",
+      "La asistente virtual por WhatsApp que te ayuda con tu viaje",
+      "Un tipo de tarifa"
+    ],
+    "answer": "La asistente virtual por WhatsApp que te ayuda con tu viaje"
+  },
+  {
+    "question": "Si compraste Basic o Light y haces el check-in en counter, ¿qué pasa?",
+    "options": [
+      "Está incluido sin costo",
+      "Debes ir a kiosco primero",
+      "Puede tener costo"
+    ],
+    "answer": "Puede tener costo"
+  },
+  {
+    "question": "¿En qué año Avianca adoptó oficialmente el nombre \"Avianca\"?",
+    "options": [
+      "1940",
+      "1935",
+      "1952"
+    ],
+    "answer": "1940"
+  },
+  {
+    "question": "¿Qué país europeo tiene más de un destino directo con Avianca en 2025?",
+    "options": [
+      "España",
+      "Francia",
+      "Alemania"
+    ],
+    "answer": "España"
+  },
+  {
+    "question": "¿Qué significa SCADTA, nombre original de Avianca?",
+    "options": [
+      "Sociedad Colombo Alemana de Transporte Aéreo",
+      "Servicio Comercial Aéreo de Transporte Andino",
+      "Sociedad Colombiana de Aerotransporte"
+    ],
+    "answer": "Sociedad Colombo Alemana de Transporte Aéreo"
+  },
+  {
+    "question": "¿Cuál fue el primer destino internacional de Avianca?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Caracas"
+    ],
+    "answer": "Quito"
+  },
+  {
+    "question": "¿Qué país fue el primero en Sudamérica en el que Avianca abrió operaciones fuera de Colombia?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Brasil"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "question": "¿Cuál es el lema principal de Avianca en su comunicación?",
+    "options": [
+      "\"Vuela alto\"",
+      "\"Vuela a tu manera\"",
+      "\"La aerolínea de todos\""
+    ],
+    "answer": "\"Vuela a tu manera\""
+  },
+  {
+    "question": "¿En qué año Avianca ingresó a Star Alliance?",
+    "options": [
+      "2010",
+      "2012",
+      "2014"
+    ],
+    "answer": "2012"
+  },
+  {
+    "question": "¿Cuál es el hub principal de Avianca en Centroamérica?",
+    "options": [
+      "Ciudad de Panamá",
+      "San Salvador",
+      "Managua"
+    ],
+    "answer": "San Salvador"
+  },
+  {
+    "question": "¿Qué certificación en seguridad operacional tiene Avianca?",
+    "options": [
+      "IOSA",
+      "ISO 22000",
+      "IATA Green"
+    ],
+    "answer": "IOSA"
+  },
+  {
+    "question": "¿Qué aeropuerto colombiano, además de Bogotá, es un hub para Avianca?",
+    "options": [
+      "Medellín - José María Córdova",
+      "Cali - Alfonso Bonilla Aragón",
+      "El Dorado es el único hub"
+    ],
+    "answer": "Medellín - José María Córdova"
+  },
+  {
+    "question": "¿Qué destino de Estados Unidos es conocido como \"la ciudad del sol\" y es operado por Avianca?",
+    "options": [
+      "Miami",
+      "Los Ángeles",
+      "Houston"
+    ],
+    "answer": "Miami"
+  },
+  {
+    "question": "¿Cuál es el código IATA de Avianca?",
+    "options": [
+      "AV",
+      "AC",
+      "AN"
+    ],
+    "answer": "AV"
+  },
+  {
+    "question": "¿Qué servicio permite a los pasajeros reservar asiento con espacio extra para las piernas?",
+    "options": [
+      "Asientos Plus",
+      "Comfort Seats",
+      "Maxi Seats"
+    ],
+    "answer": "Asientos Plus"
+  },
+  {
+    "question": "¿Qué país centroamericano es uno de los hubs más importantes de Avianca?",
+    "options": [
+      "Guatemala",
+      "El Salvador",
+      "Honduras"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "question": "¿Cuál fue la primera ciudad europea a la que voló Avianca?",
+    "options": [
+      "París",
+      "Madrid",
+      "Roma"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "¿Qué destino sudamericano es llamado \"la ciudad jardín\" y lo opera Avianca?",
+    "options": [
+      "Viña del Mar",
+      "Medellín",
+      "Guayaquil"
+    ],
+    "answer": "Medellín"
+  },
+  {
+    "question": "¿Qué tipo de aeronave es usada principalmente en rutas nacionales en Colombia?",
+    "options": [
+      "Airbus A320",
+      "Boeing 767",
+      "Embraer 190"
+    ],
+    "answer": "Airbus A320"
+  },
+  {
+    "question": "¿Cuál es el nombre de la clase ejecutiva en vuelos de larga distancia de Avianca?",
+    "options": [
+      "Premium Business",
+      "INSIGNIA Business Class",
+      "Avianca Executive"
+    ],
+    "answer": "INSIGNIA Business Class"
+  },
+  {
+    "question": "¿Qué destino europeo es llamado \"la ciudad luz\" y lo opera Avianca?",
+    "options": [
+      "Roma",
+      "París",
+      "Ámsterdam"
+    ],
+    "answer": "París"
+  },
+  {
+    "question": "¿Qué tipo de menú especial ofrece Avianca a bordo?",
+    "options": [
+      "Menús sin gluten",
+      "Solo menú vegetariano",
+      "No ofrece menús especiales"
+    ],
+    "answer": "Menús sin gluten"
+  },
+  {
+    "question": "¿Qué aeropuerto colombiano se conoce como Alfonso Bonilla Aragón?",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Barranquilla"
+    ],
+    "answer": "Cali"
+  },
+  {
+    "question": "¿En qué año Avianca incorporó los Airbus A320neo a su flota?",
+    "options": [
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "answer": "2018"
+  },
+  {
+    "question": "¿Qué servicio ofrece Avianca para acumular millas mientras compras en tiendas aliadas?",
+    "options": [
+      "Life Miles Shopping",
+      "Avianca Store",
+      "Miles Plus"
+    ],
+    "answer": "Life Miles Shopping"
+  },
+  {
+    "question": "¿Qué país europeo, además de España, cuenta con vuelos directos de Avianca?",
+    "options": [
+      "Francia",
+      "Italia",
+      "Alemania"
+    ],
+    "answer": "Francia"
+  },
+  {
+    "question": "¿Qué destino colombiano es conocido como \"la arenosa\"?",
+    "options": [
+      "Cartagena",
+      "Barranquilla",
+      "Santa Marta"
+    ],
+    "answer": "Barranquilla"
+  },
+  {
+    "question": "¿Qué alianza global permite a Avianca conectar con más de 1.200 destinos?",
+    "options": [
+      "Star Alliance",
+      "Oneworld",
+      "SkyTeam"
+    ],
+    "answer": "Star Alliance"
+  },
+  {
+    "question": "¿Qué año Avianca inauguró vuelos a Los Ángeles?",
+    "options": [
+      "1965",
+      "1972",
+      "1980"
+    ],
+    "answer": "1972"
+  },
+  {
+    "question": "¿Qué ciudad de Brasil Avianca conecta con Bogotá en 2025?",
+    "options": [
+      "São Paulo",
+      "Río de Janeiro",
+      "Belo Horizonte"
+    ],
+    "answer": "São Paulo"
+  },
+  {
+    "question": "¿Qué aplicación móvil permite acumular millas con actividades diarias?",
+    "options": [
+      "LifeMiles App",
+      "Avianca Digital",
+      "Miles Tracker"
+    ],
+    "answer": "LifeMiles App"
+  },
+  {
+    "question": "¿En qué año inició operaciones Avianca?",
+    "options": [
+      "1919",
+      "1925",
+      "1932"
+    ],
+    "answer": "1919"
+  },
+  {
+    "question": "¿Avianca ostenta el título de ser la aerolínea más antigua de América?",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "No confirmado"
+    ],
+    "answer": "Verdadero"
+  },
+  {
+    "question": "¿En qué país se fundó Avianca?",
+    "options": [
+      "Ecuador",
+      "Colombia",
+      "Perú"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "question": "¿Cuál es el aeropuerto más importante de Avianca en Colombia?",
+    "options": [
+      "El Dorado (Bogotá)",
+      "José María Córdova (Medellín)",
+      "Alfonso Bonilla Aragón (Cali)"
+    ],
+    "answer": "El Dorado (Bogotá)"
+  },
+  {
+    "question": "¿Dónde se encuentra la sede corporativa de Avianca?",
+    "options": [
+      "Medellín",
+      "Bogotá",
+      "Cali"
+    ],
+    "answer": "Bogotá"
+  },
+  {
+    "question": "¿Avianca conecta con cuántos países actualmente?",
+    "options": [
+      "Más de 25",
+      "Entre 8 y 10",
+      "Entre 10 y 20"
+    ],
+    "answer": "Más de 25"
+  },
+  {
+    "question": "¿Cuál es el color principal que identifica a Avianca?",
+    "options": [
+      "Azul",
+      "Rojo",
+      "Verde"
+    ],
+    "answer": "Rojo"
+  },
+  {
+    "question": "¿Qué ave aparece en el logotipo de Avianca?",
+    "options": [
+      "Cóndor",
+      "Águila",
+      "Colibrí"
+    ],
+    "answer": "Cóndor"
+  },
+  {
+    "question": "¿Avianca realiza vuelos domésticos en Ecuador?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo en temporada"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuántos años cumplió Avianca en 2024?",
+    "options": [
+      "80",
+      "100",
+      "105"
+    ],
+    "answer": "105"
+  },
+  {
+    "question": "¿Cuál fue el nombre original de la compañía antes de llamarse Avianca?",
+    "options": [
+      "SCADTA",
+      "LANSA",
+      "Aerocóndor"
+    ],
+    "answer": "SCADTA"
+  },
+  {
+    "question": "¿Qué ofrece el programa \"Stopover Bogotá\"?",
+    "options": [
+      "Dormir en el aeropuerto",
+      "Conocer Bogotá durante una conexión",
+      "Acceder a salas VIP sin costo"
+    ],
+    "answer": "Conocer Bogotá durante una conexión"
+  },
+  {
+    "question": "¿Qué certificación ambiental obtuvo Avianca en 2023?",
+    "options": [
+      "ISO 9001",
+      "ISO 14064-3",
+      "ISO 26000"
+    ],
+    "answer": "ISO 14064-3"
+  },
+  {
+    "question": "¿Existe un vuelo directo de Avianca hacia Londres?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo vía conexión"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Qué ciudad del norte de Brasil se sumó como nuevo destino de Avianca en 2025?",
+    "options": [
+      "Fortaleza",
+      "Belém",
+      "Manaos"
+    ],
+    "answer": "Manaos"
+  },
+  {
+    "question": "¿Qué es INSIGNIA by Avianca?",
+    "options": [
+      "La nueva Business Class de Avianca hacia Europa",
+      "Un plan de millas",
+      "Un modelo de avión"
+    ],
+    "answer": "La nueva Business Class de Avianca hacia Europa"
+  },
+  {
+    "question": "¿Avianca tiene vuelos directos de Bogotá a París?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo con escala"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Qué ciudad argentina se conecta directamente con Bogotá desde junio 2025?",
+    "options": [
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "answer": "Rosario"
+  },
+  {
+    "question": "¿Cuál es la ciudad estadounidense conocida por su arquitectura y música a la que Avianca vuela desde El Salvador en 2025?",
+    "options": [
+      "Miami",
+      "Chicago",
+      "Atlanta"
+    ],
+    "answer": "Atlanta"
+  },
+  {
+    "question": "¿Qué ciudad caribeña se enlaza con San José (Costa Rica) desde marzo 2025?",
+    "options": [
+      "San Juan, Puerto Rico",
+      "La Habana",
+      "Punta Cana"
+    ],
+    "answer": "San Juan, Puerto Rico"
+  },
+  {
+    "question": "¿Avianca opera vuelos directos a Tampa desde Colombia?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo con conexión"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "¿Qué ciudad apodada \"de la eterna primavera\" se conecta con Lima en 2025?",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Pereira"
+    ],
+    "answer": "Medellín"
+  },
+  {
+    "question": "¿Qué avión de pasillo único utiliza Avianca en rutas regionales?",
+    "options": [
+      "Airbus A320",
+      "Embraer 190",
+      "Boeing 757"
+    ],
+    "answer": "Airbus A320"
+  },
+  {
+    "question": "¿En qué aeronave se ofrece INSIGNIA Business Class para vuelos a Europa?",
+    "options": [
+      "Boeing 787",
+      "Airbus A319",
+      "Airbus A321"
+    ],
+    "answer": "Boeing 787"
+  },
+  {
+    "question": "¿Qué clases de cabina se encuentran disponibles en el Boeing 787 de Avianca?",
+    "options": [
+      "Solo Economy",
+      "Business, Plus y Economy",
+      "Premium Economy únicamente"
+    ],
+    "answer": "Business, Plus y Economy"
+  },
+  {
+    "question": "¿Cuántos grados de reclinación tienen los asientos Business en vuelos a Europa?",
+    "options": [
+      "150°",
+      "180°",
+      "120°"
+    ],
+    "answer": "180°"
+  },
+  {
+    "question": "¿Qué servicio incluye Business Class en vuelos dentro de América de más de 3 horas?",
+    "options": [
+      "Snacks",
+      "Almuerzo, cena o desayuno",
+      "Solo bebidas"
+    ],
+    "answer": "Almuerzo, cena o desayuno"
+  },
+  {
+    "question": "¿Qué chef colombiano diseña menús para Business Class en rutas de América?",
+    "options": [
+      "Jorge Rausch",
+      "Álvaro Clavijo",
+      "Harry Sasson"
+    ],
+    "answer": "Álvaro Clavijo"
+  },
+  {
+    "question": "¿Qué servicio de entretenimiento permite ver películas en tu celular durante el vuelo?",
+    "options": [
+      "Avianca On Air",
+      "Sky Entertainment",
+      "Cloud Cinema"
+    ],
+    "answer": "Avianca On Air"
+  },
+  {
+    "question": "¿Cuál es la medida máxima permitida para el equipaje de mano?",
+    "options": [
+      "55 x 40 x 25 cm",
+      "45 x 35 x 20 cm",
+      "50 x 40 x 20 cm"
+    ],
+    "answer": "55 x 40 x 25 cm"
+  },
+  {
+    "question": "• ¿Cuál es el peso máximo de equipaje de mano permitido por Avianca?",
+    "options": [
+      "8 kg",
+      "10 kg",
+      "12 kg"
+    ],
+    "answer": "10 kg"
+  },
+  {
+    "question": "¿Es posible transportar tablas de surf en bodega con Avianca?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo con pago adicional"
+    ],
+    "answer": "Sí"
+  },
+  {
+    "question": "¿Cuántas maletas de 32 kg están incluidas en Business Class?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "¿Avianca dispone de salas VIP en Miami?",
+    "options": [
+      "Sí",
+      "No",
+      "Solo para socios Diamond"
+    ],
+    "answer": "No"
+  },
+  {
+    "question": "¿Qué servicio permite abordar antes que los demás pasajeros?",
+    "options": [
+      "Check-in online",
+      "Abordaje prioritario",
+      "Fast Track"
+    ],
+    "answer": "Abordaje prioritario"
+  },
+  {
+    "question": "¿Qué tipo de asientos tiene el Airbus A320 en las filas 1 a 3?",
+    "options": [
+      "Economy",
+      "Premium",
+      "Plus"
+    ],
+    "answer": "Premium"
+  },
+  {
+    "question": "¿Cómo se llama el programa de fidelización de Avianca?",
+    "options": [
+      "Avianca Miles",
+      "LifeMiles",
+      "Avianca Rewards"
+    ],
+    "answer": "LifeMiles"
+  },
+  {
+    "question": "¿Qué nivel sigue por encima de Gold en LifeMiles?",
+    "options": [
+      "Silver",
+      "Diamond",
+      "Concierge"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "¿Qué beneficio tienen los socios Diamond en los Avianca Lounges?",
+    "options": [
+      "Acceso ilimitado",
+      "20 entradas al año",
+      "10 entradas al año"
+    ],
+    "answer": "Acceso ilimitado"
+  },
+  {
+    "question": "¿En qué año recibió Avianca la verificación de huella de carbono?",
+    "options": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "answer": "2023"
+  },
+  {
+    "question": "¿Hasta cuánto tiempo antes puedes realizar el check-in?",
+    "options": [
+      "90 minutos",
+      "60 min en internacionales / 45 min en nacionales",
+      "30 minutos"
+    ],
+    "answer": "60 min en internacionales / 45 min en nacionales"
+  },
+  {
+    "question": "¿Qué pasos debes seguir para usar Avianca On Air?",
+    "options": [
+      "Descargar Netflix",
+      "Conectarte al Wi-Fi \"avianca\" y entrar a aviancaonair.com",
+      "Usar tus datos móviles"
+    ],
+    "answer": "Conectarte al Wi-Fi \"avianca\" y entrar a aviancaonair.com"
+  },
+  {
+    "question": "¿Dónde se consultan los requisitos de viaje y documentos?",
+    "options": [
+      "Blog de viajes",
+      "Sección \"Requisitos para viajar\" en avianca.com",
+      "Cualquier web de Avianca"
+    ],
+    "answer": "Sección \"Requisitos para viajar\" en avianca.com"
+  },
+  {
+    "question": "¿Qué aplicación permite hacer check-in y recibir notificaciones de vuelo?",
+    "options": [
+      "WhatsApp",
+      "App de Avianca",
+      "TikTok Avianca"
+    ],
+    "answer": "App de Avianca"
+  },
+  {
+    "question": "¿Qué contenidos ofrece Avianca On Air?",
+    "options": [
+      "Disney+",
+      "HBO Max y F1 TV",
+      "Prime Video"
+    ],
+    "answer": "HBO Max y F1 TV"
+  },
+  {
+    "question": "¿Cómo se llama el servicio que conecta Avianca con otras aerolíneas para ampliar destinos?",
+    "options": [
+      "Star Fly",
+      "Avianca Connect",
+      "Avianca Max"
+    ],
+    "answer": "Avianca Connect"
+  },
+  {
+    "question": "¿Cuál es uno de los beneficios de ser Star Alliance Gold?",
+    "options": [
+      "Boletos 2x1",
+      "Comida gratis",
+      "Maleta adicional y acceso a lounges"
+    ],
+    "answer": "Maleta adicional y acceso a lounges"
+  },
+  {
+    "question": "Según Avianca, ¿qué edad define a un bebé?",
+    "options": [
+      "Menor de 3 años",
+      "Menor de 1 año",
+      "Mayor de 10 días y menor de 2 años"
+    ],
+    "answer": "Mayor de 10 días y menor de 2 años"
+  },
+  {
+    "question": "¿Cómo se consideran los pasajeros de 2 a 11 años?",
+    "options": [
+      "Adultos",
+      "Niños",
+      "Bebés"
+    ],
+    "answer": "Niños"
+  },
+  {
+    "question": "¿Qué debes hacer para solicitar silla de ruedas en Avianca?",
+    "options": [
+      "Pedirla al abordar",
+      "Avisar con antelación (24-48 h); sin costo si es por discapacidad",
+      "Pagar siempre"
+    ],
+    "answer": "Avisar con antelación (24-48 h); sin costo si es por discapacidad"
+  },
+  {
+    "question": "¿Cuándo abre el check-in online de Avianca?",
+    "options": [
+      "72 h antes",
+      "48 h (24 h si es hacia/desde EE. UU., Puerto Rico o Canadá)",
+      "Solo 12 h antes"
+    ],
+    "answer": "48 h (24 h si es hacia/desde EE. UU., Puerto Rico o Canadá)"
+  },
+  {
+    "question": "• ¿Cuánta anticipación recomienda Avianca para llegar al aeropuerto?",
+    "options": [
+      "1 h nacional / 2 h internacional",
+      "2 h nacional / 3 h internacional",
+      "4 h en todos los casos"
+    ],
+    "answer": "2 h nacional / 3 h internacional"
+  },
+  {
+    "question": "• ¿Cuántas bolsas de Duty Free puedes llevar sin costo adicional?",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "• ¿Qué tarifa de Avianca incluye asiento Plus (según disponibilidad)?",
+    "options": [
+      "Flex",
+      "Classic",
+      "Basic"
+    ],
+    "answer": "Flex"
+  },
+  {
+    "question": "• ¿Qué tarifa de Avianca otorga 10 LifeMiles por cada dólar gastado?",
+    "options": [
+      "Business",
+      "Classic",
+      "Flex"
+    ],
+    "answer": "Business"
+  },
+  {
+    "question": "• ¿Hasta cuándo puedes ofertar para un upgrade a Business Class?",
+    "options": [
+      "Hasta 24 h antes",
+      "Hasta 4 h antes del vuelo",
+      "Solo en el aeropuerto"
+    ],
+    "answer": "Hasta 24 h antes"
+  },
+  {
+    "question": "• ¿Qué información necesitas para iniciar tu check-in online?",
+    "options": [
+      "Número de pasaporte",
+      "Código de reserva",
+      "Número de asiento"
+    ],
+    "answer": "Código de reserva"
+  },
+  {
+    "question": "• ¿Por qué medio Avianca te notifica cambios en tu itinerario en tiempo real?",
+    "options": [
+      "Solo SMS",
+      "Email y WhatsApp",
+      "Solo por llamada"
+    ],
+    "answer": "Email y WhatsApp"
+  },
+  {
+    "question": "• ¿A qué alianza global pertenece Avianca desde 2012?",
+    "options": [
+      "oneworld",
+      "SkyTeam",
+      "Star Alliance"
+    ],
+    "answer": "Star Alliance"
+  },
+  {
+    "question": "• ¿Qué característica distingue los asientos de INSIGNIA by Avianca?",
+    "options": [
+      "Reclinación de 30°",
+      "Asiento cama (flatbed)",
+      "Reposacabezas ajustable"
+    ],
+    "answer": "Asiento cama (flatbed)"
+  },
+  {
+    "question": "• ¿Desde cuántos pasajeros se considera una reserva grupal en Avianca?",
+    "options": [
+      "6",
+      "8",
+      "10 o más"
+    ],
+    "answer": "10 o más"
+  },
+  {
+    "question": "• ¿Cuál es el tiempo límite para reclamar equipaje demorado?",
+    "options": [
+      "7 días",
+      "14 días",
+      "21 días luego del vuelo"
+    ],
+    "answer": "21 días luego del vuelo"
+  },
+  {
+    "question": "• ¿Por cuánto tiempo conserva Avianca los objetos olvidados?",
+    "options": [
+      "1 mes",
+      "2 meses",
+      "6 meses"
+    ],
+    "answer": "2 meses"
+  },
+  {
+    "question": "• ¿Qué documentos necesitas para reclamar un objeto olvidado en un avión?",
+    "options": [
+      "Solo número de vuelo",
+      "Documento de identidad y pase de abordar",
+      "Tarjeta de crédito"
+    ],
+    "answer": "Documento de identidad y pase de abordar"
+  },
+  {
+    "question": "• Según el contrato de transporte, ¿qué debe portar el pasajero?",
+    "options": [
+      "Únicamente pasaporte",
+      "Todos los documentos exigidos: visa, vacunas, etc.",
+      "Solo visa electrónica"
+    ],
+    "answer": "Todos los documentos exigidos: visa, vacunas, etc."
+  },
+  {
+    "question": "• Los dispositivos de movilidad como sillas de ruedas...",
+    "options": [
+      "Se cobran como extra",
+      "Se incluyen en el equipaje permitido",
+      "Solo se aceptan plegables"
+    ],
+    "answer": "Se incluyen en el equipaje permitido"
+  },
+  {
+    "question": "• ¿Qué es Vianca dentro de Avianca?",
+    "options": [
+      "Un tipo de tarifa",
+      "La asistente virtual en WhatsApp",
+      "Un sistema de pago"
+    ],
+    "answer": "La asistente virtual en WhatsApp"
+  },
+  {
+    "question": "• Si compraste tarifa Basic o Light y haces check-in en counter, ¿qué sucede?",
+    "options": [
+      "Está incluido sin costo",
+      "Debes pasar por kiosco primero",
+      "Puede tener un cargo"
+    ],
+    "answer": "Puede tener un cargo"
+  },
+  {
+    "question": "• ¿En qué año Avianca adoptó oficialmente el nombre de \"Avianca\"?",
+    "options": [
+      "1940",
+      "1935",
+      "1952"
+    ],
+    "answer": "1940"
+  },
+  {
+    "question": "• ¿Qué país europeo cuenta con más de un destino operado por Avianca en 2025?",
+    "options": [
+      "España",
+      "Francia",
+      "Alemania"
+    ],
+    "answer": "España"
+  },
+  {
+    "question": "• ¿Qué significan las siglas SCADTA, nombre original de Avianca?",
+    "options": [
+      "Sociedad Colombo Alemana de Transporte Aéreo",
+      "Servicio Comercial Aéreo de Transporte Andino",
+      "Sociedad Colombiana de Aerotransporte"
+    ],
+    "answer": "Sociedad Colombo Alemana de Transporte Aéreo"
+  },
+  {
+    "question": "• ¿Cuál fue el primer destino internacional de Avianca?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Caracas"
+    ],
+    "answer": "Quito"
+  },
+  {
+    "question": "• ¿Cuál fue el primer país sudamericano donde Avianca operó fuera de Colombia?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Brasil"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "question": "• ¿Qué eslogan principal utiliza Avianca en su comunicación?",
+    "options": [
+      "\"Vuela alto\"",
+      "\"Vuela a tu manera\"",
+      "\"La aerolínea de todos\""
+    ],
+    "answer": "\"Vuela a tu manera\""
+  },
+  {
+    "question": "• ¿En qué año Avianca ingresó a la red global Star Alliance?",
+    "options": [
+      "2010",
+      "2012",
+      "2014"
+    ],
+    "answer": "2012"
+  },
+  {
+    "question": "• ¿Cuál es el hub principal de Avianca en Centroamérica?",
+    "options": [
+      "Ciudad de Panamá",
+      "San Salvador",
+      "Managua"
+    ],
+    "answer": "San Salvador"
+  },
+  {
+    "question": "• ¿Qué certificación internacional en seguridad operacional tiene Avianca?",
+    "options": [
+      "IOSA",
+      "ISO 22000",
+      "IATA Green"
+    ],
+    "answer": "IOSA"
+  },
+  {
+    "question": "• ¿Cuál es el único hub oficial de Avianca en Colombia?",
+    "options": [
+      "Medellín - José María Córdova",
+      "Cali - Alfonso Bonilla Aragón",
+      "Bogotá - El Dorado"
+    ],
+    "answer": "Bogotá - El Dorado"
+  },
+  {
+    "question": "¿Qué destino de EE. UU., llamado \"la ciudad del sol\", es operado por Avianca?",
+    "options": [
+      "Miami",
+      "Los Angeles",
+      "Houston"
+    ],
+    "answer": "Miami"
+  },
+  {
+    "question": "• ¿Cuál es el código IATA asignado a Avianca?",
+    "options": [
+      "AV",
+      "AC",
+      "AN"
+    ],
+    "answer": "AV"
+  },
+  {
+    "question": "• ¿Qué servicio permite reservar asientos con espacio adicional para las piernas?",
+    "options": [
+      "Asientos Plus",
+      "Comfort Seats",
+      "Maxi Seats"
+    ],
+    "answer": "Asientos Plus"
+  },
+  {
+    "question": "• ¿Qué país centroamericano sirve como hub estratégico de Avianca?",
+    "options": [
+      "Guatemala",
+      "El Salvador",
+      "Honduras"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "question": "• ¿Cuál fue la primera ciudad europea a la que Avianca voló?",
+    "options": [
+      "París",
+      "Madrid",
+      "Roma"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "• ¿Qué destino sudamericano, conocido como \"la ciudad jardín\", conecta Avianca?",
+    "options": [
+      "Viña del Mar",
+      "Medellín",
+      "Guayaquil"
+    ],
+    "answer": "Medellín"
+  },
+  {
+    "question": "• ¿Qué aeronave se usa principalmente en vuelos domésticos de Avianca en Colombia?",
+    "options": [
+      "Airbus A320",
+      "Boeing 767",
+      "Embraer 190"
+    ],
+    "answer": "Airbus A320"
+  },
+  {
+    "question": "• ¿Cómo se llama la clase ejecutiva en vuelos de larga distancia de Avianca?",
+    "options": [
+      "Premium Business",
+      "INSIGNIA Business Class",
+      "Avianca Executive"
+    ],
+    "answer": "INSIGNIA Business Class"
+  },
+  {
+    "question": "• ¿Qué destino europeo operado por Avianca se conoce como \"la ciudad luz\"?",
+    "options": [
+      "Roma",
+      "París",
+      "Ámsterdam"
+    ],
+    "answer": "París"
+  },
+  {
+    "question": "• ¿Qué tipo de menú especial ofrece Avianca a bordo?",
+    "options": [
+      "Menús sin gluten",
+      "Solo vegetariano",
+      "No hay menús especiales"
+    ],
+    "answer": "Menús sin gluten"
+  },
+  {
+    "question": "• ¿El aeropuerto Alfonso Bonilla Aragón se ubica en qué ciudad?",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Barranquilla"
+    ],
+    "answer": "Cali"
+  },
+  {
+    "question": "• ¿En qué año Avianca sumó los Airbus A320neo a su flota?",
+    "options": [
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "answer": "2018"
+  },
+  {
+    "question": "• ¿Qué servicio permite ganar millas al comprar en comercios aliados?",
+    "options": [
+      "LifeMiles Shopping",
+      "Avianca Store",
+      "Miles Plus"
+    ],
+    "answer": "LifeMiles Shopping"
+  },
+  {
+    "question": "• ¿Qué país europeo, además de España, cuenta con vuelos directos de Avianca?",
+    "options": [
+      "Francia",
+      "Italia",
+      "Alemania"
+    ],
+    "answer": "Francia"
+  },
+  {
+    "question": "• ¿Qué ciudad colombiana se conoce como \"la arenosa\"?",
+    "options": [
+      "Cartagena",
+      "Barranquilla",
+      "Santa Marta"
+    ],
+    "answer": "Barranquilla"
+  },
+  {
+    "question": "• ¿Qué alianza global permite a Avianca conectar con más de 1.200 destinos?",
+    "options": [
+      "Star Alliance",
+      "Oneworld",
+      "SkyTeam"
+    ],
+    "answer": "Star Alliance"
+  },
+  {
+    "question": "• ¿En qué año Avianca abrió vuelos hacia Los Ángeles?",
+    "options": [
+      "1965",
+      "1972",
+      "1980"
+    ],
+    "answer": "1972"
+  },
+  {
+    "question": "• ¿Qué ciudad brasileña conecta Avianca directamente con Bogotá en 2025?",
+    "options": [
+      "São Paulo",
+      "Río de Janeiro",
+      "Belo Horizonte"
+    ],
+    "answer": "São Paulo"
+  },
+  {
+    "question": "• ¿Qué aplicación permite ganar millas con actividades diarias?",
+    "options": [
+      "LifeMiles App",
+      "Avianca Digital",
+      "Miles Tracker"
+    ],
+    "answer": "LifeMiles App"
+  },
+  {
+    "question": "• ¿Qué país fue sede de la fundación original de Avianca bajo SCADTA?",
+    "options": [
+      "Alemania",
+      "Colombia",
+      "Panamá"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "question": "• ¿Cuál es la aeronave de fuselaje ancho usada en vuelos intercontinentales por Avianca?",
+    "options": [
+      "Boeing 787",
+      "Airbus A320",
+      "Embraer 190"
+    ],
+    "answer": "Boeing 787"
+  },
+  {
+    "question": "• ¿Qué nivel de LifeMiles está por encima de Silver?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Bronze"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "question": "• ¿En qué año Avianca celebró su aniversario número 100?",
+    "options": [
+      "2015",
+      "2019",
+      "2021"
+    ],
+    "answer": "2019"
+  },
+  {
+    "question": "¿En qué año Avianca trasladó su sede principal a Bogotá?",
+    "options": [
+      "1945",
+      "1949",
+      "1952"
+    ],
+    "answer": "1949"
+  },
+  {
+    "question": "¿Qué modelo de avión integró Avianca en su flota durante la década de 1950 para modernizar sus operaciones?",
+    "options": [
+      "Boeing 247",
+      "Douglas DC-4",
+      "Lockheed L-188"
+    ],
+    "answer": "Douglas DC-4"
+  },
+  {
+    "question": "¿Qué servicio internacional consolidó a Avianca como pionera en vuelos de larga distancia en América Latina?",
+    "options": [
+      "Rutas hacia Europa",
+      "Vuelos al Caribe",
+      "Conexiones a Norteamérica"
+    ],
+    "answer": "Rutas hacia Europa"
+  },
+  {
+    "question": "¿Cuál fue la primera ciudad de Europa a la que Avianca voló directamente desde Colombia?",
+    "options": [
+      "Madrid",
+      "París",
+      "Lisboa"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "¿Qué década marcó la incorporación de los primeros Boeing 747 en Avianca?",
+    "options": [
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "answer": "1970s"
+  },
+  {
+    "question": "¿Qué apodo recibía el Boeing 747 de Avianca por su tamaño y capacidad?",
+    "options": [
+      "El Cóndor",
+      "El Jumbo",
+      "El Gigante"
+    ],
+    "answer": "El Jumbo"
+  },
+  {
+    "question": "¿Cuál es la aerolínea más antigua en operación continua en América Latina?",
+    "options": [
+      "Aeroméxico",
+      "Avianca",
+      "Varig"
+    ],
+    "answer": "Avianca"
+  },
+  {
+    "question": "¿Qué alianza internacional de aerolíneas integra Avianca?",
+    "options": [
+      "Oneworld",
+      "Star Alliance",
+      "SkyTeam"
+    ],
+    "answer": "Star Alliance"
+  },
+  {
+    "question": "¿Cuál fue el primer destino intercontinental de Avianca fuera de América?",
+    "options": [
+      "Madrid",
+      "Roma",
+      "Londres"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "question": "¿Qué innovación tecnológica implementó Avianca para mejorar el servicio a bordo en los años 80?",
+    "options": [
+      "Pantallas individuales",
+      "Audio en varios canales",
+      "Conexión Wi-Fi"
+    ],
+    "answer": "Audio en varios canales"
+  },
+  {
+    "question": "¿Qué empresa colombiana se fusionó con Avianca en 2004 para fortalecer su operación nacional?",
+    "options": [
+      "Intercontinental de Aviación",
+      "SAM",
+      "AeroRepública"
+    ],
+    "answer": "AeroRepública"
+  },
+  {
+    "question": "¿Qué aerolínea centroamericana se integró a Avianca en 2010, ampliando su presencia regional?",
+    "options": [
+      "TACA",
+      "Copa Airlines",
+      "Lacsa"
+    ],
+    "answer": "TACA"
+  },
+  {
+    "question": "¿En qué año Avianca celebró su centenario?",
+    "options": [
+      "2018",
+      "2019",
+      "2020"
+    ],
+    "answer": "2019"
+  },
+  {
+    "question": "¿Cuál fue el lema conmemorativo del centenario de Avianca?",
+    "options": [
+      "100 años volando alto",
+      "Volar nos une",
+      "Siempre contigo"
+    ],
+    "answer": "Volar nos une"
+  },
+  {
+    "question": "¿Qué país fue sede de la fundación de Avianca en 1919?",
+    "options": [
+      "Colombia",
+      "Panamá",
+      "Alemania"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "question": "¿Cómo se llamó la primera compañía que dio origen a Avianca en 1919?",
+    "options": [
+      "SCADTA",
+      "SEDTA",
+      "LANSA"
+    ],
+    "answer": "SCADTA"
+  },
+  {
+    "question": "¿Qué tipo de aviones utilizó SCADTA en sus primeros vuelos?",
+    "options": [
+      "Hidroaviones",
+      "Aviones de hélice terrestres",
+      "Planeadores"
+    ],
+    "answer": "Hidroaviones"
+  },
+  {
+    "question": "¿Qué río fue clave en los primeros vuelos de Avianca en Colombia?",
+    "options": [
+      "Magdalena",
+      "Cauca",
+      "Atrato"
+    ],
+    "answer": "Magdalena"
+  },
+  {
+    "question": "¿Qué característica tenían los pilotos fundadores de SCADTA?",
+    "options": [
+      "Eran mayoritariamente alemanes",
+      "Procedían de Estados Unidos",
+      "Eran en su mayoría colombianos"
+    ],
+    "answer": "Eran mayoritariamente alemanes"
+  },
+  {
+    "question": "¿En qué año Avianca adoptó oficialmente ese nombre?",
+    "options": [
+      "1940",
+      "1945",
+      "1950"
+    ],
+    "answer": "1940"
+  },
+  {
+    "question": "¿Qué significa Avianca?",
+    "options": [
+      "Aerolíneas de Colombia",
+      "Aerovías Nacionales de Colombia",
+      "Aviación Comercial Colombiana"
+    ],
+    "answer": "Aerovías Nacionales de Colombia"
+  },
+  {
+    "question": "¿Cuál fue el primer vuelo nacional de Avianca después de su fundación?",
+    "options": [
+      "Barranquilla - Bogotá",
+      "Barranquilla - Girardot",
+      "Bogotá - Medellín"
+    ],
+    "answer": "Barranquilla - Girardot"
+  },
+  {
+    "question": "¿Qué ciudad funcionó como base inicial de operaciones de SCADTA?",
+    "options": [
+      "Barranquilla",
+      "Bogotá",
+      "Cartagena"
+    ],
+    "answer": "Barranquilla"
+  },
+  {
+    "question": "¿Qué material transportaba Avianca además de pasajeros en sus inicios?",
+    "options": [
+      "Correos",
+      "Oro",
+      "Tabaco"
+    ],
+    "answer": "Correos"
+  },
+  {
+    "question": "¿Qué tipo de aeronave fue el Junkers F-13 utilizado por SCADTA?",
+    "options": [
+      "Avión de pasajeros",
+      "Avión militar",
+      "Avión de carga"
+    ],
+    "answer": "Avión de pasajeros"
+  },
+  {
+    "question": "¿Qué símbolo animal ha acompañado históricamente a Avianca en su imagen?",
+    "options": [
+      "El Aguila",
+      "El Cóndor",
+      "El Halcón"
+    ],
+    "answer": "El Cóndor"
+  },
+  {
+    "question": "¿Qué evento histórico obligó a SCADTA a modificar su estructura en 1939?",
+    "options": [
+      "La Segunda Guerra Mundial",
+      "La Guerra Civil Española",
+      "La Gran Depresión"
+    ],
+    "answer": "La Segunda Guerra Mundial"
+  },
+  {
+    "question": "¿Qué país asumió mayor participación en SCADTA tras la salida de inversionistas alemanes?",
+    "options": [
+      "Colombia",
+      "Estados Unidos",
+      "Panamá"
+    ],
+    "answer": "Estados Unidos"
+  },
+  {
+    "question": "¿Qué presidente colombiano apoyó la creación de Avianca en 1940?",
+    "options": [
+      "Eduardo Santos",
+      "Alfonso López Pumarejo",
+      "Mariano Ospina Pérez"
+    ],
+    "answer": "Eduardo Santos"
+  },
+  {
+    "question": "¿En qué ciudad Avianca abrió su primer hangar de mantenimiento?",
+    "options": [
+      "Barranquilla",
+      "Bogotá",
+      "Medellín"
+    ],
+    "answer": "Barranquilla"
+  },
+  {
+    "question": "¿Cuál fue la primera ruta internacional de Avianca?",
+    "options": [
+      "Bogotá - Quito",
+      "Bogotá - Caracas",
+      "Bogotá - Panamá"
+    ],
+    "answer": "Bogotá - Quito"
+  },
+  {
+    "question": "¿En qué año Avianca realizó su primer vuelo a Estados Unidos?",
+    "options": [
+      "1946",
+      "1950",
+      "1955"
+    ],
+    "answer": "1946"
+  },
+  {
+    "question": "¿Qué ciudad de EE. UU. fue el primer destino de Avianca?",
+    "options": [
+      "Miami",
+      "Nueva York",
+      "Houston"
+    ],
+    "answer": "Miami"
+  },
+  {
+    "question": "¿Qué tipo de avión usó Avianca para inaugurar su ruta a EE. UU.?",
+    "options": [
+      "Douglas DC-4",
+      "Boeing 707",
+      "Lockheed Constellation"
+    ],
+    "answer": "Douglas DC-4"
+  },
+  {
+    "question": "¿Qué innovación introdujo Avianca en los años 70 en su servicio a bordo?",
+    "options": [
+      "Menú a la carta",
+      "Pantallas táctiles",
+      "Conexión satelital"
+    ],
+    "answer": "Menú a la carta"
+  },
+  {
+    "question": "¿Cuál fue la primera aerolínea latinoamericana en operar un Boeing 747?",
+    "options": [
+      "Varig",
+      "Avianca",
+      "Aerolíneas Argentinas"
+    ],
+    "answer": "Avianca"
+  },
+  {
+    "question": "¿Qué destino europeo consolidó la presencia internacional de Avianca en los años 70?",
+    "options": [
+      "Madrid",
+      "París",
+      "Amsterdam"
+    ],
+    "answer": "París"
+  },
+  {
+    "question": "¿Qué sistema de reservas electrónico adoptó Avianca en los años 80?",
+    "options": [
+      "Sabre",
+      "Amadeus",
+      "Galileo"
+    ],
+    "answer": "Sabre"
+  },
+  {
+    "question": "¿Qué hecho marcó la entrada de Avianca a la era digital en los años 2000?",
+    "options": [
+      "Venta de tiquetes en línea",
+      "Chequeo electrónico",
+      "Facturación móvil"
+    ],
+    "answer": "Venta de tiquetes en línea"
+  },
+  {
+    "question": "¿Qué empresa adquirió Avianca en 2009 para reforzar su estrategia internacional?",
+    "options": [
+      "TACA",
+      "Lacsa",
+      "Copa Airlines"
+    ],
+    "answer": "TACA"
+  },
+  {
+    "question": "¿Qué año Avianca entró oficialmente en Star Alliance?",
+    "options": [
+      "2012",
+      "2014",
+      "2016"
+    ],
+    "answer": "2012"
+  },
+  {
+    "question": "¿Qué ciudad europea incorporó Avianca como destino en 2013?",
+    "options": [
+      "Londres",
+      "Barcelona",
+      "Berlín"
+    ],
+    "answer": "Londres"
+  },
+  {
+    "question": "¿Qué aerolínea sudamericana se unió a Avianca en 2012?",
+    "options": [
+      "Aerogal",
+      "Pluna",
+      "LAN Perú"
+    ],
+    "answer": "Aerogal"
+  },
+  {
+    "question": "¿En qué país operaba Aerogal antes de integrarse a Avianca?",
+    "options": [
+      "Ecuador",
+      "Perú",
+      "Chile"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "question": "¿Qué innovación de servicio lanzó Avianca para viajeros frecuentes en la década de 2010?",
+    "options": [
+      "Salas VIP ampliadas",
+      "Abonos electrónicos",
+      "Wi-Fi gratuito"
+    ],
+    "answer": "Salas VIP ampliadas"
+  },
+  {
+    "question": "¿Cómo se llama el programa de viajero frecuente de Avianca?",
+    "options": [
+      "LifeMiles",
+      "MileagePlus",
+      "SkyMiles"
+    ],
+    "answer": "LifeMiles"
+  },
+  {
+    "question": "¿Qué beneficio ofrece LifeMiles a los pasajeros?",
+    "options": [
+      "Acumulación de millas",
+      "Descuentos en hoteles",
+      "Tarjetas de crédito sin costo"
+    ],
+    "answer": "Acumulación de millas"
+  },
+  {
+    "question": "¿Qué categoría es la más alta dentro del programa LifeMiles?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Silver"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "¿Qué tipo de beneficios disfrutan los socios Diamond de LifeMiles?",
+    "options": [
+      "Acceso a salas VIP y prioridad en abordaje",
+      "Millas ilimitadas",
+      "Vuelos sin costo anual"
+    ],
+    "answer": "Acceso a salas VIP y prioridad en abordaje"
+  },
+  {
+    "question": "¿Qué banco ha sido aliado estratégico de Avianca para su tarjeta de crédito LifeMiles en Colombia?",
+    "options": [
+      "Bancolombia",
+      "Davivienda",
+      "Banco de Bogotá"
+    ],
+    "answer": "Banco de Bogotá"
+  },
+  {
+    "question": "¿Qué beneficio adicional reciben los socios LifeMiles al acumular millas con aerolíneas de Star Alliance?",
+    "options": [
+      "Acceso a más destinos",
+      "Boletos gratuitos ilimitados",
+      "Descuentos en hoteles"
+    ],
+    "answer": "Acceso a más destinos"
+  },
+  {
+    "question": "¿Qué ciudad de Sudamérica fue uno de los primeros destinos de expansión internacional de Avianca?",
+    "options": [
+      "Quito",
+      "Lima",
+      "Santiago"
+    ],
+    "answer": "Quito"
+  },
+  {
+    "question": "¿Cuál fue el primer aeropuerto internacional donde Avianca operó fuera de Colombia?",
+    "options": [
+      "Quito",
+      "Panamá",
+      "Caracas"
+    ],
+    "answer": "Quito"
+  },
+  {
+    "question": "¿Qué característica distingue a Avianca como pionera en América Latina?",
+    "options": [
+      "Es la aerolínea más antigua en operación continua",
+      "Fue la primera en volar al Caribe",
+      "Fue la primera en usar aviones Boeing"
+    ],
+    "answer": "Es la aerolínea más antigua en operación continua"
+  },
+  {
+    "question": "¿Qué frase representa la visión de Avianca en la actualidad?",
+    "options": [
+      "El cielo es de todos",
+      "Volar más lejos",
+      "Siempre primero"
+    ],
+    "answer": "El cielo es de todos"
+  }
+]

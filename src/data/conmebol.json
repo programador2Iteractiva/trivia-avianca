@@ -9,15 +9,6 @@
     "answer": "1916"
   },
   {
-    "question": "¿En qué año se fundó Avianca?",
-    "options": [
-      "1919",
-      "1925",
-      "1932"
-    ],
-    "answer": "1919"
-  },
-  {
     "question": "¿Cuántas asociaciones nacionales fundaron originalmente la CONMEBOL?",
     "options": [
       "10",
@@ -25,15 +16,6 @@
       "7"
     ],
     "answer": "4"
-  },
-  {
-    "question": "¿Avianca es la aerolínea más antigua de América?",
-    "options": [
-      "Verdadero",
-      "Falso",
-      "No se sabe"
-    ],
-    "answer": "Verdadero"
   },
   {
     "question": "¿En qué ciudad se encuentra la sede permanente de la CONMEBOL?",
@@ -45,15 +27,6 @@
     "answer": "Luque, Paraguay"
   },
   {
-    "question": "¿En qué país nació Avianca?",
-    "options": [
-      "Ecuador",
-      "Colombia",
-      "Perú"
-    ],
-    "answer": "Colombia"
-  },
-  {
     "question": "¿Qué torneo inspiró la creación de la CONMEBOL en 1916?",
     "options": [
       "La primera Copa del Mundo",
@@ -61,15 +34,6 @@
       "Los Juegos Olímpicos"
     ],
     "answer": "El Campeonato Sudamericano de Selecciones"
-  },
-  {
-    "question": "¿Cuál es el aeropuerto principal de Avianca en Colombia?",
-    "options": [
-      "El Dorado (Bogotá)",
-      "José María Córdova (Medellín)",
-      "Alfonso Bonilla Aragón (Cali)"
-    ],
-    "answer": "El Dorado (Bogotá)"
   },
   {
     "question": "¿Cuál de estos países NO fue uno de los cuatro miembros fundadores de la CONMEBOL?",
@@ -81,15 +45,6 @@
     "answer": "Perú"
   },
   {
-    "question": "¿En qué ciudad está la sede principal de Avianca?",
-    "options": [
-      "Medellín",
-      "Bogotá",
-      "Cali"
-    ],
-    "answer": "Bogotá"
-  },
-  {
     "question": "La Bombonera es el mítico y vibrante estadio de...",
     "options": [
       "Boca Juniors",
@@ -97,15 +52,6 @@
       "Flamengo"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Cuántos países conecta Avianca actualmente?",
-    "options": [
-      "+25",
-      "entre 8 y 10",
-      "entre 10 y 20"
-    ],
-    "answer": "+25"
   },
   {
     "question": "¿Qué dos selecciones disputan el \"Clásico del Río de la Plata\"?",
@@ -117,15 +63,6 @@
     "answer": "Argentina y Uruguay"
   },
   {
-    "question": "¿Qué color predomina en la imagen de Avianca?",
-    "options": [
-      "Azul",
-      "Rojo",
-      "Verde"
-    ],
-    "answer": "Rojo"
-  },
-  {
     "question": "El Estadio Monumental de Buenos Aires es la casa de...",
     "options": [
       "Boca Juniors",
@@ -133,15 +70,6 @@
       "San Lorenzo"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "¿Qué animal aparece en el logo de Avianca?",
-    "options": [
-      "Cóndor",
-      "Águila",
-      "Colibrí"
-    ],
-    "answer": "Cóndor"
   },
   {
     "question": "El \"Clásico del Pacífico\" es el partido que enfrenta a Chile contra...",
@@ -153,15 +81,6 @@
     "answer": "Perú"
   },
   {
-    "question": "¿Avianca tiene operación doméstica en Ecuador?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo estacional"
-    ],
-    "answer": "Sí"
-  },
-  {
     "question": "El Estadio Centenario, sede de la primera final de un Mundial, se encuentra en...",
     "options": [
       "Buenos Aires",
@@ -169,15 +88,6 @@
       "Santiago"
     ],
     "answer": "Montevideo"
-  },
-  {
-    "question": "¿Cuántos años cumplió Avianca en 2024?",
-    "options": [
-      "80",
-      "100",
-      "105"
-    ],
-    "answer": "105"
   },
   {
     "question": "¿Cómo se apoda al trofeo de la CONMEBOL Libertadores?",
@@ -189,15 +99,6 @@
     "answer": "La Gloria Eterna"
   },
   {
-    "question": "¿Cuál fue el primer nombre de la aerolínea antes de llamarse Avianca?",
-    "options": [
-      "SCADTA",
-      "LANSA",
-      "Aerocóndor"
-    ],
-    "answer": "SCADTA"
-  },
-  {
     "question": "¿Qué club es el máximo ganador en la historia de la CONMEBOL Libertadores?",
     "options": [
       "Boca Juniors",
@@ -205,15 +106,6 @@
       "Peñarol"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "¿Qué significa el programa \"Stopover Bogotá\"?",
-    "options": [
-      "Dormir gratis en el aeropuerto",
-      "Conocer Bogotá durante una conexión",
-      "Acceso a salas VIP sin costo"
-    ],
-    "answer": "Conocer Bogotá durante una conexión"
   },
   {
     "question": "¿Quién fue el primer campeón de la CONMEBOL Libertadores en 1960?",
@@ -225,15 +117,6 @@
     "answer": "Peñarol"
   },
   {
-    "question": "¿Qué certificación obtuvo Avianca en 2023 sobre huella de carbono?",
-    "options": [
-      "ISO 9001",
-      "ISO 14064-3",
-      "ISO 26000"
-    ],
-    "answer": "ISO 14064-3"
-  },
-  {
     "question": "¿Qué país ha ganado la CONMEBOL Libertadores más veces?",
     "options": [
       "Brasil",
@@ -241,15 +124,6 @@
       "Uruguay"
     ],
     "answer": "Argentina"
-  },
-  {
-    "question": "¿Avianca vuela directo a Londres?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo vía conexión"
-    ],
-    "answer": "Sí"
   },
   {
     "question": "¿Quién es el máximo goleador histórico de la CONMEBOL Libertadores?",
@@ -261,15 +135,6 @@
     "answer": "Alberto Spencer"
   },
   {
-    "question": "¿Qué ciudad del norte de Brasil es nuevo destino de Avianca en 2025?",
-    "options": [
-      "Fortaleza",
-      "Belém",
-      "Manaos"
-    ],
-    "answer": "Manaos"
-  },
-  {
     "question": "¿Cuántos equipos participan en la fase de grupos de la CONMEBOL Libertadores?",
     "options": [
       "16",
@@ -277,15 +142,6 @@
       "64"
     ],
     "answer": "32"
-  },
-  {
-    "question": "¿Qué es INSIGNIA by Avianca?",
-    "options": [
-      "La nueva Business Class de Avianca hacia y desde Europa",
-      "Un programa de millas",
-      "El nombre de un nuevo avión"
-    ],
-    "answer": "La nueva Business Class de Avianca hacia y desde Europa"
   },
   {
     "question": "La final única de la CONMEBOL Libertadores se implementó en 2019. ¿Cuál fue la primera ciudad en recibirla?",
@@ -297,15 +153,6 @@
     "answer": "Lima"
   },
   {
-    "question": "¿Avianca tiene vuelos directos de Bogotá a París?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo con escala"
-    ],
-    "answer": "Sí"
-  },
-  {
     "question": "¿Qué club chileno fue el único de su país en ganar la CONMEBOL Libertadores?",
     "options": [
       "Universidad de Chile",
@@ -313,15 +160,6 @@
       "Universidad Católica"
     ],
     "answer": "Colo-Colo"
-  },
-  {
-    "question": "¿Qué ciudad argentina se conecta directamente con Bogotá desde junio 2025?",
-    "options": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "answer": "Rosario"
   },
   {
     "question": "¿Cuál es el lema o apodo principal de la CONMEBOL Sudamericana?",
@@ -333,15 +171,6 @@
     "answer": "La Gran Conquista"
   },
   {
-    "question": "¿Cuál es la ciudad estadounidense conocida por su música y arquitectura a la que Avianca vuela desde El Salvador en 2025?",
-    "options": [
-      "Miami",
-      "Chicago",
-      "Atlanta"
-    ],
-    "answer": "Atlanta"
-  },
-  {
     "question": "¿Qué club argentino ganó la primera edición de la CONMEBOL Sudamericana en 2002?",
     "options": [
       "Boca Juniors",
@@ -349,15 +178,6 @@
       "River Plate"
     ],
     "answer": "San Lorenzo"
-  },
-  {
-    "question": "¿Qué ciudad caribeña se conecta con San José (Costa Rica) desde marzo 2025?",
-    "options": [
-      "San Juan, Puerto Rico",
-      "La Habana",
-      "Punta Cana"
-    ],
-    "answer": "San Juan, Puerto Rico"
   },
   {
     "question": "¿Qué equipo ecuatoriano sorprendió al continente ganando la CONMEBOL Sudamericana en 2009 y 2023?",
@@ -369,15 +189,6 @@
     "answer": "LDU de Quito"
   },
   {
-    "question": "¿Avianca tiene vuelos directos a Tampa desde Colombia?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo vía conexión"
-    ],
-    "answer": "No"
-  },
-  {
     "question": "La CONMEBOL Sudamericana reemplazó a dos torneos anteriores. Uno era la Copa Mercosur, ¿cuál era el otro?",
     "options": [
       "Copa CONMEBOL",
@@ -385,16 +196,6 @@
       "Copa de Oro"
     ],
     "answer": "Copa Merconorte"
-  },
-  {
-    "question": "¿Cuál es el destino apodado \"eterna primavera\" conectado con Lima en 2025?",
-    "options": [
-      "Medellín",
-      "Cali",
-      "Pereira",
-      "Orlando"
-    ],
-    "answer": "Medellín"
   },
   {
     "question": "¿Qué equipo brasileño fue declarado campeón honorífico de la CONMEBOL Sudamericana 2016 tras su trágico accidente aéreo?",
@@ -406,15 +207,6 @@
     "answer": "Chapecoense"
   },
   {
-    "question": "¿Qué modelo de avión de un solo pasillo usa Avianca en rutas regionales?",
-    "options": [
-      "Airbus A320",
-      "Embraer 190",
-      "Boeing 757"
-    ],
-    "answer": "Airbus A320"
-  },
-  {
     "question": "¿Quién es el actual presidente de la CONMEBOL?",
     "options": [
       "Gianni Infantino",
@@ -422,15 +214,6 @@
       "Juan Ángel Napout"
     ],
     "answer": "Alejandro Domínguez"
-  },
-  {
-    "question": "¿En qué avión se ofrece INSIGNIA Business Class hacia Europa?",
-    "options": [
-      "Boeing 787",
-      "Airbus A319",
-      "Airbus A321"
-    ],
-    "answer": "Boeing 787"
   },
   {
     "question": "El lema oficial de la CONMEBOL bajo la actual presidencia es...",
@@ -442,15 +225,6 @@
     "answer": "\"Cree en Grande\""
   },
   {
-    "question": "¿Qué tipo de asientos ofrece el Boeing 787?",
-    "options": [
-      "Solo Economy",
-      "Business, Plus y Economy",
-      "Premium Economy únicamente"
-    ],
-    "answer": "Business, Plus y Economy"
-  },
-  {
     "question": "¿Qué país es famoso por su \"garra charrúa\"?",
     "options": [
       "Paraguay",
@@ -458,15 +232,6 @@
       "Argentina"
     ],
     "answer": "Uruguay"
-  },
-  {
-    "question": "¿Cuántos grados de reclinación tiene el asiento Business en vuelos a Europa?",
-    "options": [
-      "150°",
-      "180°",
-      "120°"
-    ],
-    "answer": "180°"
   },
   {
     "question": "¿Qué dos equipos disputan el \"Superclásico\" del fútbol argentino?",
@@ -478,15 +243,6 @@
     "answer": "Boca Juniors y River Plate"
   },
   {
-    "question": "¿Qué elementos de confort incluye Business Class Américas en vuelos de más de 3 horas?",
-    "options": [
-      "Snacks",
-      "Almuerzo, cena o desayuno",
-      "Solo bebidas"
-    ],
-    "answer": "Almuerzo, cena o desayuno"
-  },
-  {
     "question": "¿Cuál es el torneo de clubes más importante del fútbol femenino en Sudamérica?",
     "options": [
       "CONMEBOL Sudamericana Femenina",
@@ -494,15 +250,6 @@
       "Supercopa Femenina"
     ],
     "answer": "CONMEBOL Libertadores Femenina"
-  },
-  {
-    "question": "¿Qué chef colombiano diseña menús para Business Class Américas?",
-    "options": [
-      "Jorge Rausch",
-      "Álvaro Clavijo",
-      "Harry Sasson"
-    ],
-    "answer": "Álvaro Clavijo"
   },
   {
     "question": "¿Cuántos países conforman actualmente la CONMEBOL?",
@@ -514,15 +261,6 @@
     "answer": "10"
   },
   {
-    "question": "¿Qué servicio a bordo permite ver películas desde el celular?",
-    "options": [
-      "Avianca On Air",
-      "Sky Entertainment",
-      "Cloud Cinema"
-    ],
-    "answer": "Avianca On Air"
-  },
-  {
     "question": "La Conmebol Recopa enfrenta anualmente a los campeones de...",
     "options": [
       "CONMEBOL Sudamericana y Copa de Campeones",
@@ -530,15 +268,6 @@
       "CONMEBOL Libertadores y liga del país anfitrión"
     ],
     "answer": "CONMEBOL Libertadores y CONMEBOL Sudamericana"
-  },
-  {
-    "question": "¿Qué tamaño máximo debe tener el equipaje de mano?",
-    "options": [
-      "55x40x25 cm",
-      "45x35x20 cm",
-      "50x40x20 cm"
-    ],
-    "answer": "55x40x25 cm"
   },
   {
     "question": "¿Cómo se llama el torneo de selecciones juveniles más importante que clasifica al Mundial de la categoría?",
@@ -550,15 +279,6 @@
     "answer": "CONMEBOL Sub-20"
   },
   {
-    "question": "¿Cuál es el peso máximo permitido para el equipaje de mano?",
-    "options": [
-      "8 kg",
-      "10 kg",
-      "12 kg"
-    ],
-    "answer": "10 kg"
-  },
-  {
     "question": "¿Qué país fue el primer campeón de la historia de la CONMEBOL Libertadores Femenina?",
     "options": [
       "Colo-Colo (Chile)",
@@ -566,15 +286,6 @@
       "Formas Íntimas (Colombia)"
     ],
     "answer": "Santos (Brasil)"
-  },
-  {
-    "question": "¿Los equipos deportivos como tablas de surf pueden llevarse en bodega?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo con pago especial"
-    ],
-    "answer": "Sí"
   },
   {
     "question": "¿Qué trofeo global puede disputar el campeón de la CONMEBOL Libertadores?",
@@ -586,15 +297,6 @@
     "answer": "La Copa Mundial de Clubes de la FIFA"
   },
   {
-    "question": "¿Cuántos equipajes de bodega de 32 kg incluye Business Class?",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
     "question": "¿Qué regla de desempate se eliminó recientemente de la CONMEBOL Libertadores y CONMEBOL Sudamericana a partir de 2022?",
     "options": [
       "Tiempo extra obligatorio",
@@ -602,15 +304,6 @@
       "Penales al mejor de tres"
     ],
     "answer": "El gol de visitante"
-  },
-  {
-    "question": "¿Avianca cuenta con salas VIP en Miami?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo para socios Diamond"
-    ],
-    "answer": "No"
   },
   {
     "question": "¿Qué club paraguayo es conocido como \"El Decano\" y ha ganado 3 CONMEBOL Libertadores?",
@@ -622,15 +315,6 @@
     "answer": "Olimpia"
   },
   {
-    "question": "¿Qué servicio especial permite embarcar antes que otros pasajeros?",
-    "options": [
-      "Check-in online",
-      "Abordaje prioritario",
-      "Fast Track"
-    ],
-    "answer": "Abordaje prioritario"
-  },
-  {
     "question": "¿Cuál fue el primer equipo del Pacífico en ganar la CONMEBOL Libertadores?",
     "options": [
       "LDU de Quito",
@@ -640,15 +324,6 @@
     "answer": "Atlético Nacional"
   },
   {
-    "question": "¿Qué tipo de asientos en A320 están en las filas 1-3?",
-    "options": [
-      "Asientos Economy",
-      "Asientos Premium",
-      "Asientos Plus"
-    ],
-    "answer": "Asientos Premium"
-  },
-  {
     "question": "¿Qué equipo ganó 4 CONMEBOL Libertadores consecutivas entre 1968 y 1971?",
     "options": [
       "Peñarol",
@@ -656,15 +331,6 @@
       "Santos de Pelé"
     ],
     "answer": "Estudiantes de La Plata"
-  },
-  {
-    "question": "¿Cómo se llama el programa de fidelidad de Avianca?",
-    "options": [
-      "Avianca Miles",
-      "LifeMiles",
-      "Avianca Rewards"
-    ],
-    "answer": "LifeMiles"
   },
   {
     "question": "En la icónica final de la CONMEBOL Libertadores 2018 jugada en Madrid, ¿qué equipos se enfrentaron?",
@@ -676,15 +342,6 @@
     "answer": "River Plate vs. Boca Juniors"
   },
   {
-    "question": "¿Qué nivel de LifeMiles está por encima de Gold?",
-    "options": [
-      "Silver",
-      "Diamond",
-      "Concierge"
-    ],
-    "answer": "Diamond"
-  },
-  {
     "question": "¿Qué significa la palabra \"CONMEBOL\"?",
     "options": [
       "Consejo Mundial de Balompié",
@@ -692,15 +349,6 @@
       "Comunidad de Naciones del Balompié"
     ],
     "answer": "Confederación CONMEBOL Sudamericana de Fútbol"
-  },
-  {
-    "question": "¿Qué beneficio reciben los socios Diamond en Avianca Lounges?",
-    "options": [
-      "Acceso ilimitado",
-      "20 entradas al año",
-      "10 entradas al año"
-    ],
-    "answer": "Acceso ilimitado"
   },
   {
     "question": "¿Qué equipo es conocido como el \"Rey de Copas\" por sus 7 títulos de CONMEBOL Libertadores?",
@@ -712,15 +360,6 @@
     "answer": "Independiente"
   },
   {
-    "question": "¿Qué año recibió Avianca la verificación de huella de carbono?",
-    "options": [
-      "2022",
-      "2023",
-      "2024"
-    ],
-    "answer": "2023"
-  },
-  {
     "question": "¿Qué tecnología de videoarbitraje se utiliza en los torneos de CONMEBOL?",
     "options": [
       "Ojo de Halcón",
@@ -728,15 +367,6 @@
       "Goal-line Technology"
     ],
     "answer": "VAR (Video Assistant Referee)"
-  },
-  {
-    "question": "¿Hasta cuánto antes puedes finalizar el check-in?",
-    "options": [
-      "90 min",
-      "60 min en internacionales / 45 min en nacionales",
-      "30 min"
-    ],
-    "answer": "60 min en internacionales / 45 min en nacionales"
   },
   {
     "question": "¿En qué ciudad se fundó CONMEBOL?",
@@ -748,15 +378,6 @@
     "answer": "Buenos Aires, Argentina"
   },
   {
-    "question": "¿Cómo usas avianca on air a bordo?",
-    "options": [
-      "Descargando Netflix",
-      "Conectándote al Wi-Fi \"avianca\" y entrando a aviancaonair.com",
-      "Solo con datos móviles."
-    ],
-    "answer": "Conectándote al Wi-Fi \"avianca\" y entrando a aviancaonair.com"
-  },
-  {
     "question": "¿Quién es considerado uno de los mejores futbolistas en la historia de Bolivia, apodado \"El Diablo\"?",
     "options": [
       "Erwin \"Platini\" Sánchez",
@@ -764,15 +385,6 @@
       "Joaquín Botero"
     ],
     "answer": "Marco Etcheverry"
-  },
-  {
-    "question": "¿Dónde revisas requisitos de viaje y documentos?",
-    "options": [
-      "Blog de viajes",
-      "En \"Requisitos para viajar\" de avianca.com",
-      "En cualquier web Avianca"
-    ],
-    "answer": "En \"Requisitos para viajar\" de avianca.com"
   },
   {
     "question": "¿Qué equipo colombiano tuvo una época dorada a finales de los 80, ganando la CONMEBOL Libertadores en 1989?",
@@ -784,15 +396,6 @@
     "answer": "Atlético Nacional"
   },
   {
-    "question": "¿Qué app te permite hacer check-in y recibir notificaciones de tu vuelo?",
-    "options": [
-      "WhatsApp",
-      "App de Avianca",
-      "TikTok Avianca"
-    ],
-    "answer": "App de Avianca"
-  },
-  {
     "question": "¿Qué club argentino ganó la primera edición de la CONMEBOL Sudamericana en 2002?",
     "options": [
       "Boca Juniors",
@@ -800,15 +403,6 @@
       "River Plate"
     ],
     "answer": "San Lorenzo"
-  },
-  {
-    "question": "avianca on air ofrece contenidos de...",
-    "options": [
-      "Disney+",
-      "HBO Max y F1 TV",
-      "Prime Video"
-    ],
-    "answer": "HBO Max y F1 TV"
   },
   {
     "question": "¿Qué equipo ecuatoriano sorprendió al continente ganando la CONMEBOL Sudamericana en 2009 y 2023?",
@@ -820,15 +414,6 @@
     "answer": "LDU de Quito"
   },
   {
-    "question": "¿Cómo se llama el servicio para conectar con otras aerolíneas y llegar a más destinos?",
-    "options": [
-      "Star Fly",
-      "avianca connect",
-      "Avianca Max"
-    ],
-    "answer": "avianca connect"
-  },
-  {
     "question": "La CONMEBOL Sudamericana reemplazó a dos torneos anteriores. Uno era la Copa Mercosur, ¿cuál era el otro?",
     "options": [
       "Copa CONMEBOL",
@@ -836,15 +421,6 @@
       "Copa de Oro"
     ],
     "answer": "Copa Merconorte"
-  },
-  {
-    "question": "Un beneficio Star Alliance Gold es...",
-    "options": [
-      "Boletos 2x1",
-      "Comida gratis",
-      "Maleta adicional y acceso a lounges"
-    ],
-    "answer": "Maleta adicional y acceso a lounges"
   },
   {
     "question": "¿Qué club paraguayo es conocido como \"El Decano\" y ha ganado 3 CONMEBOL Libertadores?",
@@ -856,15 +432,6 @@
     "answer": "Olimpia"
   },
   {
-    "question": "¿Qué edad define a un bebé para Avianca?",
-    "options": [
-      "Menor de 3 años",
-      "Menor de 1 año",
-      "Mayor de 10 días y menor de 2 años"
-    ],
-    "answer": "Mayor de 10 días y menor de 2 años"
-  },
-  {
     "question": "¿Cuál fue el primer equipo del Pacífico en ganar la CONMEBOL Libertadores?",
     "options": [
       "LDU de Quito",
@@ -872,15 +439,6 @@
       "Colo-Colo"
     ],
     "answer": "Atlético Nacional"
-  },
-  {
-    "question": "Los pasajeros de 2 a 11 años se consideran...",
-    "options": [
-      "Adultos",
-      "Niños",
-      "Bebés"
-    ],
-    "answer": "Niños"
   },
   {
     "question": "¿Qué equipo ganó 4 CONMEBOL Libertadores consecutivas entre 1968 y 1971?",
@@ -892,15 +450,6 @@
     "answer": "Estudiantes de La Plata"
   },
   {
-    "question": "Para solicitar silla de ruedas debes...",
-    "options": [
-      "Pedirla al abordar",
-      "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad",
-      "Pagar siempre"
-    ],
-    "answer": "Avisar con antelación (24-48 h); sin costo si la usas por discapacidad"
-  },
-  {
     "question": "¿Qué entrenador argentino es el más ganador en la historia de la CONMEBOL Libertadores con cuatro títulos?",
     "options": [
       "Marcelo Gallardo",
@@ -908,15 +457,6 @@
       "Osvaldo Zubeldía"
     ],
     "answer": "Carlos Bianchi"
-  },
-  {
-    "question": "¿Cuándo abre el check-in online de Avianca?",
-    "options": [
-      "72 h antes de tu vuelo",
-      "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)",
-      "Solo 12 h antes"
-    ],
-    "answer": "48 h (24 h si vuelas a/desde EE. UU., Puerto Rico o Canadá)"
   },
   {
     "question": "¿Cuál de estos jugadores NO forma parte del selecto grupo que ha ganado la CONMEBOL Libertadores y la UEFA Champions League?",
@@ -928,15 +468,6 @@
     "answer": "Ronaldo Nazário"
   },
   {
-    "question": "¿Con cuánta anticipación recomienda Avianca llegar al aeropuerto?",
-    "options": [
-      "1 h nacional / 2 h internacional",
-      "2 h nacional / 3 h internacional",
-      "4 h en todos los casos"
-    ],
-    "answer": "2 h nacional / 3 h internacional"
-  },
-  {
     "question": "La ciudad de Avellaneda en Argentina es mundialmente famosa por albergar los estadios de dos clubes rivales a solo 300 metros de distancia. ¿Qué equipos son?",
     "options": [
       "Boca Juniors y River Plate",
@@ -944,15 +475,6 @@
       "San Lorenzo y Huracán"
     ],
     "answer": "Racing Club e Independiente"
-  },
-  {
-    "question": "¿Cuántas bolsas Duty Free puedes llevar sin cargo?",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "1"
   },
   {
     "question": "El estadio de La Paz, Bolivia, es conocido por la dificultad que representa para los equipos visitantes debido a su altitud. ¿Cómo se llama?",
@@ -964,15 +486,6 @@
     "answer": "Estadio Hernando Siles"
   },
   {
-    "question": "¿Qué tarifa incluye asiento Plus (sujeto a disponibilidad)?",
-    "options": [
-      "Flex",
-      "Classic",
-      "Basic"
-    ],
-    "answer": "Flex"
-  },
-  {
     "question": "¿Qué club es conocido en Brasil como el \"Tricolor Paulista\"?",
     "options": [
       "Palmeiras",
@@ -980,15 +493,6 @@
       "Corinthians"
     ],
     "answer": "São Paulo FC"
-  },
-  {
-    "question": "¿Qué tarifa acumula 10 LifeMiles por USD?",
-    "options": [
-      "Business",
-      "Classic",
-      "Flex"
-    ],
-    "answer": "Business"
   },
   {
     "question": "En la final de la CONMEBOL Libertadores 2019, Flamengo consiguió una remontada épica en los últimos 5 minutos contra...",
@@ -1000,15 +504,6 @@
     "answer": "River Plate"
   },
   {
-    "question": "¿Hasta cuándo puedes ofertar un upgrade a Business Class?",
-    "options": [
-      "Hasta 24 h antes",
-      "Hasta 4 h antes del vuelo",
-      "Solo en el aeropuerto"
-    ],
-    "answer": "Hasta 24 h antes"
-  },
-  {
     "question": "En 2022, el delantero Julián Álvarez impuso un récord al marcar una increíble cantidad de goles en un solo partido de CONMEBOL Libertadores para River Plate. ¿Cuántos goles hizo?",
     "options": [
       "5",
@@ -1016,15 +511,6 @@
       "7"
     ],
     "answer": "6"
-  },
-  {
-    "question": "¿Qué dato necesitas para iniciar el check-in online?",
-    "options": [
-      "Número de pasaporte",
-      "Código de reserva",
-      "Número de asiento"
-    ],
-    "answer": "Código de reserva"
   },
   {
     "question": "El estadio de Racing Club, \"El Cilindro de Avellaneda\", tiene un nombre oficial que rinde homenaje a un famoso presidente argentino. ¿Quién es?",
@@ -1036,15 +522,6 @@
     "answer": "Juan Domingo Perón"
   },
   {
-    "question": "¿Dónde te notifica Avianca cambios de itinerario en tiempo real?",
-    "options": [
-      "Solo SMS",
-      "Email y WhatsApp",
-      "Solo por llamada"
-    ],
-    "answer": "Email y WhatsApp"
-  },
-  {
     "question": "En una tanda de penales de un torneo CONMEBOL, si el marcador sigue empatado tras los 5 tiros por equipo, se procede a...",
     "options": [
       "Lanzar una moneda al aire.",
@@ -1052,15 +529,6 @@
       "Jugar un tiempo extra de 10 minutos."
     ],
     "answer": "Una serie de \"muerte súbita\", un tiro por equipo hasta que haya un ganador."
-  },
-  {
-    "question": "¿Qué red global permite acumular/canjear con 26 aerolíneas?",
-    "options": [
-      "oneworld",
-      "SkyTeam",
-      "Star Alliance"
-    ],
-    "answer": "Star Alliance"
   },
   {
     "question": "Quién fue el primer presidente de la Conmebol?",
@@ -1072,15 +540,6 @@
     "answer": "Héctor Rivadavia (Uruguay)"
   },
   {
-    "question": "¿Qué incluye INSIGNIA by avianca en asiento?",
-    "options": [
-      "Reclinación 30°",
-      "Asiento-cama (flatbed)",
-      "Solo reposacabezas"
-    ],
-    "answer": "Asiento-cama (flatbed)"
-  },
-  {
     "question": "¿Qué jugador paraguayo es conocido como \"El Mago\"?",
     "options": [
       "Roque Santa Cruz",
@@ -1088,15 +547,6 @@
       "Rubén Darío Ramírez"
     ],
     "answer": "José Luis Chilavert"
-  },
-  {
-    "question": "Si compraste en grupo, ¿desde cuántos pasajeros se considera reserva grupal?",
-    "options": [
-      "6",
-      "8",
-      "10 o más"
-    ],
-    "answer": "10 o más"
   },
   {
     "question": "¿Quién fue el máximo goleador de la CONMEBOL Libertadores 2022?",
@@ -1108,15 +558,6 @@
     "answer": "Pedro"
   },
   {
-    "question": "¿Plazo máximo para reclamar equipaje demorado?",
-    "options": [
-      "7 días",
-      "14 días",
-      "21 días desde que finalizó tu vuelo"
-    ],
-    "answer": "21 días desde que finalizó tu vuelo"
-  },
-  {
     "question": "¿En qué año se jugó la primera final única de la CONMEBOL Sudamericana?",
     "options": [
       "2019",
@@ -1124,15 +565,6 @@
       "2021"
     ],
     "answer": "2019"
-  },
-  {
-    "question": "¿Por cuánto tiempo guarda Avianca ciertos objetos perdidos?",
-    "options": [
-      "1 mes",
-      "2 meses",
-      "6 meses"
-    ],
-    "answer": "2 meses"
   },
   {
     "question": "¿Qué club colombiano ganó la CONMEBOL Sudamericana en 2015?",
@@ -1144,15 +576,6 @@
     "answer": "Independiente Santa Fe"
   },
   {
-    "question": "Para reclamar un objeto olvidado en el avión, necesitas:",
-    "options": [
-      "Únicamente tu número de vuelo",
-      "Documento de identidad y pase de abordar",
-      "Tarjeta de crédito"
-    ],
-    "answer": "Documento de identidad y pase de abordar"
-  },
-  {
     "question": "¿Qué club brasileño ganó la CONMEBOL Libertadores en 2022?",
     "options": [
       "Flamengo",
@@ -1162,15 +585,6 @@
     "answer": "Flamengo"
   },
   {
-    "question": "El Contrato de Transporte indica que el pasajero es responsable de llevar...",
-    "options": [
-      "Solo pasaporte",
-      "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc.",
-      "Solo visa electronica"
-    ],
-    "answer": "Todos los documentos requeridos: visa, vacunas, tarjetas de turismo, etc."
-  },
-  {
     "question": "¿Quién es conocido como \"El Maestro\" en el fútbol uruguayo?",
     "options": [
       "Óscar Washington Tabárez",
@@ -1178,15 +592,6 @@
       "Enzo Francescoli"
     ],
     "answer": "Óscar Washington Tabárez"
-  },
-  {
-    "question": "Los dispositivos de movilidad (sillas de ruedas, etc.)...",
-    "options": [
-      "Se cobran como extra",
-      "Hacen parte de tu equipaje gratuito",
-      "Solo se aceptan plegables"
-    ],
-    "answer": "Hacen parte de tu equipaje gratuito"
   },
   {
     "question": "¿Cuál fue la primera ciudad no sudamericana en albergar una final de CONMEBOL Libertadores?",
@@ -1198,15 +603,6 @@
     "answer": "Madrid"
   },
   {
-    "question": "Vianca es...",
-    "options": [
-      "Un programa de crédito",
-      "La asistente virtual por WhatsApp que te ayuda con tu viaje",
-      "Un tipo de tarifa"
-    ],
-    "answer": "La asistente virtual por WhatsApp que te ayuda con tu viaje"
-  },
-  {
     "question": "¿Qué club argentino ganó la CONMEBOL en 1999?",
     "options": [
       "Talleres de Córdoba",
@@ -1216,15 +612,6 @@
     "answer": "Talleres de Córdoba"
   },
   {
-    "question": "Si compraste Basic o Light y haces el check-in en counter, ¿qué pasa?",
-    "options": [
-      "Está incluido sin costo",
-      "Debes ir a kiosco primero",
-      "Puede tener costo"
-    ],
-    "answer": "Puede tener costo"
-  },
-  {
     "question": "¿Cuál es el clásico más antiguo del fútbol paraguayo?",
     "options": [
       "Cerro Porteño vs. Olimpia",
@@ -1232,15 +619,6 @@
       "Olimpia vs. Nacional"
     ],
     "answer": "Cerro Porteño vs. Olimpia"
-  },
-  {
-    "question": "¿En qué año Avianca adoptó oficialmente el nombre \"Avianca\"?",
-    "options": [
-      "1940",
-      "1935",
-      "1952"
-    ],
-    "answer": "1940"
   },
   {
     "question": "¿Qué club ecuatoriano fue finalista de la CONMEBOL Libertadores en 2016?",
@@ -1252,15 +630,6 @@
     "answer": "Independiente del Valle"
   },
   {
-    "question": "¿Qué país europeo tiene más de un destino directo con Avianca en 2025?",
-    "options": [
-      "España",
-      "Francia",
-      "Alemania"
-    ],
-    "answer": "España"
-  },
-  {
     "question": "¿Quién es el portero con más penales atajados en la historia de CONMEBOL Libertadores?",
     "options": [
       "Ever Hugo Almeida",
@@ -1268,15 +637,6 @@
       "Franco Armani"
     ],
     "answer": "Rogério Ceni"
-  },
-  {
-    "question": "¿Qué significa SCADTA, nombre original de Avianca?",
-    "options": [
-      "Sociedad Colombo Alemana de Transporte Aéreo",
-      "Servicio Comercial Aéreo de Transporte Andino",
-      "Sociedad Colombiana de Aerotransporte"
-    ],
-    "answer": "Sociedad Colombo Alemana de Transporte Aéreo"
   },
   {
     "question": "¿Qué jugador colombiano marcó el gol del título en CONMEBOL Libertadores 1989?",
@@ -1288,15 +648,6 @@
     "answer": "Andrés Escobar"
   },
   {
-    "question": "¿Cuál fue el primer destino internacional de Avianca?",
-    "options": [
-      "Lima",
-      "Quito",
-      "Caracas"
-    ],
-    "answer": "Quito"
-  },
-  {
     "question": "¿Qué equipo brasileño fue bicampeón de CONMEBOL Libertadores en 2019 y 2020?",
     "options": [
       "Palmeiras",
@@ -1304,15 +655,6 @@
       "Santos"
     ],
     "answer": "Palmeiras"
-  },
-  {
-    "question": "¿Qué país fue el primero en Sudamérica en el que Avianca abrió operaciones fuera de Colombia?",
-    "options": [
-      "Ecuador",
-      "Perú",
-      "Brasil"
-    ],
-    "answer": "Ecuador"
   },
   {
     "question": "¿Qué significan las siglas CONMEBOL?",
@@ -1324,15 +666,6 @@
     "answer": "Confederación Sudamericana de Fútbol"
   },
   {
-    "question": "¿Cuál es el lema principal de Avianca en su comunicación?",
-    "options": [
-      "\"Vuela alto\"",
-      "\"Vuela a tu manera\"",
-      "\"La aerolínea de todos\""
-    ],
-    "answer": "\"Vuela a tu manera\""
-  },
-  {
     "question": "¿Qué club es conocido como el \"Rey de Copas\" por sus 7 títulos en la CONMEBOL Libertadores?",
     "options": [
       "Peñarol",
@@ -1340,15 +673,6 @@
       "Boca Juniors"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "¿En qué año Avianca ingresó a Star Alliance?",
-    "options": [
-      "2010",
-      "2012",
-      "2014"
-    ],
-    "answer": "2012"
   },
   {
     "question": "¿Qué tecnología de arbitraje se utiliza en los torneos de la CONMEBOL?",
@@ -1360,15 +684,6 @@
     "answer": "VAR (Video Assistant Referee)"
   },
   {
-    "question": "¿Cuál es el hub principal de Avianca en Centroamérica?",
-    "options": [
-      "Ciudad de Panamá",
-      "San Salvador",
-      "Managua"
-    ],
-    "answer": "San Salvador"
-  },
-  {
     "question": "¿En qué ciudad se fundó oficialmente la CONMEBOL?",
     "options": [
       "Bogotá, Colombia",
@@ -1376,15 +691,6 @@
       "Río de Janeiro, Brasil"
     ],
     "answer": "Buenos Aires, Argentina"
-  },
-  {
-    "question": "¿Qué certificación en seguridad operacional tiene Avianca?",
-    "options": [
-      "IOSA",
-      "ISO 22000",
-      "IATA Green"
-    ],
-    "answer": "IOSA"
   },
   {
     "question": "¿Qué futbolista boliviano es apodado \"El Diablo\"?",
@@ -1396,15 +702,6 @@
     "answer": "Marco Etcheverry"
   },
   {
-    "question": "¿Qué aeropuerto colombiano, además de Bogotá, es un hub para Avianca?",
-    "options": [
-      "Medellín - José María Córdova",
-      "Cali - Alfonso Bonilla Aragón",
-      "El Dorado es el único hub"
-    ],
-    "answer": "Medellín - José María Córdova"
-  },
-  {
     "question": "¿Qué equipo colombiano ganó la CONMEBOL Libertadores en 1989?",
     "options": [
       "América de Cali",
@@ -1412,15 +709,6 @@
       "Millonarios"
     ],
     "answer": "Atlético Nacional"
-  },
-  {
-    "question": "¿Qué destino de Estados Unidos es conocido como \"la ciudad del sol\" y es operado por Avianca?",
-    "options": [
-      "Miami",
-      "Los Ángeles",
-      "Houston"
-    ],
-    "answer": "Miami"
   },
   {
     "question": "¿Qué entrenador argentino es el más ganador en la historia de la CONMEBOL Libertadores con cuatro títulos?",
@@ -1432,15 +720,6 @@
     "answer": "Carlos Bianchi"
   },
   {
-    "question": "¿Cuál es el código IATA de Avianca?",
-    "options": [
-      "AV",
-      "AC",
-      "AN"
-    ],
-    "answer": "AV"
-  },
-  {
     "question": "¿Cuál de estos jugadores ganó tanto la CONMEBOL Libertadores como la UEFA Champions League?",
     "options": [
       "Neymar Jr.",
@@ -1448,15 +727,6 @@
       "Ronaldinho"
     ],
     "answer": "Ronaldinho"
-  },
-  {
-    "question": "¿Qué servicio permite a los pasajeros reservar asiento con espacio extra para las piernas?",
-    "options": [
-      "Asientos Plus",
-      "Comfort Seats",
-      "Maxi Seats"
-    ],
-    "answer": "Asientos Plus"
   },
   {
     "question": "En Avellaneda, Argentina, dos estadios de clubes rivales están separados por solo 300 metros. ¿De qué equipos se trata?",
@@ -1468,15 +738,6 @@
     "answer": "Racing Club e Independiente"
   },
   {
-    "question": "¿Qué país centroamericano es uno de los hubs más importantes de Avianca?",
-    "options": [
-      "Guatemala",
-      "El Salvador",
-      "Honduras"
-    ],
-    "answer": "El Salvador"
-  },
-  {
     "question": "El estadio de La Paz famoso por la altitud que dificulta a los rivales es...",
     "options": [
       "Estadio Olímpico Atahualpa",
@@ -1484,15 +745,6 @@
       "Estadio Monumental de la UNSA"
     ],
     "answer": "Estadio Hernando Siles"
-  },
-  {
-    "question": "¿Cuál fue la primera ciudad europea a la que voló Avianca?",
-    "options": [
-      "París",
-      "Madrid",
-      "Roma"
-    ],
-    "answer": "Madrid"
   },
   {
     "question": "¿Qué club brasileño recibe el apodo de \"Tricolor Paulista\"?",
@@ -1504,15 +756,6 @@
     "answer": "São Paulo FC"
   },
   {
-    "question": "¿Qué destino sudamericano es llamado \"la ciudad jardín\" y lo opera Avianca?",
-    "options": [
-      "Viña del Mar",
-      "Medellín",
-      "Guayaquil"
-    ],
-    "answer": "Medellín"
-  },
-  {
     "question": "En la final de la CONMEBOL Libertadores 2019, Flamengo remontó en los últimos 5 minutos contra...",
     "options": [
       "Boca Juniors",
@@ -1520,15 +763,6 @@
       "Palmeiras"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "¿Qué tipo de aeronave es usada principalmente en rutas nacionales en Colombia?",
-    "options": [
-      "Airbus A320",
-      "Boeing 767",
-      "Embraer 190"
-    ],
-    "answer": "Airbus A320"
   },
   {
     "question": "¿Cuántos goles convirtió Julián Álvarez en un solo partido de CONMEBOL Libertadores con River Plate en 2022?",
@@ -1540,15 +774,6 @@
     "answer": "6"
   },
   {
-    "question": "¿Cuál es el nombre de la clase ejecutiva en vuelos de larga distancia de Avianca?",
-    "options": [
-      "Premium Business",
-      "INSIGNIA Business Class",
-      "Avianca Executive"
-    ],
-    "answer": "INSIGNIA Business Class"
-  },
-  {
     "question": "El estadio de Racing Club, \"El Cilindro de Avellaneda\", se llama oficialmente...",
     "options": [
       "Hipólito Yrigoyen",
@@ -1556,15 +781,6 @@
       "Arturo Frondizi"
     ],
     "answer": "Juan Domingo Perón"
-  },
-  {
-    "question": "¿Qué destino europeo es llamado \"la ciudad luz\" y lo opera Avianca?",
-    "options": [
-      "Roma",
-      "París",
-      "Ámsterdam"
-    ],
-    "answer": "París"
   },
   {
     "question": "En una tanda de penales de torneos CONMEBOL, si tras 5 disparos sigue el empate, se define por...",
@@ -1576,15 +792,6 @@
     "answer": "Serie de muerte súbita"
   },
   {
-    "question": "¿Qué tipo de menú especial ofrece Avianca a bordo?",
-    "options": [
-      "Menús sin gluten",
-      "Solo menú vegetariano",
-      "No ofrece menús especiales"
-    ],
-    "answer": "Menús sin gluten"
-  },
-  {
     "question": "¿Quién fue el primer presidente de la CONMEBOL?",
     "options": [
       "Nicolás Leoz",
@@ -1592,15 +799,6 @@
       "Eugenio Figueredo"
     ],
     "answer": "Héctor Rivadavia"
-  },
-  {
-    "question": "¿Qué aeropuerto colombiano se conoce como Alfonso Bonilla Aragón?",
-    "options": [
-      "Medellín",
-      "Cali",
-      "Barranquilla"
-    ],
-    "answer": "Cali"
   },
   {
     "question": "¿En qué año la CONMEBOL Libertadores implementó la final a partido único en estadio neutral?",
@@ -1612,15 +810,6 @@
     "answer": "2019"
   },
   {
-    "question": "¿En qué año Avianca incorporó los Airbus A320neo a su flota?",
-    "options": [
-      "2015",
-      "2018",
-      "2020"
-    ],
-    "answer": "2018"
-  },
-  {
     "question": "¿Qué jugador paraguayo fue apodado \"El Mago\"?",
     "options": [
       "Roque Santa Cruz",
@@ -1628,15 +817,6 @@
       "Rubén Darío Ramírez"
     ],
     "answer": "José Luis Chilavert"
-  },
-  {
-    "question": "¿Qué servicio ofrece Avianca para acumular millas mientras compras en tiendas aliadas?",
-    "options": [
-      "Life Miles Shopping",
-      "Avianca Store",
-      "Miles Plus"
-    ],
-    "answer": "Life Miles Shopping"
   },
   {
     "question": "¿Quién fue el máximo goleador de la CONMEBOL Libertadores 2022?",
@@ -1648,15 +828,6 @@
     "answer": "Gabigol"
   },
   {
-    "question": "¿Qué país europeo, además de España, cuenta con vuelos directos de Avianca?",
-    "options": [
-      "Francia",
-      "Italia",
-      "Alemania"
-    ],
-    "answer": "Francia"
-  },
-  {
     "question": "¿En qué año se jugó la primera final única de la CONMEBOL Sudamericana?",
     "options": [
       "2019",
@@ -1664,15 +835,6 @@
       "2021"
     ],
     "answer": "2019"
-  },
-  {
-    "question": "¿Qué destino colombiano es conocido como \"la arenosa\"?",
-    "options": [
-      "Cartagena",
-      "Barranquilla",
-      "Santa Marta"
-    ],
-    "answer": "Barranquilla"
   },
   {
     "question": "¿Qué club colombiano se consagró campeón de la CONMEBOL Sudamericana en 2015?",
@@ -1684,15 +846,6 @@
     "answer": "Independiente Santa Fe"
   },
   {
-    "question": "¿Qué alianza global permite a Avianca conectar con más de 1.200 destinos?",
-    "options": [
-      "Star Alliance",
-      "Oneworld",
-      "SkyTeam"
-    ],
-    "answer": "Star Alliance"
-  },
-  {
     "question": "¿Qué club brasileño ganó la CONMEBOL Libertadores en 2022?",
     "options": [
       "Flamengo",
@@ -1700,15 +853,6 @@
       "Gremio"
     ],
     "answer": "Flamengo"
-  },
-  {
-    "question": "¿Qué año Avianca inauguró vuelos a Los Ángeles?",
-    "options": [
-      "1965",
-      "1972",
-      "1980"
-    ],
-    "answer": "1972"
   },
   {
     "question": "¿Quién es conocido como \"El Maestro\" en el fútbol uruguayo?",
@@ -1720,15 +864,6 @@
     "answer": "Óscar Washington Tabárez"
   },
   {
-    "question": "¿Qué ciudad de Brasil Avianca conecta con Bogotá en 2025?",
-    "options": [
-      "São Paulo",
-      "Río de Janeiro",
-      "Belo Horizonte"
-    ],
-    "answer": "São Paulo"
-  },
-  {
     "question": "¿Cuál fue la primera ciudad fuera de Sudamérica en albergar una final de CONMEBOL Libertadores?",
     "options": [
       "Madrid",
@@ -1736,15 +871,6 @@
       "México D.F."
     ],
     "answer": "Madrid"
-  },
-  {
-    "question": "¿Qué aplicación móvil permite acumular millas con actividades diarias?",
-    "options": [
-      "LifeMiles App",
-      "Avianca Digital",
-      "Miles Tracker"
-    ],
-    "answer": "LifeMiles App"
   },
   {
     "question": "¿Qué club argentino ganó la CONMEBOL en 1999?",
@@ -1756,15 +882,6 @@
     "answer": "Talleres de Córdoba"
   },
   {
-    "question": "¿En qué año inició operaciones Avianca?",
-    "options": [
-      "1919",
-      "1925",
-      "1932"
-    ],
-    "answer": "1919"
-  },
-  {
     "question": "¿Cuál es el clásico más antiguo del fútbol paraguayo?",
     "options": [
       "Cerro Porteño vs. Olimpia",
@@ -1772,15 +889,6 @@
       "Olimpia vs. Nacional"
     ],
     "answer": "Cerro Porteño vs. Olimpia"
-  },
-  {
-    "question": "¿Avianca ostenta el título de ser la aerolínea más antigua de América?",
-    "options": [
-      "Verdadero",
-      "Falso",
-      "No confirmado"
-    ],
-    "answer": "Verdadero"
   },
   {
     "question": "¿Qué club ecuatoriano llegó a la final de la CONMEBOL Libertadores en 2016?",
@@ -1792,15 +900,6 @@
     "answer": "Independiente del Valle"
   },
   {
-    "question": "¿En qué país se fundó Avianca?",
-    "options": [
-      "Ecuador",
-      "Colombia",
-      "Perú"
-    ],
-    "answer": "Colombia"
-  },
-  {
     "question": "¿Quién es el arquero con más penales atajados en la historia de la CONMEBOL Libertadores?",
     "options": [
       "Ever Hugo Almeida",
@@ -1808,15 +907,6 @@
       "Franco Armani"
     ],
     "answer": "Rogério Ceni"
-  },
-  {
-    "question": "¿Cuál es el aeropuerto más importante de Avianca en Colombia?",
-    "options": [
-      "El Dorado (Bogotá)",
-      "José María Córdova (Medellín)",
-      "Alfonso Bonilla Aragón (Cali)"
-    ],
-    "answer": "El Dorado (Bogotá)"
   },
   {
     "question": "¿Qué jugador colombiano anotó el gol del título en la CONMEBOL Libertadores 1989?",
@@ -1828,15 +918,6 @@
     "answer": "Andrés Escobar"
   },
   {
-    "question": "¿Dónde se encuentra la sede corporativa de Avianca?",
-    "options": [
-      "Medellín",
-      "Bogotá",
-      "Cali"
-    ],
-    "answer": "Bogotá"
-  },
-  {
     "question": "¿Qué club brasileño fue bicampeón consecutivo de la CONMEBOL Libertadores en 2019 y 2020?",
     "options": [
       "Palmeiras",
@@ -1844,15 +925,6 @@
       "Santos"
     ],
     "answer": "Palmeiras"
-  },
-  {
-    "question": "¿Avianca conecta con cuántos países actualmente?",
-    "options": [
-      "Más de 25",
-      "Entre 8 y 10",
-      "Entre 10 y 20"
-    ],
-    "answer": "Más de 25"
   },
   {
     "question": "¿Qué club argentino fue el primero en consagrarse campeón de la CONMEBOL Sudamericana en 2002?",
@@ -1864,15 +936,6 @@
     "answer": "San Lorenzo"
   },
   {
-    "question": "¿Cuál es el color principal que identifica a Avianca?",
-    "options": [
-      "Azul",
-      "Rojo",
-      "Verde"
-    ],
-    "answer": "Rojo"
-  },
-  {
     "question": "¿Qué equipo paraguayo es reconocido como \"El Decano\" y cuenta con tres títulos de la CONMEBOL Libertadores?",
     "options": [
       "Cerro Porteño",
@@ -1880,15 +943,6 @@
       "Libertad"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "¿Qué ave aparece en el logotipo de Avianca?",
-    "options": [
-      "Cóndor",
-      "Águila",
-      "Colibrí"
-    ],
-    "answer": "Cóndor"
   },
   {
     "question": "¿Qué jugador ostenta el récord de máximo goleador en la historia de la CONMEBOL Sudamericana?",
@@ -1900,15 +954,6 @@
     "answer": "Hernán Barcos"
   },
   {
-    "question": "¿Avianca realiza vuelos domésticos en Ecuador?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo en temporada"
-    ],
-    "answer": "Sí"
-  },
-  {
     "question": "¿En qué año comenzó a disputarse la CONMEBOL Sudamericana?",
     "options": [
       "2002",
@@ -1916,15 +961,6 @@
       "2006"
     ],
     "answer": "2002"
-  },
-  {
-    "question": "¿Cuántos años cumplió Avianca en 2024?",
-    "options": [
-      "80",
-      "100",
-      "105"
-    ],
-    "answer": "105"
   },
   {
     "question": "¿Qué equipo argentino fue el primer campeón de la CONMEBOL Sudamericana?",
@@ -1936,15 +972,6 @@
     "answer": "San Lorenzo"
   },
   {
-    "question": "¿Cuál fue el nombre original de la compañía antes de llamarse Avianca?",
-    "options": [
-      "SCADTA",
-      "LANSA",
-      "Aerocóndor"
-    ],
-    "answer": "SCADTA"
-  },
-  {
     "question": "¿Qué club brasileño conquistó la CONMEBOL Sudamericana en 2008?",
     "options": [
       "Internacional de Porto Alegre",
@@ -1952,15 +979,6 @@
       "Goiás"
     ],
     "answer": "Internacional de Porto Alegre"
-  },
-  {
-    "question": "¿Qué ofrece el programa \"Stopover Bogotá\"?",
-    "options": [
-      "Dormir en el aeropuerto",
-      "Conocer Bogotá durante una conexión",
-      "Acceder a salas VIP sin costo"
-    ],
-    "answer": "Conocer Bogotá durante una conexión"
   },
   {
     "question": "¿Qué club ecuatoriano ganó la CONMEBOL Sudamericana en 2009?",
@@ -1972,15 +990,6 @@
     "answer": "LDU Quito"
   },
   {
-    "question": "¿Qué certificación ambiental obtuvo Avianca en 2023?",
-    "options": [
-      "ISO 9001",
-      "ISO 14064-3",
-      "ISO 26000"
-    ],
-    "answer": "ISO 14064-3"
-  },
-  {
     "question": "¿Qué futbolista argentino fue figura en el título de San Lorenzo en la CONMEBOL Sudamericana 2002?",
     "options": [
       "Sebastián Saja",
@@ -1988,15 +997,6 @@
       "Bernardo Romeo"
     ],
     "answer": "Bernardo Romeo"
-  },
-  {
-    "question": "¿Existe un vuelo directo de Avianca hacia Londres?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo vía conexión"
-    ],
-    "answer": "Sí"
   },
   {
     "question": "¿Qué equipo colombiano alzó la CONMEBOL Sudamericana en 2015?",
@@ -2008,15 +1008,6 @@
     "answer": "Independiente Santa Fe"
   },
   {
-    "question": "¿Qué ciudad del norte de Brasil se sumó como nuevo destino de Avianca en 2025?",
-    "options": [
-      "Fortaleza",
-      "Belém",
-      "Manaos"
-    ],
-    "answer": "Manaos"
-  },
-  {
     "question": "¿Qué club paraguayo llegó a la final de la CONMEBOL Sudamericana 2014?",
     "options": [
       "Libertad",
@@ -2024,15 +1015,6 @@
       "Nacional"
     ],
     "answer": "Nacional"
-  },
-  {
-    "question": "¿Qué es INSIGNIA by Avianca?",
-    "options": [
-      "La nueva Business Class de Avianca hacia Europa",
-      "Un plan de millas",
-      "Un modelo de avión"
-    ],
-    "answer": "La nueva Business Class de Avianca hacia Europa"
   },
   {
     "question": "¿Qué conjunto argentino logró conquistar la CONMEBOL Sudamericana en 2007?",
@@ -2044,15 +1026,6 @@
     "answer": "Arsenal de Sarandí"
   },
   {
-    "question": "¿Avianca tiene vuelos directos de Bogotá a París?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo con escala"
-    ],
-    "answer": "Sí"
-  },
-  {
     "question": "¿Qué institución brasileña obtuvo la CONMEBOL Sudamericana en 2012?",
     "options": [
       "São Paulo FC",
@@ -2060,15 +1033,6 @@
       "Corinthians"
     ],
     "answer": "São Paulo FC"
-  },
-  {
-    "question": "¿Qué ciudad argentina se conecta directamente con Bogotá desde junio 2025?",
-    "options": [
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "answer": "Rosario"
   },
   {
     "question": "¿Qué club peruano alcanzó la final de la CONMEBOL Sudamericana en 2003?",
@@ -2080,15 +1044,6 @@
     "answer": "Cienciano"
   },
   {
-    "question": "¿Cuál es la ciudad estadounidense conocida por su arquitectura y música a la que Avianca vuela desde El Salvador en 2025?",
-    "options": [
-      "Miami",
-      "Chicago",
-      "Atlanta"
-    ],
-    "answer": "Atlanta"
-  },
-  {
     "question": "¿Qué equipo argentino fue bicampeón consecutivo de la CONMEBOL Sudamericana en 2014 y 2015?",
     "options": [
       "River Plate",
@@ -2096,15 +1051,6 @@
       "ninguno, fueron campeones distintos"
     ],
     "answer": "ninguno, fueron campeones distintos"
-  },
-  {
-    "question": "¿Qué ciudad caribeña se enlaza con San José (Costa Rica) desde marzo 2025?",
-    "options": [
-      "San Juan, Puerto Rico",
-      "La Habana",
-      "Punta Cana"
-    ],
-    "answer": "San Juan, Puerto Rico"
   },
   {
     "question": "¿Qué país tuvo al primer campeón no argentino de la CONMEBOL Sudamericana?",
@@ -2116,15 +1062,6 @@
     "answer": "Perú"
   },
   {
-    "question": "¿Avianca opera vuelos directos a Tampa desde Colombia?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo con conexión"
-    ],
-    "answer": "No"
-  },
-  {
     "question": "¿Qué club brasileño ganó la CONMEBOL Sudamericana en 2018?",
     "options": [
       "Corinthians",
@@ -2132,15 +1069,6 @@
       "Flamengo"
     ],
     "answer": "Athletico Paranaense"
-  },
-  {
-    "question": "¿Qué ciudad apodada \"de la eterna primavera\" se conecta con Lima en 2025?",
-    "options": [
-      "Medellín",
-      "Cali",
-      "Pereira"
-    ],
-    "answer": "Medellín"
   },
   {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Sudamericana en 2010?",
@@ -2152,15 +1080,6 @@
     "answer": "Independiente"
   },
   {
-    "question": "¿Qué avión de pasillo único utiliza Avianca en rutas regionales?",
-    "options": [
-      "Airbus A320",
-      "Embraer 190",
-      "Boeing 757"
-    ],
-    "answer": "Airbus A320"
-  },
-  {
     "question": "¿Qué club chileno llegó a la final de la CONMEBOL Sudamericana en 2006?",
     "options": [
       "Colo-Colo",
@@ -2168,15 +1087,6 @@
       "Cobreloa"
     ],
     "answer": "Colo-Colo"
-  },
-  {
-    "question": "¿En qué aeronave se ofrece INSIGNIA Business Class para vuelos a Europa?",
-    "options": [
-      "Boeing 787",
-      "Airbus A319",
-      "Airbus A321"
-    ],
-    "answer": "Boeing 787"
   },
   {
     "question": "¿Qué conjunto argentino levantó la CONMEBOL Sudamericana en 2013?",
@@ -2188,15 +1098,6 @@
     "answer": "Lanús"
   },
   {
-    "question": "¿Qué clases de cabina se encuentran disponibles en el Boeing 787 de Avianca?",
-    "options": [
-      "Solo Economy",
-      "Business, Plus y Economy",
-      "Premium Economy únicamente"
-    ],
-    "answer": "Business, Plus y Economy"
-  },
-  {
     "question": "¿Qué club colombiano fue finalista de la CONMEBOL Sudamericana en 2002?",
     "options": [
       "Atlético Nacional",
@@ -2204,15 +1105,6 @@
       "Atlético Nacional"
     ],
     "answer": "Atlético Nacional"
-  },
-  {
-    "question": "¿Cuántos grados de reclinación tienen los asientos Business en vuelos a Europa?",
-    "options": [
-      "150°",
-      "180°",
-      "120°"
-    ],
-    "answer": "180°"
   },
   {
     "question": "¿Qué equipo paraguayo fue subcampeón de la CONMEBOL Sudamericana en 2019?",
@@ -2224,15 +1116,6 @@
     "answer": "Colón de Santa Fe"
   },
   {
-    "question": "¿Qué servicio incluye Business Class en vuelos dentro de América de más de 3 horas?",
-    "options": [
-      "Snacks",
-      "Almuerzo, cena o desayuno",
-      "Solo bebidas"
-    ],
-    "answer": "Almuerzo, cena o desayuno"
-  },
-  {
     "question": "¿Qué selección ganó la CONMEBOL Libertadores 2021?",
     "options": [
       "Palmeiras",
@@ -2240,15 +1123,6 @@
       "River Plate"
     ],
     "answer": "Palmeiras"
-  },
-  {
-    "question": "¿Qué chef colombiano diseña menús para Business Class en rutas de América?",
-    "options": [
-      "Jorge Rausch",
-      "Álvaro Clavijo",
-      "Harry Sasson"
-    ],
-    "answer": "Álvaro Clavijo"
   },
   {
     "question": "¿Qué club argentino fue finalista de la CONMEBOL Sudamericana en 2019?",
@@ -2260,15 +1134,6 @@
     "answer": "Colón de Santa Fe"
   },
   {
-    "question": "¿Qué servicio de entretenimiento permite ver películas en tu celular durante el vuelo?",
-    "options": [
-      "Avianca On Air",
-      "Sky Entertainment",
-      "Cloud Cinema"
-    ],
-    "answer": "Avianca On Air"
-  },
-  {
     "question": "¿Qué institución brasileña ha sido tricampeona de la CONMEBOL Libertadores en el siglo XXI?",
     "options": [
       "São Paulo",
@@ -2276,15 +1141,6 @@
       "Corinthians"
     ],
     "answer": "São Paulo"
-  },
-  {
-    "question": "¿Cuál es la medida máxima permitida para el equipaje de mano?",
-    "options": [
-      "55 x 40 x 25 cm",
-      "45 x 35 x 20 cm",
-      "50 x 40 x 20 cm"
-    ],
-    "answer": "55 x 40 x 25 cm"
   },
   {
     "question": "¿Qué club colombiano fue campeón de la CONMEBOL Sudamericana en 2004?",
@@ -2296,15 +1152,6 @@
     "answer": "Cienciano"
   },
   {
-    "question": "• ¿Cuál es el peso máximo de equipaje de mano permitido por Avianca?",
-    "options": [
-      "8 kg",
-      "10 kg",
-      "12 kg"
-    ],
-    "answer": "10 kg"
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Sudamericana en 2014?",
     "options": [
       "Independiente",
@@ -2312,15 +1159,6 @@
       "Racing"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "¿Es posible transportar tablas de surf en bodega con Avianca?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo con pago adicional"
-    ],
-    "answer": "Sí"
   },
   {
     "question": "¿Qué club brasileño levantó la CONMEBOL Sudamericana en 2021?",
@@ -2332,15 +1170,6 @@
     "answer": "Athletico Paranaense"
   },
   {
-    "question": "¿Cuántas maletas de 32 kg están incluidas en Business Class?",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "2"
-  },
-  {
     "question": "¿Qué equipo argentino obtuvo la CONMEBOL Sudamericana en 2005?",
     "options": [
       "Boca Juniors",
@@ -2348,15 +1177,6 @@
       "Independiente"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Avianca dispone de salas VIP en Miami?",
-    "options": [
-      "Sí",
-      "No",
-      "Solo para socios Diamond"
-    ],
-    "answer": "No"
   },
   {
     "question": "¿Qué club brasileño logró la CONMEBOL Libertadores en 2019?",
@@ -2368,15 +1188,6 @@
     "answer": "Flamengo"
   },
   {
-    "question": "¿Qué servicio permite abordar antes que los demás pasajeros?",
-    "options": [
-      "Check-in online",
-      "Abordaje prioritario",
-      "Fast Track"
-    ],
-    "answer": "Abordaje prioritario"
-  },
-  {
     "question": "¿Qué club argentino fue el campeón de la CONMEBOL Sudamericana 2020?",
     "options": [
       "Lanús",
@@ -2384,15 +1195,6 @@
       "Independiente"
     ],
     "answer": "Defensa y Justicia"
-  },
-  {
-    "question": "¿Qué tipo de asientos tiene el Airbus A320 en las filas 1 a 3?",
-    "options": [
-      "Economy",
-      "Premium",
-      "Plus"
-    ],
-    "answer": "Premium"
   },
   {
     "question": "¿Qué equipo brasileño levantó la CONMEBOL Libertadores en 2020?",
@@ -2404,15 +1206,6 @@
     "answer": "Palmeiras"
   },
   {
-    "question": "¿Cómo se llama el programa de fidelización de Avianca?",
-    "options": [
-      "Avianca Miles",
-      "LifeMiles",
-      "Avianca Rewards"
-    ],
-    "answer": "LifeMiles"
-  },
-  {
     "question": "¿Qué conjunto argentino fue campeón de la CONMEBOL Sudamericana en 2008?",
     "options": [
       "San Lorenzo",
@@ -2420,15 +1213,6 @@
       "Internacional de Porto Alegre"
     ],
     "answer": "Internacional de Porto Alegre"
-  },
-  {
-    "question": "¿Qué nivel sigue por encima de Gold en LifeMiles?",
-    "options": [
-      "Silver",
-      "Diamond",
-      "Concierge"
-    ],
-    "answer": "Diamond"
   },
   {
     "question": "¿Qué club paraguayo alcanzó la final de la CONMEBOL Libertadores en 2014?",
@@ -2440,15 +1224,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "¿Qué beneficio tienen los socios Diamond en los Avianca Lounges?",
-    "options": [
-      "Acceso ilimitado",
-      "20 entradas al año",
-      "10 entradas al año"
-    ],
-    "answer": "Acceso ilimitado"
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Sudamericana en 2017?",
     "options": [
       "Independiente",
@@ -2456,15 +1231,6 @@
       "Lanús"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "¿En qué año recibió Avianca la verificación de huella de carbono?",
-    "options": [
-      "2022",
-      "2023",
-      "2024"
-    ],
-    "answer": "2023"
   },
   {
     "question": "¿Qué club brasileño fue campeón de la CONMEBOL Libertadores en 2017?",
@@ -2476,15 +1242,6 @@
     "answer": "Gremio"
   },
   {
-    "question": "¿Hasta cuánto tiempo antes puedes realizar el check-in?",
-    "options": [
-      "90 minutos",
-      "60 min en internacionales / 45 min en nacionales",
-      "30 minutos"
-    ],
-    "answer": "60 min en internacionales / 45 min en nacionales"
-  },
-  {
     "question": "¿Qué equipo argentino fue finalista de la CONMEBOL Libertadores en 2018?",
     "options": [
       "Boca Juniors",
@@ -2492,15 +1249,6 @@
       "Independiente"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Qué pasos debes seguir para usar Avianca On Air?",
-    "options": [
-      "Descargar Netflix",
-      "Conectarte al Wi-Fi \"avianca\" y entrar a aviancaonair.com",
-      "Usar tus datos móviles"
-    ],
-    "answer": "Conectarte al Wi-Fi \"avianca\" y entrar a aviancaonair.com"
   },
   {
     "question": "¿Qué institución brasileña ganó la CONMEBOL Sudamericana en 2015?",
@@ -2512,15 +1260,6 @@
     "answer": "Chapecoense"
   },
   {
-    "question": "¿Dónde se consultan los requisitos de viaje y documentos?",
-    "options": [
-      "Blog de viajes",
-      "Sección \"Requisitos para viajar\" en avianca.com",
-      "Cualquier web de Avianca"
-    ],
-    "answer": "Sección \"Requisitos para viajar\" en avianca.com"
-  },
-  {
     "question": "¿Qué club colombiano conquistó la CONMEBOL Libertadores en 2016?",
     "options": [
       "Independiente Santa Fe",
@@ -2528,15 +1267,6 @@
       "Junior"
     ],
     "answer": "Atlético Nacional"
-  },
-  {
-    "question": "¿Qué aplicación permite hacer check-in y recibir notificaciones de vuelo?",
-    "options": [
-      "WhatsApp",
-      "App de Avianca",
-      "TikTok Avianca"
-    ],
-    "answer": "App de Avianca"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 2014?",
@@ -2548,15 +1278,6 @@
     "answer": "San Lorenzo"
   },
   {
-    "question": "¿Qué contenidos ofrece Avianca On Air?",
-    "options": [
-      "Disney+",
-      "HBO Max y F1 TV",
-      "Prime Video"
-    ],
-    "answer": "HBO Max y F1 TV"
-  },
-  {
     "question": "¿Qué institución brasileña ganó la CONMEBOL Libertadores en 2012?",
     "options": [
       "Santos",
@@ -2564,15 +1285,6 @@
       "Internacional"
     ],
     "answer": "Corinthians"
-  },
-  {
-    "question": "¿Cómo se llama el servicio que conecta Avianca con otras aerolíneas para ampliar destinos?",
-    "options": [
-      "Star Fly",
-      "Avianca Connect",
-      "Avianca Max"
-    ],
-    "answer": "Avianca Connect"
   },
   {
     "question": "¿Qué club ecuatoriano se consagró campeón de la CONMEBOL Libertadores en 2008?",
@@ -2584,15 +1296,6 @@
     "answer": "LDU Quito"
   },
   {
-    "question": "¿Cuál es uno de los beneficios de ser Star Alliance Gold?",
-    "options": [
-      "Boletos 2x1",
-      "Comida gratis",
-      "Maleta adicional y acceso a lounges"
-    ],
-    "answer": "Maleta adicional y acceso a lounges"
-  },
-  {
     "question": "¿Qué equipo argentino obtuvo la CONMEBOL Libertadores en 2009?",
     "options": [
       "Vélez Sarsfield",
@@ -2600,15 +1303,6 @@
       "San Lorenzo"
     ],
     "answer": "Vélez Sarsfield"
-  },
-  {
-    "question": "Según Avianca, ¿qué edad define a un bebé?",
-    "options": [
-      "Menor de 3 años",
-      "Menor de 1 año",
-      "Mayor de 10 días y menor de 2 años"
-    ],
-    "answer": "Mayor de 10 días y menor de 2 años"
   },
   {
     "question": "¿Qué club brasileño fue campeón de la CONMEBOL Libertadores en 2013?",
@@ -2620,15 +1314,6 @@
     "answer": "Atlético Mineiro"
   },
   {
-    "question": "¿Cómo se consideran los pasajeros de 2 a 11 años?",
-    "options": [
-      "Adultos",
-      "Niños",
-      "Bebés"
-    ],
-    "answer": "Niños"
-  },
-  {
     "question": "¿Qué equipo paraguayo alcanzó la final de la CONMEBOL Libertadores en 2013?",
     "options": [
       "Olimpia",
@@ -2636,15 +1321,6 @@
       "Guaraní"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "¿Qué debes hacer para solicitar silla de ruedas en Avianca?",
-    "options": [
-      "Pedirla al abordar",
-      "Avisar con antelación (24-48 h); sin costo si es por discapacidad",
-      "Pagar siempre"
-    ],
-    "answer": "Avisar con antelación (24-48 h); sin costo si es por discapacidad"
   },
   {
     "question": "¿Qué institución argentina conquistó la CONMEBOL Libertadores en 2015?",
@@ -2656,15 +1332,6 @@
     "answer": "River Plate"
   },
   {
-    "question": "¿Cuándo abre el check-in online de Avianca?",
-    "options": [
-      "72 h antes",
-      "48 h (24 h si es hacia/desde EE. UU., Puerto Rico o Canadá)",
-      "Solo 12 h antes"
-    ],
-    "answer": "48 h (24 h si es hacia/desde EE. UU., Puerto Rico o Canadá)"
-  },
-  {
     "question": "¿Qué club brasileño logró la CONMEBOL Libertadores en 2010?",
     "options": [
       "Internacional de Porto Alegre",
@@ -2672,15 +1339,6 @@
       "Santos"
     ],
     "answer": "Internacional de Porto Alegre"
-  },
-  {
-    "question": "• ¿Cuánta anticipación recomienda Avianca para llegar al aeropuerto?",
-    "options": [
-      "1 h nacional / 2 h internacional",
-      "2 h nacional / 3 h internacional",
-      "4 h en todos los casos"
-    ],
-    "answer": "2 h nacional / 3 h internacional"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 2018?",
@@ -2692,15 +1350,6 @@
     "answer": "River Plate"
   },
   {
-    "question": "• ¿Cuántas bolsas de Duty Free puedes llevar sin costo adicional?",
-    "options": [
-      "1",
-      "2",
-      "3"
-    ],
-    "answer": "1"
-  },
-  {
     "question": "¿Qué club paraguayo conquistó la CONMEBOL Libertadores en 2002?",
     "options": [
       "Olimpia",
@@ -2708,15 +1357,6 @@
       "Libertad"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "• ¿Qué tarifa de Avianca incluye asiento Plus (según disponibilidad)?",
-    "options": [
-      "Flex",
-      "Classic",
-      "Basic"
-    ],
-    "answer": "Flex"
   },
   {
     "question": "¿Qué institución brasileña fue campeona de la CONMEBOL Libertadores en 2005?",
@@ -2728,15 +1368,6 @@
     "answer": "São Paulo"
   },
   {
-    "question": "• ¿Qué tarifa de Avianca otorga 10 LifeMiles por cada dólar gastado?",
-    "options": [
-      "Business",
-      "Classic",
-      "Flex"
-    ],
-    "answer": "Business"
-  },
-  {
     "question": "¿Qué club brasileño repitió título en la CONMEBOL Libertadores en 2006?",
     "options": [
       "Internacional",
@@ -2744,15 +1375,6 @@
       "Santos"
     ],
     "answer": "Internacional"
-  },
-  {
-    "question": "• ¿Hasta cuándo puedes ofertar para un upgrade a Business Class?",
-    "options": [
-      "Hasta 24 h antes",
-      "Hasta 4 h antes del vuelo",
-      "Solo en el aeropuerto"
-    ],
-    "answer": "Hasta 24 h antes"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 2007?",
@@ -2764,15 +1386,6 @@
     "answer": "Boca Juniors"
   },
   {
-    "question": "• ¿Qué información necesitas para iniciar tu check-in online?",
-    "options": [
-      "Número de pasaporte",
-      "Código de reserva",
-      "Número de asiento"
-    ],
-    "answer": "Código de reserva"
-  },
-  {
     "question": "¿Qué institución brasileña logró la CONMEBOL Libertadores en 2011?",
     "options": [
       "Santos",
@@ -2780,15 +1393,6 @@
       "Palmeiras"
     ],
     "answer": "Santos"
-  },
-  {
-    "question": "• ¿Por qué medio Avianca te notifica cambios en tu itinerario en tiempo real?",
-    "options": [
-      "Solo SMS",
-      "Email y WhatsApp",
-      "Solo por llamada"
-    ],
-    "answer": "Email y WhatsApp"
   },
   {
     "question": "¿Qué club argentino conquistó la CONMEBOL Libertadores en 2003?",
@@ -2800,15 +1404,6 @@
     "answer": "Boca Juniors"
   },
   {
-    "question": "• ¿A qué alianza global pertenece Avianca desde 2012?",
-    "options": [
-      "oneworld",
-      "SkyTeam",
-      "Star Alliance"
-    ],
-    "answer": "Star Alliance"
-  },
-  {
     "question": "¿Qué equipo colombiano alcanzó la final de la CONMEBOL Libertadores en 1996?",
     "options": [
       "América de Cali",
@@ -2816,15 +1411,6 @@
       "Independiente Santa Fe"
     ],
     "answer": "América de Cali"
-  },
-  {
-    "question": "• ¿Qué característica distingue los asientos de INSIGNIA by Avianca?",
-    "options": [
-      "Reclinación de 30°",
-      "Asiento cama (flatbed)",
-      "Reposacabezas ajustable"
-    ],
-    "answer": "Asiento cama (flatbed)"
   },
   {
     "question": "¿Qué institución brasileña fue campeona de la CONMEBOL Libertadores en 1997?",
@@ -2836,15 +1422,6 @@
     "answer": "Cruzeiro"
   },
   {
-    "question": "• ¿Desde cuántos pasajeros se considera una reserva grupal en Avianca?",
-    "options": [
-      "6",
-      "8",
-      "10 o más"
-    ],
-    "answer": "10 o más"
-  },
-  {
     "question": "¿Qué club colombiano logró llegar a la final de la CONMEBOL Libertadores en 1989?",
     "options": [
       "Atlético Nacional",
@@ -2852,15 +1429,6 @@
       "Deportivo Cali"
     ],
     "answer": "Atlético Nacional"
-  },
-  {
-    "question": "• ¿Cuál es el tiempo límite para reclamar equipaje demorado?",
-    "options": [
-      "7 días",
-      "14 días",
-      "21 días luego del vuelo"
-    ],
-    "answer": "21 días luego del vuelo"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 1994?",
@@ -2872,15 +1440,6 @@
     "answer": "Vélez Sarsfield"
   },
   {
-    "question": "• ¿Por cuánto tiempo conserva Avianca los objetos olvidados?",
-    "options": [
-      "1 mes",
-      "2 meses",
-      "6 meses"
-    ],
-    "answer": "2 meses"
-  },
-  {
     "question": "¿Qué institución paraguaya conquistó la CONMEBOL Libertadores en 1979?",
     "options": [
       "Olimpia",
@@ -2888,15 +1447,6 @@
       "Libertad"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "• ¿Qué documentos necesitas para reclamar un objeto olvidado en un avión?",
-    "options": [
-      "Solo número de vuelo",
-      "Documento de identidad y pase de abordar",
-      "Tarjeta de crédito"
-    ],
-    "answer": "Documento de identidad y pase de abordar"
   },
   {
     "question": "¿Qué club uruguayo fue campeón de la CONMEBOL Libertadores en 1988?",
@@ -2908,15 +1458,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "• Según el contrato de transporte, ¿qué debe portar el pasajero?",
-    "options": [
-      "Únicamente pasaporte",
-      "Todos los documentos exigidos: visa, vacunas, etc.",
-      "Solo visa electrónica"
-    ],
-    "answer": "Todos los documentos exigidos: visa, vacunas, etc."
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Libertadores en 1984?",
     "options": [
       "Independiente",
@@ -2924,15 +1465,6 @@
       "Boca Juniors"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• Los dispositivos de movilidad como sillas de ruedas...",
-    "options": [
-      "Se cobran como extra",
-      "Se incluyen en el equipaje permitido",
-      "Solo se aceptan plegables"
-    ],
-    "answer": "Se incluyen en el equipaje permitido"
   },
   {
     "question": "¿Qué club uruguayo logró el título de la CONMEBOL Libertadores en 1987?",
@@ -2944,15 +1476,6 @@
     "answer": "Peñarol"
   },
   {
-    "question": "• ¿Qué es Vianca dentro de Avianca?",
-    "options": [
-      "Un tipo de tarifa",
-      "La asistente virtual en WhatsApp",
-      "Un sistema de pago"
-    ],
-    "answer": "La asistente virtual en WhatsApp"
-  },
-  {
     "question": "¿Qué equipo argentino ganó la CONMEBOL Libertadores en 1986?",
     "options": [
       "River Plate",
@@ -2960,15 +1483,6 @@
       "San Lorenzo"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "• Si compraste tarifa Basic o Light y haces check-in en counter, ¿qué sucede?",
-    "options": [
-      "Está incluido sin costo",
-      "Debes pasar por kiosco primero",
-      "Puede tener un cargo"
-    ],
-    "answer": "Puede tener un cargo"
   },
   {
     "question": "¿Qué institución brasileña conquistó la CONMEBOL Libertadores en 1999?",
@@ -2980,15 +1494,6 @@
     "answer": "Palmeiras"
   },
   {
-    "question": "• ¿En qué año Avianca adoptó oficialmente el nombre de \"Avianca\"?",
-    "options": [
-      "1940",
-      "1935",
-      "1952"
-    ],
-    "answer": "1940"
-  },
-  {
     "question": "¿Qué club paraguayo alcanzó la final de la CONMEBOL Libertadores en 1990?",
     "options": [
       "Olimpia",
@@ -2996,15 +1501,6 @@
       "Guaraní"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "• ¿Qué país europeo cuenta con más de un destino operado por Avianca en 2025?",
-    "options": [
-      "España",
-      "Francia",
-      "Alemania"
-    ],
-    "answer": "España"
   },
   {
     "question": "¿Qué equipo colombiano logró la CONMEBOL Libertadores en 1989?",
@@ -3016,15 +1512,6 @@
     "answer": "Atlético Nacional"
   },
   {
-    "question": "• ¿Qué significan las siglas SCADTA, nombre original de Avianca?",
-    "options": [
-      "Sociedad Colombo Alemana de Transporte Aéreo",
-      "Servicio Comercial Aéreo de Transporte Andino",
-      "Sociedad Colombiana de Aerotransporte"
-    ],
-    "answer": "Sociedad Colombo Alemana de Transporte Aéreo"
-  },
-  {
     "question": "¿Qué club uruguayo fue campeón de la CONMEBOL Libertadores en 1982?",
     "options": [
       "Peñarol",
@@ -3032,15 +1519,6 @@
       "Danubio"
     ],
     "answer": "Peñarol"
-  },
-  {
-    "question": "• ¿Cuál fue el primer destino internacional de Avianca?",
-    "options": [
-      "Lima",
-      "Quito",
-      "Caracas"
-    ],
-    "answer": "Quito"
   },
   {
     "question": "¿Qué institución paraguaya levantó la CONMEBOL Libertadores en 1990?",
@@ -3052,15 +1530,6 @@
     "answer": "Olimpia"
   },
   {
-    "question": "• ¿Cuál fue el primer país sudamericano donde Avianca operó fuera de Colombia?",
-    "options": [
-      "Ecuador",
-      "Perú",
-      "Brasil"
-    ],
-    "answer": "Ecuador"
-  },
-  {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 1978?",
     "options": [
       "Boca Juniors",
@@ -3068,15 +1537,6 @@
       "Independiente"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "• ¿Qué eslogan principal utiliza Avianca en su comunicación?",
-    "options": [
-      "\"Vuela alto\"",
-      "\"Vuela a tu manera\"",
-      "\"La aerolínea de todos\""
-    ],
-    "answer": "\"Vuela a tu manera\""
   },
   {
     "question": "¿Qué club uruguayo logró la CONMEBOL Libertadores en 1983?",
@@ -3088,15 +1548,6 @@
     "answer": "Grêmio"
   },
   {
-    "question": "• ¿En qué año Avianca ingresó a la red global Star Alliance?",
-    "options": [
-      "2010",
-      "2012",
-      "2014"
-    ],
-    "answer": "2012"
-  },
-  {
     "question": "¿Qué institución argentina conquistó la CONMEBOL Libertadores en 1979?",
     "options": [
       "Olimpia",
@@ -3104,15 +1555,6 @@
       "River Plate"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "• ¿Cuál es el hub principal de Avianca en Centroamérica?",
-    "options": [
-      "Ciudad de Panamá",
-      "San Salvador",
-      "Managua"
-    ],
-    "answer": "San Salvador"
   },
   {
     "question": "¿Qué club uruguayo ganó la CONMEBOL Libertadores en 1980?",
@@ -3124,15 +1566,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "• ¿Qué certificación internacional en seguridad operacional tiene Avianca?",
-    "options": [
-      "IOSA",
-      "ISO 22000",
-      "IATA Green"
-    ],
-    "answer": "IOSA"
-  },
-  {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 1981?",
     "options": [
       "Flamengo",
@@ -3140,15 +1573,6 @@
       "Independiente"
     ],
     "answer": "Flamengo"
-  },
-  {
-    "question": "• ¿Cuál es el único hub oficial de Avianca en Colombia?",
-    "options": [
-      "Medellín - José María Córdova",
-      "Cali - Alfonso Bonilla Aragón",
-      "Bogotá - El Dorado"
-    ],
-    "answer": "Bogotá - El Dorado"
   },
   {
     "question": "¿Qué institución uruguaya conquistó la CONMEBOL Libertadores en 1971?",
@@ -3160,15 +1584,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "¿Qué destino de EE. UU., llamado \"la ciudad del sol\", es operado por Avianca?",
-    "options": [
-      "Miami",
-      "Los Angeles",
-      "Houston"
-    ],
-    "answer": "Miami"
-  },
-  {
     "question": "¿Qué club argentino logró el tricampeonato de la CONMEBOL Libertadores en 1964-1965?",
     "options": [
       "Independiente",
@@ -3176,15 +1591,6 @@
       "River Plate"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• ¿Cuál es el código IATA asignado a Avianca?",
-    "options": [
-      "AV",
-      "AC",
-      "AN"
-    ],
-    "answer": "AV"
   },
   {
     "question": "¿Qué equipo uruguayo ganó la CONMEBOL Libertadores en 1966?",
@@ -3196,15 +1602,6 @@
     "answer": "Peñarol"
   },
   {
-    "question": "• ¿Qué servicio permite reservar asientos con espacio adicional para las piernas?",
-    "options": [
-      "Asientos Plus",
-      "Comfort Seats",
-      "Maxi Seats"
-    ],
-    "answer": "Asientos Plus"
-  },
-  {
     "question": "¿Qué club argentino conquistó la CONMEBOL Libertadores en 1967?",
     "options": [
       "Racing Club",
@@ -3212,15 +1609,6 @@
       "Independiente"
     ],
     "answer": "Racing Club"
-  },
-  {
-    "question": "• ¿Qué país centroamericano sirve como hub estratégico de Avianca?",
-    "options": [
-      "Guatemala",
-      "El Salvador",
-      "Honduras"
-    ],
-    "answer": "El Salvador"
   },
   {
     "question": "¿Qué institución uruguaya fue campeona de la CONMEBOL Libertadores en 1971?",
@@ -3232,15 +1620,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "• ¿Cuál fue la primera ciudad europea a la que Avianca voló?",
-    "options": [
-      "París",
-      "Madrid",
-      "Roma"
-    ],
-    "answer": "Madrid"
-  },
-  {
     "question": "¿Qué equipo argentino logró la CONMEBOL Libertadores en 1973?",
     "options": [
       "Independiente",
@@ -3248,15 +1627,6 @@
       "Racing Club"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• ¿Qué destino sudamericano, conocido como \"la ciudad jardín\", conecta Avianca?",
-    "options": [
-      "Viña del Mar",
-      "Medellín",
-      "Guayaquil"
-    ],
-    "answer": "Medellín"
   },
   {
     "question": "¿Qué club argentino fue campeón de la CONMEBOL Libertadores en 1974?",
@@ -3268,15 +1638,6 @@
     "answer": "Independiente"
   },
   {
-    "question": "• ¿Qué aeronave se usa principalmente en vuelos domésticos de Avianca en Colombia?",
-    "options": [
-      "Airbus A320",
-      "Boeing 767",
-      "Embraer 190"
-    ],
-    "answer": "Airbus A320"
-  },
-  {
     "question": "¿Qué institución argentina conquistó la CONMEBOL Libertadores en 1975?",
     "options": [
       "Independiente",
@@ -3284,15 +1645,6 @@
       "Racing Club"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• ¿Cómo se llama la clase ejecutiva en vuelos de larga distancia de Avianca?",
-    "options": [
-      "Premium Business",
-      "INSIGNIA Business Class",
-      "Avianca Executive"
-    ],
-    "answer": "INSIGNIA Business Class"
   },
   {
     "question": "¿Qué equipo argentino obtuvo la CONMEBOL Libertadores en 1977?",
@@ -3304,15 +1656,6 @@
     "answer": "Boca Juniors"
   },
   {
-    "question": "• ¿Qué destino europeo es llamado \"la ciudad luz\" y lo opera Avianca?",
-    "options": [
-      "Roma",
-      "París",
-      "Ámsterdam"
-    ],
-    "answer": "París"
-  },
-  {
     "question": "¿Qué club argentino fue campeón de la CONMEBOL Libertadores en 1972?",
     "options": [
       "Independiente",
@@ -3320,15 +1663,6 @@
       "Estudiantes"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• ¿Qué tipo de menú especial ofrece Avianca a bordo?",
-    "options": [
-      "Menús sin gluten",
-      "Solo menú vegetariano",
-      "No ofrece menús especiales"
-    ],
-    "answer": "Menús sin gluten"
   },
   {
     "question": "¿Qué institución argentina logró el tricampeonato de la CONMEBOL Libertadores entre 1968 y 1970?",
@@ -3340,15 +1674,6 @@
     "answer": "Estudiantes de La Plata"
   },
   {
-    "question": "• ¿El aeropuerto Alfonso Bonilla Aragón se ubica en qué ciudad?",
-    "options": [
-      "Medellín",
-      "Cali",
-      "Barranquilla"
-    ],
-    "answer": "Cali"
-  },
-  {
     "question": "¿Qué club uruguayo conquistó la CONMEBOL Libertadores en 1971?",
     "options": [
       "Nacional",
@@ -3356,15 +1681,6 @@
       "Defensor Sporting"
     ],
     "answer": "Nacional"
-  },
-  {
-    "question": "• ¿En qué año Avianca sumó los Airbus A320neo a su flota?",
-    "options": [
-      "2015",
-      "2018",
-      "2020"
-    ],
-    "answer": "2018"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 1968?",
@@ -3376,15 +1692,6 @@
     "answer": "Estudiantes de La Plata"
   },
   {
-    "question": "• ¿Qué servicio permite ganar millas al comprar en comercios aliados?",
-    "options": [
-      "LifeMiles Shopping",
-      "Avianca Store",
-      "Miles Plus"
-    ],
-    "answer": "LifeMiles Shopping"
-  },
-  {
     "question": "¿Qué club argentino conquistó la CONMEBOL Libertadores en 1969?",
     "options": [
       "Estudiantes de La Plata",
@@ -3392,15 +1699,6 @@
       "Racing"
     ],
     "answer": "Estudiantes de La Plata"
-  },
-  {
-    "question": "• ¿Qué país europeo, además de España, cuenta con vuelos directos de Avianca?",
-    "options": [
-      "Francia",
-      "Italia",
-      "Alemania"
-    ],
-    "answer": "Francia"
   },
   {
     "question": "¿Qué institución argentina repitió título en la CONMEBOL Libertadores en 1970?",
@@ -3412,15 +1710,6 @@
     "answer": "Estudiantes de La Plata"
   },
   {
-    "question": "• ¿Qué ciudad colombiana se conoce como \"la arenosa\"?",
-    "options": [
-      "Cartagena",
-      "Barranquilla",
-      "Santa Marta"
-    ],
-    "answer": "Barranquilla"
-  },
-  {
     "question": "¿Qué equipo argentino obtuvo la CONMEBOL Libertadores en 1963?",
     "options": [
       "Boca Juniors",
@@ -3428,15 +1717,6 @@
       "Racing"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "• ¿Qué alianza global permite a Avianca conectar con más de 1.200 destinos?",
-    "options": [
-      "Star Alliance",
-      "Oneworld",
-      "SkyTeam"
-    ],
-    "answer": "Star Alliance"
   },
   {
     "question": "¿Qué club brasileño fue campeón de la CONMEBOL Libertadores en 1962?",
@@ -3448,15 +1728,6 @@
     "answer": "Santos"
   },
   {
-    "question": "• ¿En qué año Avianca abrió vuelos hacia Los Ángeles?",
-    "options": [
-      "1965",
-      "1972",
-      "1980"
-    ],
-    "answer": "1972"
-  },
-  {
     "question": "¿Qué institución brasileña repitió la CONMEBOL Libertadores en 1963?",
     "options": [
       "Santos",
@@ -3464,15 +1735,6 @@
       "São Paulo"
     ],
     "answer": "Santos"
-  },
-  {
-    "question": "• ¿Qué ciudad brasileña conecta Avianca directamente con Bogotá en 2025?",
-    "options": [
-      "São Paulo",
-      "Río de Janeiro",
-      "Belo Horizonte"
-    ],
-    "answer": "São Paulo"
   },
   {
     "question": "¿Qué equipo uruguayo conquistó la CONMEBOL Libertadores en 1961?",
@@ -3484,15 +1746,6 @@
     "answer": "Peñarol"
   },
   {
-    "question": "• ¿Qué aplicación móvil permite acumular millas con actividades diarias?",
-    "options": [
-      "LifeMiles App",
-      "Avianca Digital",
-      "Miles Tracker"
-    ],
-    "answer": "LifeMiles App"
-  },
-  {
     "question": "¿Qué club uruguayo fue bicampeón consecutivo de la CONMEBOL Libertadores en 1960 y 1961?",
     "options": [
       "Peñarol",
@@ -3500,15 +1753,6 @@
       "River Plate"
     ],
     "answer": "Peñarol"
-  },
-  {
-    "question": "• ¿Qué país fue sede de la fundación original de Avianca bajo SCADTA?",
-    "options": [
-      "Alemania",
-      "Colombia",
-      "Panamá"
-    ],
-    "answer": "Colombia"
   },
   {
     "question": "¿Qué institución paraguaya fue campeona de la CONMEBOL Libertadores en 1990?",
@@ -3520,15 +1764,6 @@
     "answer": "Olimpia"
   },
   {
-    "question": "• ¿Cuál es la aeronave de fuselaje ancho usada en vuelos intercontinentales por Avianca?",
-    "options": [
-      "Boeing 787",
-      "Airbus A320",
-      "Embraer 190"
-    ],
-    "answer": "Boeing 787"
-  },
-  {
     "question": "¿Qué equipo uruguayo obtuvo la CONMEBOL Libertadores en 1979?",
     "options": [
       "Olimpia",
@@ -3536,15 +1771,6 @@
       "Peñarol"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "• ¿Qué nivel de LifeMiles está por encima de Silver?",
-    "options": [
-      "Gold",
-      "Diamond",
-      "Bronze"
-    ],
-    "answer": "Gold"
   },
   {
     "question": "¿Qué club argentino ganó la CONMEBOL Libertadores en 1976?",
@@ -3556,15 +1782,6 @@
     "answer": "Cruzeiro"
   },
   {
-    "question": "• ¿En qué año Avianca celebró su aniversario número 100?",
-    "options": [
-      "2015",
-      "2019",
-      "2021"
-    ],
-    "answer": "2019"
-  },
-  {
     "question": "¿Qué institución brasileña fue campeona de la CONMEBOL Libertadores en 1998?",
     "options": [
       "Vasco da Gama",
@@ -3572,15 +1789,6 @@
       "Corinthians"
     ],
     "answer": "Vasco da Gama"
-  },
-  {
-    "question": "¿En qué año Avianca trasladó su sede principal a Bogotá?",
-    "options": [
-      "1945",
-      "1949",
-      "1952"
-    ],
-    "answer": "1949"
   },
   {
     "question": "¿Qué equipo uruguayo conquistó la CONMEBOL Libertadores en 1988?",
@@ -3592,15 +1800,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "¿Qué modelo de avión integró Avianca en su flota durante la década de 1950 para modernizar sus operaciones?",
-    "options": [
-      "Boeing 247",
-      "Douglas DC-4",
-      "Lockheed L-188"
-    ],
-    "answer": "Douglas DC-4"
-  },
-  {
     "question": "¿Qué club argentino fue campeón de la CONMEBOL Libertadores en 1984?",
     "options": [
       "Independiente",
@@ -3608,15 +1807,6 @@
       "River Plate"
     ],
     "answer": "Independiente"
-  },
-  {
-    "question": "¿Qué servicio internacional consolidó a Avianca como pionera en vuelos de larga distancia en América Latina?",
-    "options": [
-      "Rutas hacia Europa",
-      "Vuelos al Caribe",
-      "Conexiones a Norteamérica"
-    ],
-    "answer": "Rutas hacia Europa"
   },
   {
     "question": "¿Qué institución argentina conquistó la CONMEBOL Libertadores en 1985?",
@@ -3628,15 +1818,6 @@
     "answer": "Argentinos Juniors"
   },
   {
-    "question": "¿Cuál fue la primera ciudad de Europa a la que Avianca voló directamente desde Colombia?",
-    "options": [
-      "Madrid",
-      "París",
-      "Lisboa"
-    ],
-    "answer": "Madrid"
-  },
-  {
     "question": "¿Qué equipo brasileño levantó la CONMEBOL Libertadores en 1993?",
     "options": [
       "São Paulo",
@@ -3644,15 +1825,6 @@
       "Santos"
     ],
     "answer": "São Paulo"
-  },
-  {
-    "question": "¿Qué década marcó la incorporación de los primeros Boeing 747 en Avianca?",
-    "options": [
-      "1960s",
-      "1970s",
-      "1980s"
-    ],
-    "answer": "1970s"
   },
   {
     "question": "¿Qué club brasileño fue bicampeón de la CONMEBOL Libertadores en 1992 y 1993?",
@@ -3664,15 +1836,6 @@
     "answer": "São Paulo"
   },
   {
-    "question": "¿Qué apodo recibía el Boeing 747 de Avianca por su tamaño y capacidad?",
-    "options": [
-      "El Cóndor",
-      "El Jumbo",
-      "El Gigante"
-    ],
-    "answer": "El Jumbo"
-  },
-  {
     "question": "¿Qué institución brasileña conquistó la CONMEBOL Libertadores en 1995?",
     "options": [
       "Grêmio",
@@ -3680,15 +1843,6 @@
       "Santos"
     ],
     "answer": "Grêmio"
-  },
-  {
-    "question": "¿Cuál es la aerolínea más antigua en operación continua en América Latina?",
-    "options": [
-      "Aeroméxico",
-      "Avianca",
-      "Varig"
-    ],
-    "answer": "Avianca"
   },
   {
     "question": "¿Qué equipo argentino ganó la CONMEBOL Libertadores en 1996?",
@@ -3700,15 +1854,6 @@
     "answer": "River Plate"
   },
   {
-    "question": "¿Qué alianza internacional de aerolíneas integra Avianca?",
-    "options": [
-      "Oneworld",
-      "Star Alliance",
-      "SkyTeam"
-    ],
-    "answer": "Star Alliance"
-  },
-  {
     "question": "¿Qué club paraguayo conquistó la CONMEBOL Libertadores en 2002?",
     "options": [
       "Olimpia",
@@ -3716,15 +1861,6 @@
       "Libertad"
     ],
     "answer": "Olimpia"
-  },
-  {
-    "question": "¿Cuál fue el primer destino intercontinental de Avianca fuera de América?",
-    "options": [
-      "Madrid",
-      "Roma",
-      "Londres"
-    ],
-    "answer": "Madrid"
   },
   {
     "question": "¿Qué institución argentina fue campeona de la CONMEBOL Libertadores en 2000?",
@@ -3736,15 +1872,6 @@
     "answer": "Boca Juniors"
   },
   {
-    "question": "¿Qué innovación tecnológica implementó Avianca para mejorar el servicio a bordo en los años 80?",
-    "options": [
-      "Pantallas individuales",
-      "Audio en varios canales",
-      "Conexión Wi-Fi"
-    ],
-    "answer": "Audio en varios canales"
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Libertadores en 2001?",
     "options": [
       "Boca Juniors",
@@ -3752,15 +1879,6 @@
       "Racing"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Qué empresa colombiana se fusionó con Avianca en 2004 para fortalecer su operación nacional?",
-    "options": [
-      "Intercontinental de Aviación",
-      "SAM",
-      "AeroRepública"
-    ],
-    "answer": "AeroRepública"
   },
   {
     "question": "¿Qué club brasileño levantó la CONMEBOL Libertadores en 1999?",
@@ -3772,15 +1890,6 @@
     "answer": "Palmeiras"
   },
   {
-    "question": "¿Qué aerolínea centroamericana se integró a Avianca en 2010, ampliando su presencia regional?",
-    "options": [
-      "TACA",
-      "Copa Airlines",
-      "Lacsa"
-    ],
-    "answer": "TACA"
-  },
-  {
     "question": "¿Qué institución argentina fue campeona de la CONMEBOL Libertadores en 1978?",
     "options": [
       "Boca Juniors",
@@ -3788,15 +1897,6 @@
       "River Plate"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿En qué año Avianca celebró su centenario?",
-    "options": [
-      "2018",
-      "2019",
-      "2020"
-    ],
-    "answer": "2019"
   },
   {
     "question": "¿Qué equipo uruguayo obtuvo la CONMEBOL Libertadores en 1982?",
@@ -3808,15 +1908,6 @@
     "answer": "Peñarol"
   },
   {
-    "question": "¿Cuál fue el lema conmemorativo del centenario de Avianca?",
-    "options": [
-      "100 años volando alto",
-      "Volar nos une",
-      "Siempre contigo"
-    ],
-    "answer": "Volar nos une"
-  },
-  {
     "question": "¿Qué club brasileño conquistó la CONMEBOL Libertadores en 1983?",
     "options": [
       "Grêmio",
@@ -3824,15 +1915,6 @@
       "Flamengo"
     ],
     "answer": "Grêmio"
-  },
-  {
-    "question": "¿Qué país fue sede de la fundación de Avianca en 1919?",
-    "options": [
-      "Colombia",
-      "Panamá",
-      "Alemania"
-    ],
-    "answer": "Colombia"
   },
   {
     "question": "¿Qué institución argentina fue campeona de la CONMEBOL Libertadores en 1986?",
@@ -3844,15 +1926,6 @@
     "answer": "River Plate"
   },
   {
-    "question": "¿Cómo se llamó la primera compañía que dio origen a Avianca en 1919?",
-    "options": [
-      "SCADTA",
-      "SEDTA",
-      "LANSA"
-    ],
-    "answer": "SCADTA"
-  },
-  {
     "question": "¿Qué equipo argentino logró la CONMEBOL Libertadores en 1994?",
     "options": [
       "Vélez Sarsfield",
@@ -3860,15 +1933,6 @@
       "Boca Juniors"
     ],
     "answer": "Vélez Sarsfield"
-  },
-  {
-    "question": "¿Qué tipo de aviones utilizó SCADTA en sus primeros vuelos?",
-    "options": [
-      "Hidroaviones",
-      "Aviones de hélice terrestres",
-      "Planeadores"
-    ],
-    "answer": "Hidroaviones"
   },
   {
     "question": "¿Qué club paraguayo fue campeón de la CONMEBOL Libertadores en 1990?",
@@ -3880,15 +1944,6 @@
     "answer": "Olimpia"
   },
   {
-    "question": "¿Qué río fue clave en los primeros vuelos de Avianca en Colombia?",
-    "options": [
-      "Magdalena",
-      "Cauca",
-      "Atrato"
-    ],
-    "answer": "Magdalena"
-  },
-  {
     "question": "¿Qué institución uruguaya conquistó la CONMEBOL Libertadores en 1987?",
     "options": [
       "Peñarol",
@@ -3896,15 +1951,6 @@
       "River Plate"
     ],
     "answer": "Peñarol"
-  },
-  {
-    "question": "¿Qué característica tenían los pilotos fundadores de SCADTA?",
-    "options": [
-      "Eran mayoritariamente alemanes",
-      "Procedían de Estados Unidos",
-      "Eran en su mayoría colombianos"
-    ],
-    "answer": "Eran mayoritariamente alemanes"
   },
   {
     "question": "¿Qué equipo argentino fue campeón de la CONMEBOL Libertadores en 1985?",
@@ -3916,15 +1962,6 @@
     "answer": "Argentinos Juniors"
   },
   {
-    "question": "¿En qué año Avianca adoptó oficialmente ese nombre?",
-    "options": [
-      "1940",
-      "1945",
-      "1950"
-    ],
-    "answer": "1940"
-  },
-  {
     "question": "¿Qué club brasileño obtuvo la CONMEBOL Libertadores en 1997?",
     "options": [
       "Cruzeiro",
@@ -3932,15 +1969,6 @@
       "Corinthians"
     ],
     "answer": "Cruzeiro"
-  },
-  {
-    "question": "¿Qué significa Avianca?",
-    "options": [
-      "Aerolíneas de Colombia",
-      "Aerovías Nacionales de Colombia",
-      "Aviación Comercial Colombiana"
-    ],
-    "answer": "Aerovías Nacionales de Colombia"
   },
   {
     "question": "¿Qué institución uruguaya conquistó la CONMEBOL Libertadores en 1980?",
@@ -3952,15 +1980,6 @@
     "answer": "Nacional"
   },
   {
-    "question": "¿Cuál fue el primer vuelo nacional de Avianca después de su fundación?",
-    "options": [
-      "Barranquilla - Bogotá",
-      "Barranquilla - Girardot",
-      "Bogotá - Medellín"
-    ],
-    "answer": "Barranquilla - Girardot"
-  },
-  {
     "question": "¿Qué equipo argentino logró la CONMEBOL Libertadores en 2003?",
     "options": [
       "Boca Juniors",
@@ -3968,15 +1987,6 @@
       "Independiente"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Qué ciudad funcionó como base inicial de operaciones de SCADTA?",
-    "options": [
-      "Barranquilla",
-      "Bogotá",
-      "Cartagena"
-    ],
-    "answer": "Barranquilla"
   },
   {
     "question": "¿Qué club argentino fue campeón de la CONMEBOL Libertadores en 2004?",
@@ -3988,15 +1998,6 @@
     "answer": "Once Caldas"
   },
   {
-    "question": "¿Qué material transportaba Avianca además de pasajeros en sus inicios?",
-    "options": [
-      "Correos",
-      "Oro",
-      "Tabaco"
-    ],
-    "answer": "Correos"
-  },
-  {
     "question": "¿Qué institución brasileña conquistó la CONMEBOL Libertadores en 2005?",
     "options": [
       "São Paulo",
@@ -4004,15 +2005,6 @@
       "Santos"
     ],
     "answer": "São Paulo"
-  },
-  {
-    "question": "¿Qué tipo de aeronave fue el Junkers F-13 utilizado por SCADTA?",
-    "options": [
-      "Avión de pasajeros",
-      "Avión militar",
-      "Avión de carga"
-    ],
-    "answer": "Avión de pasajeros"
   },
   {
     "question": "¿Qué equipo brasileño fue bicampeón de la CONMEBOL Libertadores en 2006?",
@@ -4024,15 +2016,6 @@
     "answer": "Internacional"
   },
   {
-    "question": "¿Qué símbolo animal ha acompañado históricamente a Avianca en su imagen?",
-    "options": [
-      "El Aguila",
-      "El Cóndor",
-      "El Halcón"
-    ],
-    "answer": "El Cóndor"
-  },
-  {
     "question": "¿Qué club argentino conquistó la CONMEBOL Libertadores en 2007?",
     "options": [
       "Boca Juniors",
@@ -4040,15 +2023,6 @@
       "Independiente"
     ],
     "answer": "Boca Juniors"
-  },
-  {
-    "question": "¿Qué evento histórico obligó a SCADTA a modificar su estructura en 1939?",
-    "options": [
-      "La Segunda Guerra Mundial",
-      "La Guerra Civil Española",
-      "La Gran Depresión"
-    ],
-    "answer": "La Segunda Guerra Mundial"
   },
   {
     "question": "¿Qué institución ecuatoriana ganó la CONMEBOL Libertadores en 2008?",
@@ -4060,15 +2034,6 @@
     "answer": "LDU Quito"
   },
   {
-    "question": "¿Qué país asumió mayor participación en SCADTA tras la salida de inversionistas alemanes?",
-    "options": [
-      "Colombia",
-      "Estados Unidos",
-      "Panamá"
-    ],
-    "answer": "Estados Unidos"
-  },
-  {
     "question": "¿Qué equipo argentino levantó la CONMEBOL Libertadores en 2009?",
     "options": [
       "Vélez Sarsfield",
@@ -4076,15 +2041,6 @@
       "Racing"
     ],
     "answer": "Vélez Sarsfield"
-  },
-  {
-    "question": "¿Qué presidente colombiano apoyó la creación de Avianca en 1940?",
-    "options": [
-      "Eduardo Santos",
-      "Alfonso López Pumarejo",
-      "Mariano Ospina Pérez"
-    ],
-    "answer": "Eduardo Santos"
   },
   {
     "question": "¿Qué club brasileño conquistó la CONMEBOL Libertadores en 2010?",
@@ -4096,15 +2052,6 @@
     "answer": "Internacional"
   },
   {
-    "question": "¿En qué ciudad Avianca abrió su primer hangar de mantenimiento?",
-    "options": [
-      "Barranquilla",
-      "Bogotá",
-      "Medellín"
-    ],
-    "answer": "Barranquilla"
-  },
-  {
     "question": "¿Qué institución brasileña fue campeona de la CONMEBOL Libertadores en 2011?",
     "options": [
       "Santos",
@@ -4112,15 +2059,6 @@
       "Flamengo"
     ],
     "answer": "Santos"
-  },
-  {
-    "question": "¿Cuál fue la primera ruta internacional de Avianca?",
-    "options": [
-      "Bogotá - Quito",
-      "Bogotá - Caracas",
-      "Bogotá - Panamá"
-    ],
-    "answer": "Bogotá - Quito"
   },
   {
     "question": "¿Qué equipo brasileño levantó la CONMEBOL Libertadores en 2012?",
@@ -4132,15 +2070,6 @@
     "answer": "Corinthians"
   },
   {
-    "question": "¿En qué año Avianca realizó su primer vuelo a Estados Unidos?",
-    "options": [
-      "1946",
-      "1950",
-      "1955"
-    ],
-    "answer": "1946"
-  },
-  {
     "question": "¿Qué club brasileño conquistó la CONMEBOL Libertadores en 2013?",
     "options": [
       "Atlético Mineiro",
@@ -4148,15 +2077,6 @@
       "Palmeiras"
     ],
     "answer": "Atlético Mineiro"
-  },
-  {
-    "question": "¿Qué ciudad de EE. UU. fue el primer destino de Avianca?",
-    "options": [
-      "Miami",
-      "Nueva York",
-      "Houston"
-    ],
-    "answer": "Miami"
   },
   {
     "question": "¿Qué institución argentina fue campeona de la CONMEBOL Libertadores en 2014?",
@@ -4168,15 +2088,6 @@
     "answer": "San Lorenzo"
   },
   {
-    "question": "¿Qué tipo de avión usó Avianca para inaugurar su ruta a EE. UU.?",
-    "options": [
-      "Douglas DC-4",
-      "Boeing 707",
-      "Lockheed Constellation"
-    ],
-    "answer": "Douglas DC-4"
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Libertadores en 2015?",
     "options": [
       "River Plate",
@@ -4184,15 +2095,6 @@
       "Racing"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "¿Qué innovación introdujo Avianca en los años 70 en su servicio a bordo?",
-    "options": [
-      "Menú a la carta",
-      "Pantallas táctiles",
-      "Conexión satelital"
-    ],
-    "answer": "Menú a la carta"
   },
   {
     "question": "¿Qué club colombiano ganó la CONMEBOL Libertadores en 2016?",
@@ -4204,15 +2106,6 @@
     "answer": "Atlético Nacional"
   },
   {
-    "question": "¿Cuál fue la primera aerolínea latinoamericana en operar un Boeing 747?",
-    "options": [
-      "Varig",
-      "Avianca",
-      "Aerolíneas Argentinas"
-    ],
-    "answer": "Avianca"
-  },
-  {
     "question": "¿Qué institución brasileña fue campeona de la CONMEBOL Libertadores en 2017?",
     "options": [
       "Grêmio",
@@ -4222,15 +2115,6 @@
     "answer": "Grêmio"
   },
   {
-    "question": "¿Qué destino europeo consolidó la presencia internacional de Avianca en los años 70?",
-    "options": [
-      "Madrid",
-      "París",
-      "Amsterdam"
-    ],
-    "answer": "París"
-  },
-  {
     "question": "¿Qué equipo argentino conquistó la CONMEBOL Libertadores en 2018?",
     "options": [
       "River Plate",
@@ -4238,15 +2122,6 @@
       "Estudiantes"
     ],
     "answer": "River Plate"
-  },
-  {
-    "question": "¿Qué sistema de reservas electrónico adoptó Avianca en los años 80?",
-    "options": [
-      "Sabre",
-      "Amadeus",
-      "Galileo"
-    ],
-    "answer": "Sabre"
   },
   {
     "question": "¿Qué club brasileño fue bicampeón consecutivo de la CONMEBOL Libertadores en 2020 y 2021?",

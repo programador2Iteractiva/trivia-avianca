@@ -10,12 +10,8 @@ import Timer from "../components/QuestionComponents/Timer";
 import { GameContext } from "../context/GameContext";
 
 function QuestionView() {
-  const {
-    questions,
-    currentQuestionIndex,
-    answerQuestion,
-    gameStarted,
-  } = useContext(GameContext);
+  const { questions, currentQuestionIndex, answerQuestion, gameStarted } =
+    useContext(GameContext);
 
   // 1. Eliminamos el useEffect que llamaba a startGame
 
@@ -47,21 +43,19 @@ function QuestionView() {
           <img src={LogoConcurso} alt="" className="w-2/5" />
         </div>
 
-        <div className="w-full flex items-center justify-end md:hidden">
-          <img
-            src={IconoCirculo}
-            alt="Icono de círculo"
-            className="w-1/6 scale-y-[-1] rotate-45"
-          />
-        </div>
-
         <div className="my-10 text-center">
           <div className="w-full flex justify-center items-center py-5">
             <Timer />
           </div>
           <div>Elige la respuesta correcta:</div>
-          <div className="w-full flex justify-center items-center">
-            <div className="flex flex-col justify-center items-center w-full">
+          <div className="w-full flex justify-center items-center ">
+            <div className="flex flex-col justify-center items-center w-full md:max-w-1/2 relative">
+              <img
+                src={IconoCirculo}
+                alt="Icono de círculo"
+                className="w-1/6 rotate-[125deg] absolute left-0 -top-10 md:-left-10 "
+              />
+
               <Question question={currentQuestion.question} />
 
               <div className="grid grid-cols-2 gap-5 w-full">
@@ -80,6 +74,12 @@ function QuestionView() {
                   </div>
                 ))}
               </div>
+
+              <img
+                src={IconoAvion}
+                alt="Icono de avión"
+                className="w-1/8 rotate-90 absolute right-0 -bottom-10 md:-right-10"
+              />
             </div>
           </div>
           <header className="w-full hidden md:flex justify-center mt-10">
@@ -87,13 +87,6 @@ function QuestionView() {
           </header>
         </div>
 
-        <div className="w-full flex items-center  md:hidden">
-          <img
-            src={IconoAvion}
-            alt="Icono de avión"
-            className="w-1/8 rotate-180 "
-          />
-        </div>
       </main>
 
       <Footer white={false} />

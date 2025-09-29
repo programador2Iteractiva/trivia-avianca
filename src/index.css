@@ -82,7 +82,7 @@
 }
 
 .option {
-  @apply flex items-center border-2 border-secondary w-full p-1 rounded-full
+  @apply flex items-center border-2 border-secondary w-full p-1 rounded-full 
 }
 
 
