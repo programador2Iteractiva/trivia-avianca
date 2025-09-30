@@ -44,10 +44,9 @@ function EndGameView() {
           </div>
 
           <div className="text-xs md:text-xl font-semibold">
-            <div>Te deseamos suerte, nos vemos en la final de la Copa.</div>
-            <div>
-              Conoce si eres uno de los 6 ganadores el 21 de Octubre de 2025.
-            </div>
+            <div>Te deseamos suerte, nos vemos en la final</div>
+            <div>de competición CONMEBOL. Conoce si eres</div>
+            <div>uno de los 6 ganadores el 21 de Octubre de 2025.</div>
           </div>
 
           <div className="p-5">
@@ -59,7 +58,7 @@ function EndGameView() {
           <img
             src={IconoAvion}
             alt="Icono de avión"
-            className="w-1/8 md:w-20 rotate-180 "
+            className="w-1/8 md:w-14 rotate-180 "
           />
         </div>
       </main>

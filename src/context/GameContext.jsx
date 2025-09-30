@@ -13,8 +13,6 @@ export const GameProvider = ({ children }) => {
   const [gameStarted, setGameStarted] = useState(false);
   const [answersLog, setAnswersLog] = useState({}); // 3. Nuevo estado para registrar respuestas
   const navigate = useNavigate();
-
-  console.log("Cantidad de preguntas: ", questions.length)
   
   const { handleSaveLog } = useContext(ApiContext); // 4. Usar el ApiContext
 
