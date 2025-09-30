@@ -33,7 +33,11 @@ function QuestionView() {
   }
 
   return (
-    <div className="questions-view view">
+    <div className="questions-view view relative">
+      <div className="hidden md:block absolute">
+        <img src={LogoConcurso} alt="" className="w-1/3 m-5" />
+      </div>
+
       <header className="w-full  md:hidden">
         <LogosAvianca white={false} className="w-1/3" />
       </header>
@@ -86,7 +90,6 @@ function QuestionView() {
             <LogosAvianca white={false} className="w-1/3" />
           </header>
         </div>
-
       </main>
 
       <Footer white={false} />

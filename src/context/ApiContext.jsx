@@ -9,9 +9,8 @@ export const ApiProvider = ({ children }) => {
   const [ranking, setRanking] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [alert, setAlert] = useState(null); // Nuevo estado para la alerta
+  const [alert, setAlert] = useState(null);
 
-  // 1. Al cargar la aplicación, se limpia todo el localStorage.
   useEffect(() => {
     localStorage.clear();
   }, []);
@@ -31,7 +30,7 @@ export const ApiProvider = ({ children }) => {
     } catch (err) {
       setError(err);
       console.log("Este es el error que voy a mostrar: " + err)
-      setAlert('Hubo un error al registrar tus datos. Por favor, inténtalo de nuevo.'); // Mostrar alerta
+      setAlert('Hubo un error al registrar tus datos. Por favor, inténtalo de nuevo.');
       throw err;
     } finally {
       setLoading(false);
@@ -62,13 +61,12 @@ export const ApiProvider = ({ children }) => {
       };
       const data = await saveUserActionLog(formattedLogData, currentToken);
       
-      // 2. Después de guardar el puntaje, se limpia el localStorage.
       handleLogout();
       
       return data;
     } catch (err) {
       setError(err);
-      setAlert('Ocurrió un error al guardar tu puntuación.'); // Mostrar alerta
+      setAlert('Ocurrió un error al guardar tu puntuación.');
       throw err;
     } finally {
       setLoading(false);
@@ -79,12 +77,22 @@ export const ApiProvider = ({ children }) => {
     setLoading(true);
     setError(null);
     try {
-      const data = await getRanking();
-      setRanking(data);
-      return data;
+      const response = await getRanking();
+      
+      // Corregido: Verificamos si la respuesta es un array o si lo contiene en una propiedad
+      if (Array.isArray(response)) {
+        setRanking(response);
+      } else if (response && Array.isArray(response.data)) {
+        setRanking(response.data);
+      } else {
+        // En caso de que el formato no sea el esperado
+        console.error("Los datos del ranking no son un array válido.");
+        setRanking([]);
+      }
     } catch (err) {
       setError(err);
-      setAlert('No se pudo cargar el ranking.'); // Mostrar alerta
+      setAlert('No se pudo cargar el ranking.');
+      setRanking([]); // Importante: Limpiar el ranking en caso de error
       throw err;
     } finally {
       setLoading(false);
@@ -99,12 +107,12 @@ export const ApiProvider = ({ children }) => {
         ranking,
         loading, 
         error, 
-        alert, // Pasar el estado de la alerta
+        alert,
         handleRegister,
         handleSaveLog,
         handleGetRanking,
         handleLogout,
-        clearAlert, // Pasar la función para limpiar la alerta
+        clearAlert,
         isAuthenticated: !!token
       }}
     >

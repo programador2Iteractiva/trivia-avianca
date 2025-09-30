@@ -3,9 +3,8 @@ import { ApiContext } from '../context/ApiContext';
 import LogosAvianca from '../components/LogosAvianca';
 import Footer from '../components/utils/Footer';
 import LogoConcurso from "../assets/mobile/LogoConcursoFondo.png";
-import * as XLSX from 'xlsx'; // 1. Importar la librería xlsx
+import * as XLSX from 'xlsx';
 
-// (La función formatTimestamp sigue siendo la misma)
 const formatTimestamp = (isoString) => {
   if (!isoString) return 'N/A';
   try {
@@ -23,7 +22,6 @@ const formatTimestamp = (isoString) => {
   }
 };
 
-
 function RankingView() {
   const { ranking, loading, error, handleGetRanking } = useContext(ApiContext);
 
@@ -40,7 +38,7 @@ function RankingView() {
   }, []);
   
   const filteredRanking = useMemo(() => {
-    return ranking.filter(player => {
+    return (ranking || []).filter(player => {
       const matchPreference = preferenceFilter ? player.preference === preferenceFilter : true;
       const matchReservation = reservationFilter ? player.reservation.toLowerCase().includes(reservationFilter.toLowerCase()) : true;
       const matchDni = dniFilter ? player.dni.toLowerCase().includes(dniFilter.toLowerCase()) : true;
@@ -60,9 +58,9 @@ function RankingView() {
     setCurrentPage(1);
   }, [preferenceFilter, reservationFilter, dateFilter, dniFilter]);
   
-  // 2. Función para manejar la descarga del archivo XLSX
   const handleDownloadXLSX = () => {
-    // Preparar los datos para la exportación (usamos los datos ya filtrados)
+    if (filteredRanking.length === 0) return;
+
     const dataToExport = filteredRanking.map(player => ({
       'Posición': player.position,
       'Reservación': player.reservation,
@@ -80,10 +78,8 @@ function RankingView() {
     const workbook = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(workbook, worksheet, "Ranking");
     
-    // Disparar la descarga
     XLSX.writeFile(workbook, "ranking_trivia.xlsx");
   };
-
 
   if (loading) {
     return <div className="view flex items-center justify-center"><p>Cargando ranking...</p></div>;
@@ -91,6 +87,25 @@ function RankingView() {
 
   if (error) {
     return <div className="view flex items-center justify-center"><p>Error al cargar el ranking. Por favor, intenta de nuevo.</p></div>;
+  }
+
+  if (filteredRanking.length === 0) {
+    return (
+      <div className="rules-view view flex flex-col items-center justify-center p-4">
+        <header className="w-full md:py-8">
+          <LogosAvianca white={false} className="w-1/3 mx-auto" />
+        </header>
+        <main className="flex-1 flex flex-col items-center justify-center">
+          <img src={LogoConcurso} alt="Logo del concurso" className="w-2/5 md:w-1/6 mb-4" />
+          <h1 className="text-3xl font-bold text-primary my-6 text-center">Ranking de Jugadores</h1>
+          <h2 className="text-2xl font-semibold text-gray-700 mb-4 text-center">¡No hay datos para mostrar!</h2>
+          <p className="text-gray-500 text-center">
+            No se encontraron jugadores que coincidan con los filtros seleccionados o el ranking está vacío.
+          </p>
+        </main>
+        <Footer white={false} />
+      </div>
+    );
   }
 
   return (
@@ -104,36 +119,35 @@ function RankingView() {
         <h1 className="text-3xl font-bold text-primary my-6">Ranking de Jugadores</h1>
         
         <div className="w-full max-w-7xl mb-4 p-4 bg-gray-50 rounded-lg shadow-md flex flex-wrap gap-4 items-center">
-            <h2 className="text-lg font-semibold text-gray-700 w-full md:w-auto">Filtros</h2>
-            <div className='flex-1 min-w-[150px]'>
-                <label htmlFor="preference" className="block text-sm font-medium text-gray-700">Preferencia</label>
-                <select id="preference" value={preferenceFilter} onChange={e => setPreferenceFilter(e.target.value)} className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-md">
-                    <option value="">Todas</option>
-                    <option value="libertadores">Libertadores</option>
-                    <option value="sudamericana">Sudamericana</option>
-                </select>
-            </div>
-             <div className='flex-1 min-w-[150px]'>
-                <label htmlFor="reservation" className="block text-sm font-medium text-gray-700">Reservación</label>
-                <input type="text" id="reservation" value={reservationFilter} onChange={e => setReservationFilter(e.target.value)} placeholder="Buscar por reserva..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
-            </div>
-            <div className='flex-1 min-w-[150px]'>
-                <label htmlFor="dni" className="block text-sm font-medium text-gray-700">Cedula</label>
-                <input type="text" id="dni" value={dniFilter} onChange={e => setDniFilter(e.target.value)} placeholder="Buscar por Cedula..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
-            </div>
-             <div className='flex-1 min-w-[150px]'>
-                <label htmlFor="date" className="block text-sm font-medium text-gray-700">Fecha</label>
-                <input type="date" id="date" value={dateFilter} onChange={e => setDateFilter(e.target.value)} className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
-            </div>
-            {/* 3. Botón para descargar el archivo */}
-            <div className="w-full md:w-auto flex items-end">
-                <button 
-                    onClick={handleDownloadXLSX}
-                    className="w-full md:w-auto mt-1 px-4 py-2 text-sm font-medium text-white bg-green-600 rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500"
-                >
-                    Descargar XLSX
-                </button>
-            </div>
+          <h2 className="text-lg font-semibold text-gray-700 w-full md:w-auto">Filtros</h2>
+          <div className='flex-1 min-w-[150px]'>
+            <label htmlFor="preference" className="block text-sm font-medium text-gray-700">Preferencia</label>
+            <select id="preference" value={preferenceFilter} onChange={e => setPreferenceFilter(e.target.value)} className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm rounded-md">
+              <option value="">Todas</option>
+              <option value="libertadores">Libertadores</option>
+              <option value="sudamericana">Sudamericana</option>
+            </select>
+          </div>
+          <div className='flex-1 min-w-[150px]'>
+            <label htmlFor="reservation" className="block text-sm font-medium text-gray-700">Reservación</label>
+            <input type="text" id="reservation" value={reservationFilter} onChange={e => setReservationFilter(e.target.value)} placeholder="Buscar por reserva..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
+          </div>
+          <div className='flex-1 min-w-[150px]'>
+            <label htmlFor="dni" className="block text-sm font-medium text-gray-700">Cedula</label>
+            <input type="text" id="dni" value={dniFilter} onChange={e => setDniFilter(e.target.value)} placeholder="Buscar por Cedula..." className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
+          </div>
+          <div className='flex-1 min-w-[150px]'>
+            <label htmlFor="date" className="block text-sm font-medium text-gray-700">Fecha</label>
+            <input type="date" id="date" value={dateFilter} onChange={e => setDateFilter(e.target.value)} className="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-primary focus:border-primary sm:text-sm" />
+          </div>
+          <div className="w-full md:w-auto flex items-end">
+            <button 
+              onClick={handleDownloadXLSX}
+              className="w-full md:w-auto mt-1 px-4 py-2 text-sm font-medium text-white bg-green-600 rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500"
+            >
+              Descargar XLSX
+            </button>
+          </div>
         </div>
 
         <div className="w-full max-w-7xl overflow-x-auto">
@@ -172,23 +186,23 @@ function RankingView() {
         </div>
 
         <div className="flex items-center justify-between w-full max-w-7xl mt-4">
-            <span className="text-sm text-gray-700">
-                Página <span className="font-semibold">{currentPage}</span> de <span className="font-semibold">{totalPages}</span>
-            </span>
-            <div className="inline-flex mt-2 xs:mt-0">
-                <button 
-                    onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))} 
-                    disabled={currentPage === 1}
-                    className="px-4 py-2 text-sm font-medium text-white bg-primary rounded-l hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed">
-                    Anterior
-                </button>
-                <button 
-                    onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
-                    disabled={currentPage === totalPages || totalPages === 0}
-                    className="px-4 py-2 text-sm font-medium text-white bg-primary rounded-r border-0 border-l border-white hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed">
-                    Siguiente
-                </button>
-            </div>
+          <span className="text-sm text-gray-700">
+            Página <span className="font-semibold">{currentPage}</span> de <span className="font-semibold">{totalPages}</span>
+          </span>
+          <div className="inline-flex mt-2 xs:mt-0">
+            <button 
+              onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))} 
+              disabled={currentPage === 1}
+              className="px-4 py-2 text-sm font-medium text-white bg-primary rounded-l hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed">
+              Anterior
+            </button>
+            <button 
+              onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
+              disabled={currentPage === totalPages || totalPages === 0}
+              className="px-4 py-2 text-sm font-medium text-white bg-primary rounded-r border-0 border-l border-white hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed">
+              Siguiente
+            </button>
+          </div>
         </div>
       </main>
 

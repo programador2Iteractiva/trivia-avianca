@@ -16,20 +16,19 @@ function EndGameView() {
         <LogosAvianca white={false} className="w-1/3" />
       </header>
 
-      <main className="w-full flex-1 flex flex-col items-center justify-center p-4 overflow-y-auto">
+      <main className="w-full flex-1 flex flex-col items-center justify-center p-4">
         <div className="flex w-full justify-center">
           <img src={LogoConcurso} alt="" className="w-2/5 md:w-1/8" />
         </div>
 
-        <div className="w-full flex items-center justify-end">
-          <img
-            src={IconoCirculo}
-            alt="Icono de círculo"
-            className="w-1/6 md:w-1/12 scale-y-[-1] rotate-45"
-          />
-        </div>
-
-        <div className="my-10 text-center md:m-0">
+        <div className="my-10 text-center md:m-0 md:max-w-2/5">
+          <div className="w-full flex items-center ">
+            <img
+              src={IconoAvion}
+              alt="Icono de avión"
+              className="w-1/8 md:w-1/6  -rotate-90 "
+            />
+          </div>
           <p className="text-2xl font-bold md:text-4xl">
             Gracias por participar!
           </p>
@@ -52,14 +51,16 @@ function EndGameView() {
           <div className="p-5">
             <BtnLayout type="submit" text="Volver al inicio" to="/" />
           </div>
-        </div>
-
-        <div className="w-full flex items-center ">
-          <img
-            src={IconoAvion}
-            alt="Icono de avión"
-            className="w-1/8 md:w-14 rotate-180 "
-          />
+          <div className="flex justify-center ">
+            <LogosAvianca white={false} className="w-2/5" />
+          </div>
+          <div className="w-full flex items-center justify-end  ">
+            <img
+              src={IconoCirculo}
+              alt="Icono de círculo"
+              className="w-2/8 md:w-2/8 -rotate-45 "
+            />
+          </div>
         </div>
       </main>
 

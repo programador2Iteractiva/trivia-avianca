@@ -9,7 +9,7 @@ import IconoCirculo from "../assets/icons/IconoCirculo.png";
 import { ApiContext } from "../context/ApiContext";
 
 function FormView() {
-  const { handleRegister, loading } = useContext(ApiContext); 
+  const { handleRegister, loading } = useContext(ApiContext);
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
     nombre: "",
@@ -20,7 +20,7 @@ function FormView() {
     competicion: "libertadores",
     terminos: false,
   });
-  
+
   const handleChange = (e) => {
     const { name, value, type, checked } = e.target;
     setFormData((prevData) => ({
@@ -50,7 +50,11 @@ function FormView() {
   };
 
   return (
-    <div className="form-view view">
+    <div className="form-view view relative">
+      <div className="hidden md:block absolute">
+        <img src={LogoConcurso} alt="" className="w-1/3 m-5" />
+      </div>
+
       <header className="flex w-full md:justify-center md:items-center md:py-12">
         <LogosAvianca white={false} className="w-1/3 md:w-1/5" />
       </header>
@@ -175,7 +179,7 @@ function FormView() {
                     Acepto términos y condiciones
                   </label>
                 </div>
-                
+
                 <div className="absolute flex justify-center items-center w-full">
                   <BtnLayout
                     type="submit"
