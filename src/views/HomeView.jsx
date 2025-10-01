@@ -16,7 +16,7 @@ const WelcomeLogos = () => (
     <img
       src={LogoBienvenidos}
       alt="Logo de Bienvenidos al concurso"
-      className="w-1/2 md:w-full"
+      className="w-1/3 md:w-4/5"
     />
   </div>
 );
@@ -25,10 +25,11 @@ const WelcomeCallToAction = () => (
   <div className="flex flex-col justify-center text-center text-lg md:text-3xl text-white gap-5 md:max-w-1/4 md:text-start">
     <div className="md:leading-12 flex relative justify-center w-full">
       <p>
-        Estás por vivir la emoción de <br className="sm:hidden" />
-        ganar entradas de la gran final <br className="sm:hidden" />
-        de <strong>Copa Libertadores</strong> <br className="sm:hidden" />o la{" "}
-        <strong>Copa Sudamericana</strong>
+        Estas por vivir la emoción de volar<br className="sm:hidden" />
+        a las finales de las competiciones <br className="sm:hidden" />
+        <strong>CONMEBOL Libertadores</strong> o <br className="sm:hidden" />
+        <strong>CONMEBOL Sudamericana.</strong> <br />
+        ¡Tu eliges!
       </p>
       <img
         src={IconoAvion}
